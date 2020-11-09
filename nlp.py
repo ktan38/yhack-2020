@@ -12,6 +12,56 @@ text = 'London is a very nice city but I also love Madrid.'
 
 document = 'full-output.txt'
 
+def entity_filter_tags(entities):
+    entity_dict = dict()
+    for entity in entities:
+        topic = topics_response.getTopicForm(entity)
+        ontology = topics_response.getOntoType(entity)
+        num_appear = topics_response.getNumberOfAppearances(entity)
+        tags_list = ontology.split(">")
+
+        # remove "Top"
+        if len(tags_list) > 1:
+            tags_list = tags_list[1:]
+        
+        if topic in entity_dict.keys():
+            continue
+        else:
+            # create new key in dict
+            entity_dict[topic] = [tags_list[0], num_appear]
+    return entity_dict
+
+
+
+def entity_filter_search(entities):
+    entity_dict = dict()
+    for entity in entities:
+        topic = topics_response.getTopicForm(entity)
+        ontology = topics_response.getOntoType(entity)
+        num_appear = topics_response.getNumberOfAppearances(entity)
+        tags_list = ontology.split(">")
+
+        # remove "Top"
+        if len(tags_list) > 1:
+            tags_list = tags_list[1:]
+
+        if "Adm1" in tags_list:
+            tags_list.append("State")
+        # add if already in dict
+        if topic in entity_dict.keys():
+            for tag in tags_list:
+                if tag in entity_dict[topic][0]:
+                    continue
+                else:
+                    entity_dict[topic][0].append(tag)
+            entity_dict[topic][1] += num_appear
+        else:
+            # create new key in dict
+            entity_dict[topic] = [tags_list, num_appear]
+
+    return entity_dict
+
+    
 
 try:
     # We are going to make a request to the Topics Extraction API
@@ -23,11 +73,18 @@ try:
         print("\nThe request to 'Topics Extraction' finished successfully!\n")
 
         entities = topics_response.getEntities()
+        print(entity_filter_search(entities))
+        print("\n")
+        print(entity_filter_tags(entities))
         if entities:
             print("\tEntities detected (" + str(len(entities)) + "):\n")
+
             for entity in entities:
                 print("\t\t" + topics_response.getTopicForm(entity) + ' --> ' +
-                      topics_response.getTypeLastNode(topics_response.getOntoType(entity)) + "\n")
+                      topics_response.getTypeLastNode(topics_response.getOntoType(entity)) + ' --> ' + 
+                      topics_response.getOntoType(entity) + ' --> ' +
+                      str(topics_response.getNumberOfAppearances(entity)) +"\n")
+                
 
         else:
             print("\tNo entities detected!\n")
@@ -37,7 +94,7 @@ try:
         else:
             print("\nOh no! There was the following error: " + topics_response.getStatusMsg() + "\n")
 
-
+# deep categorization api call
     formatted_categories = ''
 
     deepcat_response = meaningcloud.DeepCategorizationResponse(meaningcloud.DeepCategorizationRequest(license_key, model=model, doc= document).sendReq())
@@ -55,7 +112,7 @@ try:
     else:
         print("\tOops! Request to Deep Categorization was not succesful: (" + deepcat_response.getStatusCode() + ') ' + deepcat_response.getStatusMsg())
 
-
+# summary api call
     summary = ''
     print("\tGetting automatic summarization...")
     summarization_response = meaningcloud.SummarizationResponse(meaningcloud.SummarizationRequest(license_key, sentences=4, doc = document).sendReq())
