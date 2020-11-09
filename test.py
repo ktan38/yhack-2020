@@ -1,6 +1,9 @@
 
 import sys
 #TODO: nanos edge case
+from user_timestamp import *
+from datetime import timedelta
+from beg_sentence import *
 
 def transcribe_gcs(gcs_uri):
     """Asynchronously transcribes the audio file specified by the gcs_uri."""
@@ -38,56 +41,15 @@ def transcribe_gcs(gcs_uri):
     response = operation.result(timeout=1000)
 
     
-    with open('full-json.txt', 'w') as f:
+    with open('full-json.json', 'w') as f:
         print(response, file=f)
 
     fulltext = ""
 
-    # beg_word = response.results[1].alternatives[0].words[7]
+    #tester
 
-    # start_time = beg_word.start_time
-    # end_time = beg_word.end_time
-    # print(start_time)
-    # print(end_time)
-    # beg_start = 0
-    # beg_end = 0
-
-    # #TODO: nanos edge case
-    # for result in response.results:
-    #     #test cases
-        
-    #     count = 0
-    #     for word in result.alternatives[0].words:
-    #         count += 1
-    #     flag = False
-    #     for i in range(count):
-    #         cur_entry = result.alternatives[0].words[i]
-    #         print(cur_entry)
-    #         print(beg_word)
-    #         if sameTime(cur_entry.start_time, start_time) and cur_entry.word == beg_word.word and sameTime(cur_entry.end_time, end_time):
-    #             print('hello')
-    #             cur = i
-    #             while (not flag):
-    #                 cur -= 1
-    #                 if cur == -1:
-    #                     flag = True
-    #                 if result.alternatives[0].words[cur].word[-1] == '.':
-    #                     flag = True
-    #             entry = result.alternatives[0].words[cur + 1]
-    #             beg_word = entry.word
-    #             beg_start = entry.start_time
-    #             beg_end = entry.end_time
-
-    #             break
-    #     if flag:
-    #         break
-
-    # print(beg_word)
-    # print(beg_start)
-    # print(beg_end)
-
-    
-
+    sec = timedelta(0,4,0,1)
+    process_timestamp(response, sec)
     # Each result is for a consecutive portion of the audio. Iterate through
     # them to get the transcripts for the entire audio file.
     for result in response.results:
@@ -121,60 +83,7 @@ def transcribe_gcs(gcs_uri):
 
     return response
 
-
-
-
-                
-
-def get_beg_sentence(json, beg_word):
-    response = json
-
-    start_time = beg_word.start_time
-    end_time = beg_word.end_time
-    beg_start = 0
-    beg_end = 0
-    sentence = ""
-
-    #TODO: nanos edge case
-    for result in response.results:
-        #test cases
-        
-        count = 0
-        for word in result.alternatives[0].words:
-            count += 1
-        flag = False
-        for i in range(count):
-            cur_entry = result.alternatives[0].words[i]
-            if cur_entry.start_time == start_time and cur_entry.word == beg_word.word and cur_entry.end_time == end_time:
-                cur = i
-                while (not flag):
-                    cur -= 1
-                    if cur == -1:
-                        flag = True
-                    if result.alternatives[0].words[cur].word[-1] == '.':
-                        flag = True
-
-                cur += 1
-                entry = result.alternatives[0].words[cur]
-                beg_word = entry.word
-                beg_start = entry.start_time
-                beg_end = entry.end_time
-                while entry.word[-1] != '.':
-                    sentence = sentence + " " + entry.word
-                    cur = cur + 1
-                    entry = result.alternatives[0].words[cur]
-                sentence = sentence + " " + entry.word
-
-                break
-        if flag:
-            break
-
-    return (beg_word, beg_start, beg_end, sentence)
-
-
-
-
-response = transcribe_gcs("gs://kt38/trimmed-daily.flac")
+response = transcribe_gcs("gs://yhack_audio/trimmed-daily.flac")
 beg_word = response.results[1].alternatives[0].words[9]
 
 
