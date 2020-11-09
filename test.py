@@ -90,36 +90,40 @@ def transcribe_gcs(gcs_uri):
 
     # Each result is for a consecutive portion of the audio. Iterate through
     # them to get the transcripts for the entire audio file.
-    # for result in response.results:
-    #     # The first alternative is the most likely one for this portion.
-    #     print(u"Transcript: {}".format(result.alternatives[0].transcript))
-    #     fulltext += result.alternatives[0].transcript
-    #     fulltext += "\n\n"
-    #     print("Confidence: {}".format(result.alternatives[0].confidence))
+    for result in response.results:
+        # The first alternative is the most likely one for this portion.
+        print(u"Transcript: {}".format(result.alternatives[0].transcript))
+        fulltext += result.alternatives[0].transcript
+        fulltext += "\n\n"
+        print("Confidence: {}".format(result.alternatives[0].confidence))
 
-    # with open('full-output.txt', 'w') as f:
-    #     print(fulltext, file=f)
+    with open('full-output.txt', 'w') as f:
+        print(fulltext, file=f)
 
-    # speaker_tags = response.results[-1]
-    # with open('full-speakers.txt', 'w') as f:
-    #     curr_speaker = 0
-    #     prev_speaker = speaker_tags.alternatives[0].words[0].speaker_tag
-    #     curr_block = ""
-    #     blocks = []
-    #     for words in speaker_tags.alternatives[0].words:
-    #         curr_speaker = words.speaker_tag
-    #         if curr_speaker != prev_speaker:
+    speaker_tags = response.results[-1]
+    with open('full-speakers.txt', 'w') as f:
+        curr_speaker = 0
+        prev_speaker = speaker_tags.alternatives[0].words[0].speaker_tag
+        curr_block = ""
+        blocks = []
+        for words in speaker_tags.alternatives[0].words:
+            curr_speaker = words.speaker_tag
+            if curr_speaker != prev_speaker:
                 
-    #             blocks.append(curr_block)
-    #             print("\n" + str(prev_speaker), file=f)
-    #             prev_speaker = curr_speaker
-    #             print(curr_block, file=f)
-    #             curr_block = ""
-    #         curr_block = curr_block + " " + words.word
-    #     print("\n" + str(curr_speaker), file=f)
-    #     print(curr_block, file=f)
+                blocks.append(curr_block)
+                print("\n" + str(prev_speaker), file=f)
+                prev_speaker = curr_speaker
+                print(curr_block, file=f)
+                curr_block = ""
+            curr_block = curr_block + " " + words.word
+        print("\n" + str(curr_speaker), file=f)
+        print(curr_block, file=f)
 
-        
+    return response
+
+
+
+
                 
 
 def get_beg_sentence(json, beg_word):
@@ -129,6 +133,7 @@ def get_beg_sentence(json, beg_word):
     end_time = beg_word.end_time
     beg_start = 0
     beg_end = 0
+    sentence = ""
 
     #TODO: nanos edge case
     for result in response.results:
@@ -140,7 +145,7 @@ def get_beg_sentence(json, beg_word):
         flag = False
         for i in range(count):
             cur_entry = result.alternatives[0].words[i]
-            if cur_entry.start_time == start_time and cur_entry.word == beg_word.word and cur_entry.end_time == end_time
+            if cur_entry.start_time == start_time and cur_entry.word == beg_word.word and cur_entry.end_time == end_time:
                 cur = i
                 while (not flag):
                     cur -= 1
@@ -148,18 +153,29 @@ def get_beg_sentence(json, beg_word):
                         flag = True
                     if result.alternatives[0].words[cur].word[-1] == '.':
                         flag = True
-                entry = result.alternatives[0].words[cur + 1]
+
+                cur += 1
+                entry = result.alternatives[0].words[cur]
                 beg_word = entry.word
                 beg_start = entry.start_time
                 beg_end = entry.end_time
+                while entry.word[-1] != '.':
+                    sentence = sentence + " " + entry.word
+                    cur = cur + 1
+                    entry = result.alternatives[0].words[cur]
+                sentence = sentence + " " + entry.word
 
                 break
         if flag:
             break
 
-    return (beg_word, beg_start, beg_end)
+    return (beg_word, beg_start, beg_end, sentence)
 
 
 
 
-transcribe_gcs("gs://kt38/trimmed-daily.flac")
+response = transcribe_gcs("gs://kt38/trimmed-daily.flac")
+beg_word = response.results[1].alternatives[0].words[9]
+
+
+print(get_beg_sentence(response, beg_word))
