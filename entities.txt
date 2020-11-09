@@ -1,0 +1,4108 @@
+Representative name for the entity: Joe Biden
+Entity type: PERSON
+Salience score: 0.4538505971431732
+wikipedia_url: https://en.wikipedia.org/wiki/Joe_Biden
+mid: /m/012gx2
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Vice President
+Mention type: COMMON
+Mention text: Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Joe Biden
+Mention type: PROPER
+Mention text: Biden
+Mention type: PROPER
+Representative name for the entity: editor
+Entity type: PERSON
+Salience score: 0.1449119597673416
+Mention text: editor
+Mention type: COMMON
+Representative name for the entity: Georgia
+Entity type: LOCATION
+Salience score: 0.06458242237567902
+mid: /m/0d0x8
+wikipedia_url: https://en.wikipedia.org/wiki/Georgia_(U.S._state)
+Mention text: Georgia
+Mention type: PROPER
+Mention text: Georgia
+Mention type: PROPER
+Mention text: Georgia
+Mention type: PROPER
+Mention text: Georgia
+Mention type: PROPER
+Mention text: stronghold
+Mention type: COMMON
+Mention text: Georgia
+Mention type: PROPER
+Mention text: Georgia
+Mention type: PROPER
+Mention text: state
+Mention type: COMMON
+Mention text: Georgia
+Mention type: PROPER
+Mention text: Georgia
+Mention type: PROPER
+Mention text: Georgia
+Mention type: PROPER
+Mention text: Georgia
+Mention type: PROPER
+Mention text: Georgia
+Mention type: PROPER
+Representative name for the entity: Wisconsin
+Entity type: LOCATION
+Salience score: 0.0524076372385025
+wikipedia_url: https://en.wikipedia.org/wiki/Wisconsin
+mid: /m/0824r
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: place
+Mention type: COMMON
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Mention text: Wisconsin
+Mention type: PROPER
+Representative name for the entity: South Florida
+Entity type: LOCATION
+Salience score: 0.02277349680662155
+wikipedia_url: https://en.wikipedia.org/wiki/Florida
+mid: /m/02xry
+Mention text: Florida
+Mention type: PROPER
+Mention text: Florida
+Mention type: PROPER
+Mention text: Florida
+Mention type: PROPER
+Mention text: Florida
+Mention type: PROPER
+Mention text: Florida
+Mention type: PROPER
+Mention text: Florida
+Mention type: PROPER
+Mention text: South Florida
+Mention type: PROPER
+Mention text: South Florida
+Mention type: PROPER
+Mention text: South Florida
+Mention type: PROPER
+Mention text: Florida
+Mention type: PROPER
+Mention text: South
+Mention type: PROPER
+Mention text: Florida
+Mention type: PROPER
+Mention text: Florida
+Mention type: PROPER
+Mention text: State of Florida
+Mention type: PROPER
+Representative name for the entity: Trump
+Entity type: OTHER
+Salience score: 0.01410147175192833
+wikipedia_url: https://en.wikipedia.org/wiki/Donald_Trump
+mid: /m/0cqt90
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Mention text: President
+Mention type: COMMON
+Mention text: Trump
+Mention type: PROPER
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.008936828933656216
+Mention text: race
+Mention type: COMMON
+Mention text: race
+Mention type: COMMON
+Mention text: race
+Mention type: COMMON
+Mention text: race
+Mention type: COMMON
+Mention text: race
+Mention type: COMMON
+Representative name for the entity: Arizona
+Entity type: LOCATION
+Salience score: 0.008380171842873096
+wikipedia_url: https://en.wikipedia.org/wiki/Arizona
+mid: /m/0vmt
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: state
+Mention type: COMMON
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Mention text: Arizona
+Mention type: PROPER
+Representative name for the entity: North Carolina
+Entity type: LOCATION
+Salience score: 0.005829900037497282
+mid: /m/05fkf
+wikipedia_url: https://en.wikipedia.org/wiki/North_Carolina
+Mention text: Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Mention text: North Carolina
+Mention type: PROPER
+Representative name for the entity: Alex
+Entity type: PERSON
+Salience score: 0.005680374335497618
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Mention text: Alex
+Mention type: PROPER
+Representative name for the entity: Pennsylvania
+Entity type: LOCATION
+Salience score: 0.0051192594692111015
+wikipedia_url: https://en.wikipedia.org/wiki/Pennsylvania
+mid: /m/05tbn
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Mention text: Pennsylvania
+Mention type: PROPER
+Representative name for the entity: kind
+Entity type: OTHER
+Salience score: 0.004109975881874561
+Mention text: kind
+Mention type: COMMON
+Representative name for the entity: ballots
+Entity type: OTHER
+Salience score: 0.003386163618415594
+Mention text: ballots
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.003309527412056923
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.0032190089114010334
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.003198872320353985
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: place
+Entity type: LOCATION
+Salience score: 0.0028528233524411917
+Mention text: place
+Mention type: COMMON
+Representative name for the entity: candidate
+Entity type: PERSON
+Salience score: 0.0027905753813683987
+Mention text: candidate
+Mention type: COMMON
+Representative name for the entity: reporters
+Entity type: PERSON
+Salience score: 0.0024200587067753077
+Mention text: reporters
+Mention type: COMMON
+Mention text: reporters
+Mention type: COMMON
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.002293703146278858
+Mention text: race
+Mention type: COMMON
+Representative name for the entity: echo
+Entity type: OTHER
+Salience score: 0.002266176510602236
+Mention text: echo
+Mention type: COMMON
+Representative name for the entity: scenario
+Entity type: OTHER
+Salience score: 0.002007127972319722
+Mention text: scenario
+Mention type: COMMON
+Mention text: scenario
+Mention type: COMMON
+Representative name for the entity: areas
+Entity type: LOCATION
+Salience score: 0.0018719428917393088
+Mention text: areas
+Mention type: COMMON
+Mention text: areas
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0017929056193679571
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: counties
+Entity type: LOCATION
+Salience score: 0.0017893031472340226
+Mention text: counties
+Mention type: COMMON
+Representative name for the entity: picture
+Entity type: WORK_OF_ART
+Salience score: 0.0017860535299405456
+Mention text: picture
+Mention type: COMMON
+Representative name for the entity: Election
+Entity type: EVENT
+Salience score: 0.0017585232853889465
+wikipedia_url: https://en.wikipedia.org/wiki/Election
+mid: /m/02l3h
+Mention text: Election
+Mention type: COMMON
+Mention text: Election
+Mention type: PROPER
+Representative name for the entity: chance
+Entity type: OTHER
+Salience score: 0.0016571033047512174
+Mention text: chance
+Mention type: COMMON
+Representative name for the entity: fact
+Entity type: OTHER
+Salience score: 0.0015424925368279219
+Mention text: fact
+Mention type: COMMON
+Mention text: sign
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.0015333538176491857
+Mention text: voters
+Mention type: COMMON
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: calls
+Entity type: OTHER
+Salience score: 0.0015227628173306584
+Mention text: calls
+Mention type: COMMON
+Representative name for the entity: call
+Entity type: OTHER
+Salience score: 0.001500381389632821
+Mention text: call
+Mention type: COMMON
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.0014365911483764648
+Mention text: people
+Mention type: COMMON
+Representative name for the entity: margin
+Entity type: OTHER
+Salience score: 0.0014222387690097094
+Mention text: margin
+Mention type: COMMON
+Mention text: proxy
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.00139553751796484
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0013852976262569427
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: ballot counting
+Entity type: OTHER
+Salience score: 0.001340799848549068
+Mention text: ballot counting
+Mention type: COMMON
+Representative name for the entity: story
+Entity type: OTHER
+Salience score: 0.0013126445701345801
+Mention text: story
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0012597471941262484
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: Democratic
+Entity type: PERSON
+Salience score: 0.001253945636563003
+mid: /m/0d075m
+wikipedia_url: https://en.wikipedia.org/wiki/Democratic_Party_(United_States)
+Mention text: Democratic
+Mention type: PROPER
+Mention text: Democratic
+Mention type: PROPER
+Mention text: Democratic
+Mention type: PROPER
+Mention text: Democratic
+Mention type: PROPER
+Mention text: Democratic
+Mention type: PROPER
+Mention text: Democratic
+Mention type: PROPER
+Mention text: Democrat
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Mention text: Democrats
+Mention type: PROPER
+Representative name for the entity: Upper Midwest
+Entity type: LOCATION
+Salience score: 0.0012393014039844275
+mid: /m/027vx1
+wikipedia_url: https://en.wikipedia.org/wiki/Upper_Midwest
+Mention text: Midwest
+Mention type: PROPER
+Mention text: Upper Midwest
+Mention type: PROPER
+Mention text: Upper Midwest
+Mention type: PROPER
+Mention text: Upper Midwest
+Mention type: PROPER
+Mention text: Upper Midwest
+Mention type: PROPER
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.0012218871852383018
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.001217108336277306
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0012128371745347977
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0011839938815683126
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.0011839894577860832
+Mention text: election
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0011835162295028567
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0011821717489510775
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: Miami-Dade County
+Entity type: LOCATION
+Salience score: 0.0011421835515648127
+mid: /m/0jhy9
+wikipedia_url: https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida
+Mention text: Miami-Dade County
+Mention type: PROPER
+Mention text: Miami
+Mention type: PROPER
+Mention text: Miami-Dade
+Mention type: PROPER
+Mention text: Miami-Dade
+Mention type: PROPER
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.0011336075840517879
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: something
+Entity type: OTHER
+Salience score: 0.0011218967847526073
+Mention text: something
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.0010677448008209467
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: Senate
+Entity type: ORGANIZATION
+Salience score: 0.0010466992389410734
+wikipedia_url: https://en.wikipedia.org/wiki/United_States_Senate
+mid: /m/07t58
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Mention text: Senate
+Mention type: PROPER
+Representative name for the entity: vote
+Entity type: OTHER
+Salience score: 0.0010321546578779817
+Mention text: vote
+Mention type: COMMON
+Representative name for the entity: places
+Entity type: LOCATION
+Salience score: 0.0009932211833074689
+Mention text: places
+Mention type: COMMON
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 0.0009796872036531568
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.0009729023440741003
+Mention text: election
+Mention type: COMMON
+Representative name for the entity: area
+Entity type: LOCATION
+Salience score: 0.0009665935067459941
+Mention text: area
+Mention type: COMMON
+Mention text: area
+Mention type: COMMON
+Representative name for the entity: Hillary Clinton
+Entity type: PERSON
+Salience score: 0.0009661916992627084
+wikipedia_url: https://en.wikipedia.org/wiki/Hillary_Clinton
+mid: /m/0d06m5
+Mention text: Hillary Clinton
+Mention type: PROPER
+Mention text: Hillary Clinton
+Mention type: PROPER
+Mention text: Hillary Clinton
+Mention type: PROPER
+Mention text: Hillary Clinton
+Mention type: PROPER
+Mention text: Hillary
+Mention type: PROPER
+Mention text: Clinton
+Mention type: PROPER
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.0009507447248324752
+Mention text: election
+Mention type: COMMON
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.0009498778963461518
+Mention text: election
+Mention type: COMMON
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.0009483180474489927
+Mention text: election
+Mention type: COMMON
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.0009371201740577817
+Mention text: election
+Mention type: COMMON
+Representative name for the entity: work
+Entity type: OTHER
+Salience score: 0.0009096575086005032
+Mention text: work
+Mention type: COMMON
+Mention text: work
+Mention type: COMMON
+Representative name for the entity: count
+Entity type: OTHER
+Salience score: 0.0009071665117517114
+Mention text: count
+Mention type: COMMON
+Representative name for the entity: point
+Entity type: OTHER
+Salience score: 0.0008578967535868287
+Mention text: point
+Mention type: COMMON
+Representative name for the entity: ballots
+Entity type: OTHER
+Salience score: 0.0008447957225143909
+Mention text: ballots
+Mention type: COMMON
+Representative name for the entity: ballots
+Entity type: OTHER
+Salience score: 0.0008442336693406105
+Mention text: ballots
+Mention type: COMMON
+Representative name for the entity: absentee ballots
+Entity type: OTHER
+Salience score: 0.0008442336693406105
+Mention text: absentee ballots
+Mention type: COMMON
+Representative name for the entity: all
+Entity type: OTHER
+Salience score: 0.0008382080122828484
+Mention text: all
+Mention type: COMMON
+Representative name for the entity: ballots
+Entity type: OTHER
+Salience score: 0.000816973450127989
+Mention text: ballots
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0008149612112902105
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: act
+Entity type: EVENT
+Salience score: 0.0008054986828938127
+Mention text: act
+Mention type: COMMON
+Representative name for the entity: margin
+Entity type: OTHER
+Salience score: 0.0008035938953980803
+Mention text: margin
+Mention type: COMMON
+Representative name for the entity: margin
+Entity type: OTHER
+Salience score: 0.0008035938953980803
+Mention text: margin
+Mention type: COMMON
+Representative name for the entity: margin
+Entity type: OTHER
+Salience score: 0.0007967664278112352
+Mention text: margin
+Mention type: COMMON
+Representative name for the entity: polls
+Entity type: OTHER
+Salience score: 0.0007957853958941996
+Mention text: polls
+Mention type: COMMON
+Representative name for the entity: picture
+Entity type: WORK_OF_ART
+Salience score: 0.0007744930917397141
+Mention text: picture
+Mention type: COMMON
+Representative name for the entity: paths
+Entity type: OTHER
+Salience score: 0.0007615929353050888
+Mention text: paths
+Mention type: COMMON
+Representative name for the entity: Atlanta
+Entity type: LOCATION
+Salience score: 0.0007564940606243908
+wikipedia_url: https://en.wikipedia.org/wiki/Atlanta
+mid: /m/013yq
+Mention text: Atlanta
+Mention type: PROPER
+Mention text: Atlanta
+Mention type: PROPER
+Mention text: Atlanta
+Mention type: PROPER
+Mention text: Atlanta
+Mention type: PROPER
+Mention text: Atlanta
+Mention type: PROPER
+Mention text: Atlanta
+Mention type: PROPER
+Mention text: Atlanta
+Mention type: PROPER
+Representative name for the entity: ballot
+Entity type: OTHER
+Salience score: 0.0007193746860139072
+Mention text: ballot
+Mention type: COMMON
+Representative name for the entity: bit
+Entity type: OTHER
+Salience score: 0.0007122898241505027
+Mention text: bit
+Mention type: COMMON
+Representative name for the entity: leads
+Entity type: OTHER
+Salience score: 0.0007107987185008824
+Mention text: leads
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.0006863560993224382
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: campaign
+Entity type: EVENT
+Salience score: 0.0006483676843345165
+Mention text: campaign
+Mention type: COMMON
+Representative name for the entity: lead
+Entity type: OTHER
+Salience score: 0.0006441305158659816
+Mention text: lead
+Mention type: COMMON
+Representative name for the entity: kind
+Entity type: OTHER
+Salience score: 0.0006376353558152914
+Mention text: kind
+Mention type: COMMON
+Representative name for the entity: team
+Entity type: ORGANIZATION
+Salience score: 0.0006272364989854395
+Mention text: team
+Mention type: COMMON
+Mention text: team
+Mention type: COMMON
+Representative name for the entity: States
+Entity type: LOCATION
+Salience score: 0.0006095131975598633
+Mention text: States
+Mention type: COMMON
+Representative name for the entity: situation
+Entity type: OTHER
+Salience score: 0.0006038048886694014
+Mention text: situation
+Mention type: COMMON
+Representative name for the entity: result
+Entity type: OTHER
+Salience score: 0.000596665486227721
+Mention text: result
+Mention type: COMMON
+Representative name for the entity: call
+Entity type: OTHER
+Salience score: 0.0005957170506007969
+Mention text: call
+Mention type: COMMON
+Representative name for the entity: call
+Entity type: OTHER
+Salience score: 0.0005952856736257672
+Mention text: call
+Mention type: COMMON
+Representative name for the entity: Michael Barbaro
+Entity type: PERSON
+Salience score: 0.0005872439942322671
+mid: /g/11h4_dzp1q
+wikipedia_url: https://en.wikipedia.org/wiki/Michael_Barbaro
+Mention text: Michael
+Mention type: PROPER
+Mention text: Michael Barbaro
+Mention type: PROPER
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.000585405679885298
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: times
+Entity type: OTHER
+Salience score: 0.0005815993063151836
+Mention text: times
+Mention type: COMMON
+Representative name for the entity: thing
+Entity type: OTHER
+Salience score: 0.0005735920276492834
+Mention text: thing
+Mention type: COMMON
+Representative name for the entity: voting
+Entity type: EVENT
+Salience score: 0.0005734299775213003
+Mention text: voting
+Mention type: COMMON
+Representative name for the entity: list
+Entity type: OTHER
+Salience score: 0.0005705744842998683
+Mention text: list
+Mention type: COMMON
+Representative name for the entity: any
+Entity type: OTHER
+Salience score: 0.0005619520670734346
+Mention text: any
+Mention type: COMMON
+Representative name for the entity: sign
+Entity type: OTHER
+Salience score: 0.0005617324495688081
+Mention text: sign
+Mention type: COMMON
+Representative name for the entity: level
+Entity type: OTHER
+Salience score: 0.0005598548450507224
+Mention text: level
+Mention type: COMMON
+Representative name for the entity: poles
+Entity type: OTHER
+Salience score: 0.0005598548450507224
+Mention text: poles
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0005594625254161656
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.000545934250112623
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: Michigan
+Entity type: LOCATION
+Salience score: 0.0005321050412021577
+wikipedia_url: https://en.wikipedia.org/wiki/Michigan
+mid: /m/04rrx
+Mention text: Michigan
+Mention type: PROPER
+Mention text: Michigan
+Mention type: PROPER
+Mention text: Michigan
+Mention type: PROPER
+Mention text: Michigan
+Mention type: PROPER
+Mention text: Michigan
+Mention type: PROPER
+Representative name for the entity: track
+Entity type: OTHER
+Salience score: 0.0005301020573824644
+Mention text: track
+Mention type: COMMON
+Representative name for the entity: millions
+Entity type: PERSON
+Salience score: 0.0005211306270211935
+Mention text: millions
+Mention type: COMMON
+Representative name for the entity: clarity
+Entity type: OTHER
+Salience score: 0.0005107499891892076
+Mention text: clarity
+Mention type: COMMON
+Representative name for the entity: kind
+Entity type: OTHER
+Salience score: 0.0005015345523133874
+Mention text: kind
+Mention type: COMMON
+Representative name for the entity: ballots
+Entity type: OTHER
+Salience score: 0.0004985518171451986
+Mention text: ballots
+Mention type: COMMON
+Representative name for the entity: one
+Entity type: OTHER
+Salience score: 0.0004924339009448886
+Mention text: one
+Mention type: COMMON
+Representative name for the entity: Verbs
+Entity type: OTHER
+Salience score: 0.0004918413469567895
+Mention text: Verbs
+Mention type: COMMON
+Representative name for the entity: North
+Entity type: LOCATION
+Salience score: 0.0004838453605771065
+Mention text: North
+Mention type: PROPER
+Representative name for the entity: context
+Entity type: OTHER
+Salience score: 0.0004725058388430625
+Mention text: context
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.00047190565965138376
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.00047164157149381936
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0004712669178843498
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.00047080268268473446
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.00046978413593024015
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: map
+Entity type: OTHER
+Salience score: 0.0004662343126256019
+Mention text: map
+Mention type: COMMON
+Representative name for the entity: patients
+Entity type: PERSON
+Salience score: 0.00045844505075365305
+Mention text: patients
+Mention type: COMMON
+Representative name for the entity: counties
+Entity type: LOCATION
+Salience score: 0.00045778704225085676
+Mention text: counties
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.0004519661597441882
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: warning
+Entity type: OTHER
+Salience score: 0.0004510973230935633
+Mention text: warning
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.00045101079740561545
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.00045101079740561545
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: vote
+Entity type: EVENT
+Salience score: 0.00045091423089616
+Mention text: vote
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.0004508193233050406
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.00045063431025482714
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: possibility
+Entity type: OTHER
+Salience score: 0.0004504911776166409
+Mention text: possibility
+Mention type: COMMON
+Representative name for the entity: bellwethers
+Entity type: PERSON
+Salience score: 0.0004503031668718904
+Mention text: bellwethers
+Mention type: COMMON
+Representative name for the entity: candidate
+Entity type: PERSON
+Salience score: 0.00044902379158884287
+Mention text: candidate
+Mention type: COMMON
+Representative name for the entity: action
+Entity type: OTHER
+Salience score: 0.0004465581150725484
+Mention text: action
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0004453601723071188
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00044438132317736745
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0004442827485036105
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0004439973272383213
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0004437262541614473
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: reflexes
+Entity type: OTHER
+Salience score: 0.00044055789476260543
+Mention text: reflexes
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.0004395841096993536
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0004343802575021982
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: map
+Entity type: WORK_OF_ART
+Salience score: 0.00042612748802639544
+Mention text: map
+Mention type: COMMON
+Representative name for the entity: wing radicals
+Entity type: PERSON
+Salience score: 0.0004206386220175773
+Mention text: wing radicals
+Mention type: COMMON
+Representative name for the entity: Midwestern
+Entity type: LOCATION
+Salience score: 0.0004041040374431759
+mid: /m/0q76g
+wikipedia_url: https://en.wikipedia.org/wiki/Midwestern_United_States
+Mention text: Midwestern
+Mention type: PROPER
+Mention text: Midwestern
+Mention type: PROPER
+Representative name for the entity: team
+Entity type: ORGANIZATION
+Salience score: 0.00039188648224808276
+Mention text: team
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00039130766526795924
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: path
+Entity type: OTHER
+Salience score: 0.00039129203651100397
+Mention text: path
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.0003746073634829372
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.00037316090310923755
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0003687835414893925
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00035831768764182925
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: process
+Entity type: OTHER
+Salience score: 0.00035768040106631815
+Mention text: process
+Mention type: COMMON
+Mention text: process
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.000357591052306816
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: results
+Entity type: OTHER
+Salience score: 0.0003498594742268324
+Mention text: results
+Mention type: COMMON
+Representative name for the entity: County
+Entity type: LOCATION
+Salience score: 0.0003412004152778536
+Mention text: County
+Mention type: COMMON
+Representative name for the entity: US Supreme Court
+Entity type: ORGANIZATION
+Salience score: 0.0003395581152290106
+Mention text: US Supreme Court
+Mention type: PROPER
+Representative name for the entity: point
+Entity type: OTHER
+Salience score: 0.00032313467818312347
+Mention text: point
+Mention type: COMMON
+Representative name for the entity: places
+Entity type: LOCATION
+Salience score: 0.00032252183882519603
+Mention text: places
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0003189885464962572
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0003188282425981015
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0003186367393936962
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0003160959458909929
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.00031604370451532304
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.00031599216163158417
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0003159412881359458
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.00031555694295093417
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: status
+Entity type: OTHER
+Salience score: 0.00031555694295093417
+Mention text: status
+Mention type: COMMON
+Representative name for the entity: areas
+Entity type: LOCATION
+Salience score: 0.000315319950459525
+Mention text: areas
+Mention type: COMMON
+Representative name for the entity: candidates
+Entity type: PERSON
+Salience score: 0.00031292345374822617
+Mention text: candidates
+Mention type: COMMON
+Representative name for the entity: vote
+Entity type: OTHER
+Salience score: 0.00030592276016250253
+Mention text: vote
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00030588373192586005
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.0003057690046261996
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.0003057690046261996
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00030569444061256945
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.00030558533035218716
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.00030558533035218716
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: news machine
+Entity type: ORGANIZATION
+Salience score: 0.00030520849395543337
+Mention text: news machine
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00030325091211125255
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: Voters
+Entity type: PERSON
+Salience score: 0.00030290460563264787
+Mention text: Voters
+Mention type: COMMON
+Representative name for the entity: vote
+Entity type: OTHER
+Salience score: 0.00030246033566072583
+Mention text: vote
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00030246033566072583
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0003013316891156137
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0003012543893419206
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00029905993142165244
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: Improvement
+Entity type: OTHER
+Salience score: 0.0002989987260662019
+Mention text: Improvement
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00029809499392285943
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: pull
+Entity type: OTHER
+Salience score: 0.0002967233012896031
+Mention text: pull
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.0002959240518976003
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.0002914162178058177
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.0002913897333201021
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: act
+Entity type: EVENT
+Salience score: 0.0002896044170483947
+Mention text: act
+Mention type: COMMON
+Representative name for the entity: population
+Entity type: PERSON
+Salience score: 0.00028847597423009574
+Mention text: population
+Mention type: COMMON
+Representative name for the entity: margins
+Entity type: OTHER
+Salience score: 0.0002870410680770874
+Mention text: margins
+Mention type: COMMON
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 0.00028291577473282814
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 0.0002826669078785926
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: The New York Times
+Entity type: ORGANIZATION
+Salience score: 0.0002788362908177078
+wikipedia_url: https://en.wikipedia.org/wiki/The_New_York_Times
+mid: /m/07k2d
+Mention text: The New York Times
+Mention type: PROPER
+Mention text: New York Times
+Mention type: PROPER
+Mention text: New York Times
+Mention type: PROPER
+Mention text: nytimes.com
+Mention type: PROPER
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.0002764657256193459
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.0002761351934168488
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: presidency
+Entity type: OTHER
+Salience score: 0.00027553795371204615
+Mention text: presidency
+Mention type: COMMON
+Representative name for the entity: presidency
+Entity type: OTHER
+Salience score: 0.00027545684133656323
+Mention text: presidency
+Mention type: COMMON
+Representative name for the entity: sense
+Entity type: OTHER
+Salience score: 0.00027228365070186555
+Mention text: sense
+Mention type: COMMON
+Representative name for the entity: environment
+Entity type: OTHER
+Salience score: 0.00026870385045185685
+Mention text: environment
+Mention type: COMMON
+Representative name for the entity: republican
+Entity type: PERSON
+Salience score: 0.0002632888499647379
+Mention text: republican
+Mention type: COMMON
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.0002631789830047637
+Mention text: election
+Mention type: COMMON
+Representative name for the entity: either
+Entity type: PERSON
+Salience score: 0.0002578037965577096
+Mention text: either
+Mention type: COMMON
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 0.0002554346283432096
+Mention text: place
+Mention type: COMMON
+Representative name for the entity: Election night
+Entity type: OTHER
+Salience score: 0.0002529490739107132
+Mention text: Election night
+Mention type: COMMON
+Representative name for the entity: party
+Entity type: ORGANIZATION
+Salience score: 0.0002519527042750269
+Mention text: party
+Mention type: COMMON
+Representative name for the entity: speech
+Entity type: WORK_OF_ART
+Salience score: 0.00025053866556845605
+Mention text: speech
+Mention type: COMMON
+Representative name for the entity: speech
+Entity type: WORK_OF_ART
+Salience score: 0.00025053866556845605
+Mention text: speech
+Mention type: COMMON
+Representative name for the entity: polling information
+Entity type: OTHER
+Salience score: 0.000248001393629238
+Mention text: polling information
+Mention type: COMMON
+Representative name for the entity: map
+Entity type: OTHER
+Salience score: 0.0002477715315762907
+Mention text: map
+Mention type: COMMON
+Representative name for the entity: fate
+Entity type: OTHER
+Salience score: 0.0002476264489814639
+Mention text: fate
+Mention type: COMMON
+Representative name for the entity: turnoff
+Entity type: OTHER
+Salience score: 0.00024573266273364425
+Mention text: turnoff
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.0002452743356116116
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: population
+Entity type: PERSON
+Salience score: 0.0002401191886747256
+Mention text: population
+Mention type: COMMON
+Representative name for the entity: election
+Entity type: EVENT
+Salience score: 0.00023691679234616458
+Mention text: election
+Mention type: COMMON
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 0.00023402752412948757
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: counties
+Entity type: LOCATION
+Salience score: 0.00023154049995355308
+Mention text: counties
+Mention type: COMMON
+Representative name for the entity: path
+Entity type: OTHER
+Salience score: 0.0002306766400579363
+Mention text: path
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00023051118478178978
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 0.00023029022850096226
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00022987520787864923
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: counties
+Entity type: LOCATION
+Salience score: 0.00022876699222251773
+Mention text: counties
+Mention type: COMMON
+Representative name for the entity: campaign
+Entity type: ORGANIZATION
+Salience score: 0.0002280256012454629
+Mention text: campaign
+Mention type: COMMON
+Representative name for the entity: process
+Entity type: OTHER
+Salience score: 0.00022730615455657244
+Mention text: process
+Mention type: COMMON
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.00022269309556577355
+Mention text: race
+Mention type: COMMON
+Representative name for the entity: Victory
+Entity type: PERSON
+Salience score: 0.00022243558487389237
+Mention text: Victory
+Mention type: PROPER
+Mention text: Victory
+Mention type: PROPER
+Mention text: Victory
+Mention type: PROPER
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.00022071338025853038
+Mention text: race
+Mention type: COMMON
+Representative name for the entity: States
+Entity type: LOCATION
+Salience score: 0.00021874056255910546
+Mention text: States
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.0002186098718084395
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 0.0002186098718084395
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: points
+Entity type: OTHER
+Salience score: 0.00021824357099831104
+Mention text: points
+Mention type: COMMON
+Representative name for the entity: count
+Entity type: OTHER
+Salience score: 0.0002182168245781213
+Mention text: count
+Mention type: COMMON
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 0.00021801206457894295
+Mention text: place
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.000217221473576501
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: point
+Entity type: OTHER
+Salience score: 0.0002164834295399487
+Mention text: point
+Mention type: COMMON
+Representative name for the entity: places
+Entity type: LOCATION
+Salience score: 0.00021637311147060245
+Mention text: places
+Mention type: COMMON
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 0.00021619895414914936
+Mention text: place
+Mention type: COMMON
+Representative name for the entity: places
+Entity type: LOCATION
+Salience score: 0.00021606747759506106
+Mention text: places
+Mention type: COMMON
+Representative name for the entity: places
+Entity type: LOCATION
+Salience score: 0.00021576497238129377
+Mention text: places
+Mention type: COMMON
+Representative name for the entity: area
+Entity type: LOCATION
+Salience score: 0.00021347493748180568
+Mention text: area
+Mention type: COMMON
+Representative name for the entity: ballot
+Entity type: OTHER
+Salience score: 0.00021339724480640143
+Mention text: ballot
+Mention type: COMMON
+Representative name for the entity: story
+Entity type: OTHER
+Salience score: 0.00021282152738422155
+Mention text: story
+Mention type: COMMON
+Representative name for the entity: area
+Entity type: LOCATION
+Salience score: 0.0002117167750839144
+Mention text: area
+Mention type: COMMON
+Representative name for the entity: areas
+Entity type: LOCATION
+Salience score: 0.00021164533973205835
+Mention text: areas
+Mention type: COMMON
+Representative name for the entity: areas
+Entity type: LOCATION
+Salience score: 0.00021164533973205835
+Mention text: areas
+Mention type: COMMON
+Representative name for the entity: area
+Entity type: LOCATION
+Salience score: 0.00021157583978492767
+Mention text: area
+Mention type: COMMON
+Representative name for the entity: areas
+Entity type: LOCATION
+Salience score: 0.00021131521498318762
+Mention text: areas
+Mention type: COMMON
+Representative name for the entity: city
+Entity type: LOCATION
+Salience score: 0.00021122975158505142
+Mention text: city
+Mention type: COMMON
+Representative name for the entity: ballots
+Entity type: OTHER
+Salience score: 0.00021110699162818491
+Mention text: ballots
+Mention type: COMMON
+Representative name for the entity: ballots
+Entity type: OTHER
+Salience score: 0.00021105048654135317
+Mention text: ballots
+Mention type: COMMON
+Representative name for the entity: community
+Entity type: PERSON
+Salience score: 0.00021092945826239884
+Mention text: community
+Mention type: COMMON
+Representative name for the entity: story
+Entity type: OTHER
+Salience score: 0.00020914628112223
+Mention text: story
+Mention type: COMMON
+Representative name for the entity: demographics
+Entity type: OTHER
+Salience score: 0.00020852060697507113
+Mention text: demographics
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0002067797031486407
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: presidency
+Entity type: OTHER
+Salience score: 0.00020672012760769576
+Mention text: presidency
+Mention type: COMMON
+Representative name for the entity: trump
+Entity type: OTHER
+Salience score: 0.0002065156731987372
+Mention text: trump
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00020648163626901805
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: margins
+Entity type: OTHER
+Salience score: 0.0002030713512795046
+Mention text: margins
+Mention type: COMMON
+Representative name for the entity: Hillsborough County
+Entity type: LOCATION
+Salience score: 0.00020199237042106688
+mid: /m/0jj6k
+wikipedia_url: https://en.wikipedia.org/wiki/Hillsborough_County,_Florida
+Mention text: Hillsborough County
+Mention type: PROPER
+Representative name for the entity: Pinellas County
+Entity type: LOCATION
+Salience score: 0.00020199237042106688
+wikipedia_url: https://en.wikipedia.org/wiki/Pinellas_County,_Florida
+mid: /m/0jxgx
+Mention text: Pinellas County
+Mention type: PROPER
+Representative name for the entity: victory
+Entity type: EVENT
+Salience score: 0.00020190318173263222
+Mention text: victory
+Mention type: COMMON
+Representative name for the entity: polling
+Entity type: EVENT
+Salience score: 0.00020113767823204398
+Mention text: polling
+Mention type: COMMON
+Representative name for the entity: polling
+Entity type: EVENT
+Salience score: 0.00020113767823204398
+Mention text: polling
+Mention type: COMMON
+Representative name for the entity: polls
+Entity type: OTHER
+Salience score: 0.00020096683874726295
+Mention text: polls
+Mention type: COMMON
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 0.00019993747991975397
+Mention text: place
+Mention type: COMMON
+Representative name for the entity: point
+Entity type: OTHER
+Salience score: 0.0001996672508539632
+Mention text: point
+Mention type: COMMON
+Representative name for the entity: times
+Entity type: OTHER
+Salience score: 0.00019768424681387842
+Mention text: times
+Mention type: COMMON
+Representative name for the entity: lead
+Entity type: OTHER
+Salience score: 0.00019584364781621844
+Mention text: lead
+Mention type: COMMON
+Representative name for the entity: all
+Entity type: PERSON
+Salience score: 0.00019528527627699077
+Mention text: all
+Mention type: COMMON
+Representative name for the entity: ground
+Entity type: OTHER
+Salience score: 0.00019236671505495906
+Mention text: ground
+Mention type: COMMON
+Representative name for the entity: numbers
+Entity type: OTHER
+Salience score: 0.00019220045942347497
+Mention text: numbers
+Mention type: COMMON
+Representative name for the entity: socialism
+Entity type: OTHER
+Salience score: 0.0001920830982271582
+Mention text: socialism
+Mention type: COMMON
+Representative name for the entity: socialists
+Entity type: PERSON
+Salience score: 0.0001920830982271582
+Mention text: socialists
+Mention type: COMMON
+Representative name for the entity: advantage
+Entity type: OTHER
+Salience score: 0.0001920452486956492
+Mention text: advantage
+Mention type: COMMON
+Representative name for the entity: one
+Entity type: PERSON
+Salience score: 0.00019171784515492618
+Mention text: one
+Mention type: COMMON
+Representative name for the entity: north
+Entity type: LOCATION
+Salience score: 0.00019061418424826115
+Mention text: north
+Mention type: COMMON
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 0.00019005924696102738
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: One
+Entity type: OTHER
+Salience score: 0.00018951852689497173
+Mention text: One
+Mention type: COMMON
+Representative name for the entity: places
+Entity type: LOCATION
+Salience score: 0.00018925665062852204
+Mention text: places
+Mention type: COMMON
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 0.00018763971456792206
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: case
+Entity type: OTHER
+Salience score: 0.00018735819321591407
+Mention text: case
+Mention type: COMMON
+Representative name for the entity: margin
+Entity type: OTHER
+Salience score: 0.00018572178669273853
+Mention text: margin
+Mention type: COMMON
+Representative name for the entity: sauna
+Entity type: LOCATION
+Salience score: 0.00018445118621457368
+Mention text: sauna
+Mention type: COMMON
+Representative name for the entity: country
+Entity type: LOCATION
+Salience score: 0.0001841734047047794
+Mention text: country
+Mention type: COMMON
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.0001837844174588099
+Mention text: race
+Mention type: COMMON
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 0.00018354678468313068
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 0.00018354678468313068
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 0.00018154314602725208
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: times
+Entity type: OTHER
+Salience score: 0.00018103445472661406
+Mention text: times
+Mention type: COMMON
+Representative name for the entity: sense
+Entity type: OTHER
+Salience score: 0.00017916715296451002
+Mention text: sense
+Mention type: COMMON
+Representative name for the entity: sort
+Entity type: OTHER
+Salience score: 0.0001785649947123602
+Mention text: sort
+Mention type: COMMON
+Representative name for the entity: picture
+Entity type: WORK_OF_ART
+Salience score: 0.00017845221736934036
+Mention text: picture
+Mention type: COMMON
+Representative name for the entity: sort
+Entity type: OTHER
+Salience score: 0.00017840870714280754
+Mention text: sort
+Mention type: COMMON
+Representative name for the entity: picture
+Entity type: WORK_OF_ART
+Salience score: 0.00017832420417107642
+Mention text: picture
+Mention type: COMMON
+Representative name for the entity: many
+Entity type: PERSON
+Salience score: 0.00017698245937936008
+Mention text: many
+Mention type: COMMON
+Representative name for the entity: story
+Entity type: OTHER
+Salience score: 0.00017692273831926286
+Mention text: story
+Mention type: COMMON
+Representative name for the entity: sort
+Entity type: OTHER
+Salience score: 0.0001766728237271309
+Mention text: sort
+Mention type: COMMON
+Representative name for the entity: candidate
+Entity type: PERSON
+Salience score: 0.00017664676124695688
+Mention text: candidate
+Mention type: COMMON
+Representative name for the entity: sort
+Entity type: OTHER
+Salience score: 0.00017642545572016388
+Mention text: sort
+Mention type: COMMON
+Representative name for the entity: work
+Entity type: OTHER
+Salience score: 0.00017603352898731828
+Mention text: work
+Mention type: COMMON
+Representative name for the entity: areas
+Entity type: LOCATION
+Salience score: 0.0001758588186930865
+Mention text: areas
+Mention type: COMMON
+Representative name for the entity: paths
+Entity type: OTHER
+Salience score: 0.00017542560817673802
+Mention text: paths
+Mention type: COMMON
+Representative name for the entity: path
+Entity type: OTHER
+Salience score: 0.00017537269741296768
+Mention text: path
+Mention type: COMMON
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 0.00017493967607151717
+Mention text: people
+Mention type: COMMON
+Representative name for the entity: sign
+Entity type: OTHER
+Salience score: 0.0001743622124195099
+Mention text: sign
+Mention type: COMMON
+Representative name for the entity: paths
+Entity type: OTHER
+Salience score: 0.00017329597903881222
+Mention text: paths
+Mention type: COMMON
+Representative name for the entity: path
+Entity type: OTHER
+Salience score: 0.00017314168508164585
+Mention text: path
+Mention type: COMMON
+Representative name for the entity: parts
+Entity type: OTHER
+Salience score: 0.00017087976448237896
+Mention text: parts
+Mention type: COMMON
+Representative name for the entity: more
+Entity type: OTHER
+Salience score: 0.00016962300287559628
+Mention text: more
+Mention type: COMMON
+Representative name for the entity: math
+Entity type: OTHER
+Salience score: 0.00016931851860135794
+Mention text: math
+Mention type: COMMON
+Representative name for the entity: parties
+Entity type: ORGANIZATION
+Salience score: 0.0001692525838734582
+Mention text: parties
+Mention type: COMMON
+Representative name for the entity: indicators
+Entity type: OTHER
+Salience score: 0.00016922711802180856
+Mention text: indicators
+Mention type: COMMON
+Representative name for the entity: middle
+Entity type: OTHER
+Salience score: 0.00016922711802180856
+Mention text: middle
+Mention type: COMMON
+Representative name for the entity: Statewide
+Entity type: OTHER
+Salience score: 0.00016910080739762634
+Mention text: Statewide
+Mention type: COMMON
+Representative name for the entity: order
+Entity type: OTHER
+Salience score: 0.00016910080739762634
+Mention text: order
+Mention type: COMMON
+Representative name for the entity: daily
+Entity type: ORGANIZATION
+Salience score: 0.00016906893870327622
+Mention text: daily
+Mention type: COMMON
+Representative name for the entity: popular vote strategy
+Entity type: OTHER
+Salience score: 0.0001690603676252067
+Mention text: popular vote strategy
+Mention type: COMMON
+Representative name for the entity: effort
+Entity type: OTHER
+Salience score: 0.0001687283074716106
+Mention text: effort
+Mention type: COMMON
+Representative name for the entity: care
+Entity type: OTHER
+Salience score: 0.0001687283074716106
+Mention text: care
+Mention type: COMMON
+Representative name for the entity: degree
+Entity type: OTHER
+Salience score: 0.0001687283074716106
+Mention text: degree
+Mention type: COMMON
+Representative name for the entity: standing
+Entity type: OTHER
+Salience score: 0.0001687283074716106
+Mention text: standing
+Mention type: COMMON
+Representative name for the entity: folks
+Entity type: PERSON
+Salience score: 0.00016869451792445034
+Mention text: folks
+Mention type: COMMON
+Representative name for the entity: League
+Entity type: OTHER
+Salience score: 0.00016869451792445034
+Mention text: League
+Mention type: COMMON
+Representative name for the entity: offices
+Entity type: LOCATION
+Salience score: 0.00016869451792445034
+Mention text: offices
+Mention type: COMMON
+Representative name for the entity: rhetoric
+Entity type: OTHER
+Salience score: 0.00016869451792445034
+Mention text: rhetoric
+Mention type: COMMON
+Representative name for the entity: Biden Victory
+Entity type: PERSON
+Salience score: 0.00016751243674661964
+Mention text: Biden Victory
+Mention type: PROPER
+Representative name for the entity: Victory Biden
+Entity type: PERSON
+Salience score: 0.00016410494572483003
+Mention text: Victory Biden
+Mention type: PROPER
+Representative name for the entity: news stories
+Entity type: WORK_OF_ART
+Salience score: 0.00016348333156201988
+Mention text: news stories
+Mention type: COMMON
+Representative name for the entity: news stories
+Entity type: WORK_OF_ART
+Salience score: 0.00016348333156201988
+Mention text: news stories
+Mention type: COMMON
+Representative name for the entity: candidates
+Entity type: PERSON
+Salience score: 0.00016326236072927713
+Mention text: candidates
+Mention type: COMMON
+Representative name for the entity: populations
+Entity type: PERSON
+Salience score: 0.0001627877209102735
+Mention text: populations
+Mention type: COMMON
+Representative name for the entity: population
+Entity type: PERSON
+Salience score: 0.00016268798208329827
+Mention text: population
+Mention type: COMMON
+Representative name for the entity: population
+Entity type: PERSON
+Salience score: 0.00016264946316368878
+Mention text: population
+Mention type: COMMON
+Representative name for the entity: picture
+Entity type: WORK_OF_ART
+Salience score: 0.0001612167980056256
+Mention text: picture
+Mention type: COMMON
+Representative name for the entity: candidates
+Entity type: PERSON
+Salience score: 0.00016117079940158874
+Mention text: candidates
+Mention type: COMMON
+Representative name for the entity: Hispanic
+Entity type: PERSON
+Salience score: 0.0001605654542800039
+wikipedia_url: https://en.wikipedia.org/wiki/Hispanic
+mid: /m/0fk1z
+Mention text: Hispanic
+Mention type: PROPER
+Mention text: Hispanic
+Mention type: PROPER
+Mention text: Hispanic
+Mention type: PROPER
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.0001597342052264139
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: many
+Entity type: OTHER
+Salience score: 0.0001591101463418454
+Mention text: many
+Mention type: COMMON
+Representative name for the entity: picture
+Entity type: WORK_OF_ART
+Salience score: 0.00015868688933551311
+Mention text: picture
+Mention type: COMMON
+Representative name for the entity: vote counting
+Entity type: OTHER
+Salience score: 0.00015865561726968735
+Mention text: vote counting
+Mention type: COMMON
+Representative name for the entity: sort
+Entity type: OTHER
+Salience score: 0.00015667834668420255
+Mention text: sort
+Mention type: COMMON
+Representative name for the entity: election night
+Entity type: EVENT
+Salience score: 0.00015642835933249444
+Mention text: election night
+Mention type: COMMON
+Representative name for the entity: Both
+Entity type: OTHER
+Salience score: 0.00015642835933249444
+Mention text: Both
+Mention type: COMMON
+Representative name for the entity: pedestrian reasons
+Entity type: OTHER
+Salience score: 0.00015502051974181086
+Mention text: pedestrian reasons
+Mention type: COMMON
+Representative name for the entity: colleagues
+Entity type: PERSON
+Salience score: 0.00015359460667241365
+Mention text: colleagues
+Mention type: COMMON
+Representative name for the entity: contests
+Entity type: EVENT
+Salience score: 0.00015355560753960162
+Mention text: contests
+Mention type: COMMON
+Representative name for the entity: sauna
+Entity type: LOCATION
+Salience score: 0.00015335454372689128
+Mention text: sauna
+Mention type: COMMON
+Representative name for the entity: things
+Entity type: OTHER
+Salience score: 0.00015333729970734566
+Mention text: things
+Mention type: COMMON
+Representative name for the entity: daily
+Entity type: ORGANIZATION
+Salience score: 0.00015333729970734566
+Mention text: daily
+Mention type: COMMON
+Representative name for the entity: team
+Entity type: ORGANIZATION
+Salience score: 0.00015333729970734566
+Mention text: team
+Mention type: COMMON
+Representative name for the entity: sauna
+Entity type: LOCATION
+Salience score: 0.00015332020120695233
+Mention text: sauna
+Mention type: COMMON
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.00015298360085580498
+Mention text: race
+Mention type: COMMON
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.00015298360085580498
+Mention text: race
+Mention type: COMMON
+Representative name for the entity: races
+Entity type: EVENT
+Salience score: 0.00015291788440663368
+Mention text: races
+Mention type: COMMON
+Representative name for the entity: races
+Entity type: EVENT
+Salience score: 0.00015291788440663368
+Mention text: races
+Mention type: COMMON
+Representative name for the entity: States
+Entity type: LOCATION
+Salience score: 0.00015291212184820324
+Mention text: States
+Mention type: COMMON
+Representative name for the entity: races
+Entity type: EVENT
+Salience score: 0.00015290714509319514
+Mention text: races
+Mention type: COMMON
+Representative name for the entity: race
+Entity type: EVENT
+Salience score: 0.00015276306658051908
+Mention text: race
+Mention type: COMMON
+Representative name for the entity: clarity
+Entity type: OTHER
+Salience score: 0.00015242169320117682
+Mention text: clarity
+Mention type: COMMON
+Representative name for the entity: question
+Entity type: OTHER
+Salience score: 0.00015210294805001467
+Mention text: question
+Mention type: COMMON
+Representative name for the entity: case
+Entity type: OTHER
+Salience score: 0.00015207908290904015
+Mention text: case
+Mention type: COMMON
+Representative name for the entity: Sense
+Entity type: OTHER
+Salience score: 0.00015196418098639697
+Mention text: Sense
+Mention type: COMMON
+Representative name for the entity: two
+Entity type: PERSON
+Salience score: 0.0001487941190134734
+Mention text: two
+Mention type: COMMON
+Representative name for the entity: voters
+Entity type: PERSON
+Salience score: 0.00014667613140773028
+Mention text: voters
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00014665731578134
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00014664798800367862
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: areas
+Entity type: LOCATION
+Salience score: 0.00014657981228083372
+Mention text: areas
+Mention type: COMMON
+Representative name for the entity: ballot
+Entity type: OTHER
+Salience score: 0.00014650655793957412
+Mention text: ballot
+Mention type: COMMON
+Representative name for the entity: ballots
+Entity type: OTHER
+Salience score: 0.00014635904517490417
+Mention text: ballots
+Mention type: COMMON
+Representative name for the entity: turnout
+Entity type: OTHER
+Salience score: 0.0001460551720811054
+Mention text: turnout
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.0001444009831175208
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00014439197548199445
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00014435641060117632
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: reason
+Entity type: OTHER
+Salience score: 0.00014330531121231616
+Mention text: reason
+Mention type: COMMON
+Representative name for the entity: communities
+Entity type: LOCATION
+Salience score: 0.00014302055933512747
+Mention text: communities
+Mention type: COMMON
+Representative name for the entity: list
+Entity type: OTHER
+Salience score: 0.00014296580047812313
+Mention text: list
+Mention type: COMMON
+Representative name for the entity: cities
+Entity type: LOCATION
+Salience score: 0.000142930235597305
+Mention text: cities
+Mention type: COMMON
+Representative name for the entity: bit
+Entity type: OTHER
+Salience score: 0.00014291271509137005
+Mention text: bit
+Mention type: COMMON
+Representative name for the entity: bit
+Entity type: OTHER
+Salience score: 0.00014282770280260593
+Mention text: bit
+Mention type: COMMON
+Representative name for the entity: communities
+Entity type: PERSON
+Salience score: 0.00014281118637882173
+Mention text: communities
+Mention type: COMMON
+Representative name for the entity: course
+Entity type: OTHER
+Salience score: 0.00014281118637882173
+Mention text: course
+Mention type: COMMON
+Representative name for the entity: performance
+Entity type: OTHER
+Salience score: 0.0001417051680618897
+Mention text: performance
+Mention type: COMMON
+Representative name for the entity: performance
+Entity type: EVENT
+Salience score: 0.0001417051680618897
+Mention text: performance
+Mention type: COMMON
+Representative name for the entity: cities
+Entity type: LOCATION
+Salience score: 0.0001417051680618897
+Mention text: cities
+Mention type: COMMON
+Representative name for the entity: city
+Entity type: LOCATION
+Salience score: 0.0001416586310369894
+Mention text: city
+Mention type: COMMON
+Representative name for the entity: any
+Entity type: OTHER
+Salience score: 0.00014130686759017408
+Mention text: any
+Mention type: COMMON
+Representative name for the entity: voting
+Entity type: OTHER
+Salience score: 0.00014130686759017408
+Mention text: voting
+Mention type: COMMON
+Representative name for the entity: performance
+Entity type: OTHER
+Salience score: 0.00014130686759017408
+Mention text: performance
+Mention type: COMMON
+Representative name for the entity: three
+Entity type: OTHER
+Salience score: 0.00014031666796654463
+Mention text: three
+Mention type: COMMON
+Representative name for the entity: deadlock situation
+Entity type: OTHER
+Salience score: 0.00014031666796654463
+Mention text: deadlock situation
+Mention type: COMMON
+Representative name for the entity: professional
+Entity type: PERSON
+Salience score: 0.000140124699100852
+Mention text: professional
+Mention type: COMMON
+Representative name for the entity: cities
+Entity type: LOCATION
+Salience score: 0.00013994741311762482
+Mention text: cities
+Mention type: COMMON
+Representative name for the entity: margin
+Entity type: OTHER
+Salience score: 0.00013951974688097835
+Mention text: margin
+Mention type: COMMON
+Representative name for the entity: margin
+Entity type: OTHER
+Salience score: 0.00013951974688097835
+Mention text: margin
+Mention type: COMMON
+Representative name for the entity: stories
+Entity type: WORK_OF_ART
+Salience score: 0.00013738646521233022
+Mention text: stories
+Mention type: COMMON
+Representative name for the entity: potential
+Entity type: OTHER
+Salience score: 0.0001365976349916309
+Mention text: potential
+Mention type: COMMON
+Representative name for the entity: tally
+Entity type: OTHER
+Salience score: 0.00013614427007269114
+Mention text: tally
+Mention type: COMMON
+Representative name for the entity: Fulton County
+Entity type: LOCATION
+Salience score: 0.0001351631508441642
+wikipedia_url: https://en.wikipedia.org/wiki/Fulton_County,_Georgia
+mid: /m/0nzny
+Mention text: Fulton County
+Mention type: PROPER
+Representative name for the entity: inroads
+Entity type: OTHER
+Salience score: 0.0001338180882157758
+Mention text: inroads
+Mention type: COMMON
+Representative name for the entity: Cuban American
+Entity type: PERSON
+Salience score: 0.00013380694144871086
+wikipedia_url: https://en.wikipedia.org/wiki/Cuban_Americans
+mid: /m/04dbw3
+Mention text: Cuban American
+Mention type: PROPER
+Representative name for the entity: American
+Entity type: LOCATION
+Salience score: 0.00013377776485867798
+wikipedia_url: https://en.wikipedia.org/wiki/United_States
+mid: /m/09c7w0
+Mention text: American
+Mention type: PROPER
+Mention text: States
+Mention type: COMMON
+Mention text: States
+Mention type: PROPER
+Mention text: States
+Mention type: PROPER
+Representative name for the entity: Venezuelan American
+Entity type: PERSON
+Salience score: 0.00013363930338528007
+mid: /m/02vys3l
+wikipedia_url: https://en.wikipedia.org/wiki/Venezuelan_Americans
+Mention text: Venezuelan American
+Mention type: PROPER
+Representative name for the entity: millions
+Entity type: OTHER
+Salience score: 0.00013170824968256056
+Mention text: millions
+Mention type: COMMON
+Representative name for the entity: paths
+Entity type: OTHER
+Salience score: 0.00013157854846213013
+Mention text: paths
+Mention type: COMMON
+Representative name for the entity: reporters
+Entity type: PERSON
+Salience score: 0.0001308702485403046
+Mention text: reporters
+Mention type: COMMON
+Representative name for the entity: scenario
+Entity type: OTHER
+Salience score: 0.00013067595136817545
+Mention text: scenario
+Mention type: COMMON
+Representative name for the entity: balance
+Entity type: OTHER
+Salience score: 0.0001303351018577814
+Mention text: balance
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00013031928392592818
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: strength
+Entity type: OTHER
+Salience score: 0.0001302727614529431
+Mention text: strength
+Mention type: COMMON
+Representative name for the entity: another
+Entity type: OTHER
+Salience score: 0.00012925546616315842
+Mention text: another
+Mention type: COMMON
+Representative name for the entity: door
+Entity type: OTHER
+Salience score: 0.00012919136497657746
+Mention text: door
+Mention type: COMMON
+Representative name for the entity: suburbs
+Entity type: LOCATION
+Salience score: 0.00012917057028971612
+Mention text: suburbs
+Mention type: COMMON
+Representative name for the entity: Jacksonville
+Entity type: LOCATION
+Salience score: 0.0001285485632251948
+wikipedia_url: https://en.wikipedia.org/wiki/Jacksonville,_Florida
+mid: /m/0ggh3
+Mention text: Jacksonville
+Mention type: PROPER
+Mention text: Jacksonville
+Mention type: PROPER
+Representative name for the entity: Tampa
+Entity type: LOCATION
+Salience score: 0.0001285485632251948
+wikipedia_url: https://en.wikipedia.org/wiki/Tampa,_Florida
+mid: /m/0n1rj
+Mention text: Tampa
+Mention type: PROPER
+Mention text: Tampa
+Mention type: PROPER
+Representative name for the entity: Cornerstone
+Entity type: ORGANIZATION
+Salience score: 0.00012776811490766704
+Mention text: Cornerstone
+Mention type: PROPER
+Representative name for the entity: other
+Entity type: OTHER
+Salience score: 0.00012253972818143666
+Mention text: other
+Mention type: COMMON
+Representative name for the entity: candidates
+Entity type: PERSON
+Salience score: 0.00012249546125531197
+Mention text: candidates
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 0.00012239028001204133
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 0.00011981521674897522
+Mention text: place
+Mention type: COMMON
+Representative name for the entity: vending machine
+Entity type: CONSUMER_GOOD
+Salience score: 0.00011941657430725172
+Mention text: vending machine
+Mention type: COMMON
+Representative name for the entity: ground
+Entity type: LOCATION
+Salience score: 0.00011936497321585193
+Mention text: ground
+Mention type: COMMON
+Representative name for the entity: everywhere
+Entity type: LOCATION
+Salience score: 0.00011932744382647797
+Mention text: everywhere
+Mention type: COMMON
+Representative name for the entity: winner
+Entity type: PERSON
+Salience score: 0.00011923185229534283
+Mention text: winner
+Mention type: COMMON
+Representative name for the entity: binding
+Entity type: OTHER
+Salience score: 0.00011920891120098531
+Mention text: binding
+Mention type: COMMON
+Representative name for the entity: attention
+Entity type: OTHER
+Salience score: 0.00011918631935259327
+Mention text: attention
+Mention type: COMMON
+Representative name for the entity: sense
+Entity type: OTHER
+Salience score: 0.00011913305206689984
+Mention text: sense
+Mention type: COMMON
+Representative name for the entity: points
+Entity type: OTHER
+Salience score: 0.00011849489237647504
+Mention text: points
+Mention type: COMMON
+Representative name for the entity: parts
+Entity type: OTHER
+Salience score: 0.00011740157788153738
+Mention text: parts
+Mention type: COMMON
+Representative name for the entity: Herbs
+Entity type: OTHER
+Salience score: 0.00011456570791779086
+Mention text: Herbs
+Mention type: COMMON
+Representative name for the entity: ring
+Entity type: CONSUMER_GOOD
+Salience score: 0.00011455077765276656
+Mention text: ring
+Mention type: COMMON
+Representative name for the entity: upshot estimate
+Entity type: OTHER
+Salience score: 0.00011453600018285215
+Mention text: upshot estimate
+Mention type: COMMON
+Representative name for the entity: ways
+Entity type: OTHER
+Salience score: 0.00011450691818026826
+Mention text: ways
+Mention type: COMMON
+Representative name for the entity: fashion
+Entity type: OTHER
+Salience score: 0.0001144505076808855
+Mention text: fashion
+Mention type: COMMON
+Representative name for the entity: bite
+Entity type: OTHER
+Salience score: 0.00011443675612099469
+Mention text: bite
+Mention type: COMMON
+Representative name for the entity: retirees
+Entity type: PERSON
+Salience score: 0.00011440965317888185
+Mention text: retirees
+Mention type: COMMON
+Representative name for the entity: moderates
+Entity type: PERSON
+Salience score: 0.00011439629452070221
+Mention text: moderates
+Mention type: COMMON
+Representative name for the entity: coast
+Entity type: LOCATION
+Salience score: 0.00011438306682975963
+Mention text: coast
+Mention type: COMMON
+Representative name for the entity: desert
+Entity type: LOCATION
+Salience score: 0.00011438306682975963
+Mention text: desert
+Mention type: COMMON
+Representative name for the entity: routines
+Entity type: OTHER
+Salience score: 0.00011435698252171278
+Mention text: routines
+Mention type: COMMON
+Representative name for the entity: plans
+Entity type: OTHER
+Salience score: 0.0001143441186286509
+Mention text: plans
+Mention type: COMMON
+Representative name for the entity: most
+Entity type: OTHER
+Salience score: 0.00011431874736445025
+Mention text: most
+Mention type: COMMON
+Representative name for the entity: life
+Entity type: OTHER
+Salience score: 0.00011431874736445025
+Mention text: life
+Mention type: COMMON
+Representative name for the entity: situation
+Entity type: OTHER
+Salience score: 0.00011422991519793868
+Mention text: situation
+Mention type: COMMON
+Representative name for the entity: Cuban
+Entity type: LOCATION
+Salience score: 0.0001136146966018714
+Mention text: Cuban
+Mention type: PROPER
+Representative name for the entity: razor
+Entity type: OTHER
+Salience score: 0.00011351622379152104
+Mention text: razor
+Mention type: COMMON
+Representative name for the entity: Edge
+Entity type: OTHER
+Salience score: 0.00011351622379152104
+Mention text: Edge
+Mention type: COMMON
+Representative name for the entity: Cuba
+Entity type: LOCATION
+Salience score: 0.00011347235704306513
+wikipedia_url: https://en.wikipedia.org/wiki/Cuba
+mid: /m/0d04z6
+Mention text: Cuba
+Mention type: PROPER
+Representative name for the entity: politics
+Entity type: OTHER
+Salience score: 0.0001134599297074601
+Mention text: politics
+Mention type: COMMON
+Representative name for the entity: force
+Entity type: OTHER
+Salience score: 0.0001134599297074601
+Mention text: force
+Mention type: COMMON
+Representative name for the entity: setbacks
+Entity type: OTHER
+Salience score: 0.00011344165977789089
+Mention text: setbacks
+Mention type: COMMON
+Representative name for the entity: tide
+Entity type: OTHER
+Salience score: 0.00011340584023855627
+Mention text: tide
+Mention type: COMMON
+Representative name for the entity: gains
+Entity type: OTHER
+Salience score: 0.00011338826880091801
+Mention text: gains
+Mention type: COMMON
+Representative name for the entity: unpopularity
+Entity type: OTHER
+Salience score: 0.00011332015128573403
+Mention text: unpopularity
+Mention type: COMMON
+Representative name for the entity: wave
+Entity type: OTHER
+Salience score: 0.00011330363486194983
+Mention text: wave
+Mention type: COMMON
+Representative name for the entity: water
+Entity type: OTHER
+Salience score: 0.00011322389036649838
+Mention text: water
+Mention type: COMMON
+Representative name for the entity: difficulties
+Entity type: OTHER
+Salience score: 0.00011320848716422915
+Mention text: difficulties
+Mention type: COMMON
+Representative name for the entity: facility
+Entity type: LOCATION
+Salience score: 0.00011320848716422915
+Mention text: facility
+Mention type: COMMON
+Representative name for the entity: issues
+Entity type: OTHER
+Salience score: 0.00011317817552480847
+Mention text: issues
+Mention type: COMMON
+Representative name for the entity: pandemic
+Entity type: OTHER
+Salience score: 0.00011317817552480847
+Mention text: pandemic
+Mention type: COMMON
+Representative name for the entity: Latino
+Entity type: LOCATION
+Salience score: 0.00011273488053120673
+mid: /m/025rpb0
+wikipedia_url: https://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans
+Mention text: Latino
+Mention type: PROPER
+Mention text: Latino
+Mention type: PROPER
+Mention text: Hispanic
+Mention type: PROPER
+Representative name for the entity: country
+Entity type: LOCATION
+Salience score: 0.00011090424959547818
+Mention text: country
+Mention type: COMMON
+Representative name for the entity: counselor
+Entity type: OTHER
+Salience score: 0.00011080016702180728
+Mention text: counselor
+Mention type: COMMON
+Representative name for the entity: help counselor
+Entity type: OTHER
+Salience score: 0.00011079392425017431
+Mention text: help counselor
+Mention type: COMMON
+Representative name for the entity: Victory
+Entity type: EVENT
+Salience score: 0.00011053945490857586
+Mention text: Victory
+Mention type: COMMON
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 0.00010912038123933598
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 0.00010654147627064958
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: Side
+Entity type: OTHER
+Salience score: 0.00010540905350353569
+Mention text: Side
+Mention type: COMMON
+Representative name for the entity: question
+Entity type: OTHER
+Salience score: 0.00010540139192016795
+Mention text: question
+Mention type: COMMON
+Representative name for the entity: things
+Entity type: OTHER
+Salience score: 0.0001053712039720267
+Mention text: things
+Mention type: COMMON
+Representative name for the entity: question
+Entity type: OTHER
+Salience score: 0.00010530577128520235
+Mention text: question
+Mention type: COMMON
+Representative name for the entity: lives
+Entity type: OTHER
+Salience score: 0.00010486380779184401
+Mention text: lives
+Mention type: COMMON
+Representative name for the entity: war zone
+Entity type: LOCATION
+Salience score: 0.00010484115045983344
+Mention text: war zone
+Mention type: COMMON
+Representative name for the entity: terms
+Entity type: OTHER
+Salience score: 0.00010474390001036227
+Mention text: terms
+Mention type: COMMON
+Representative name for the entity: string
+Entity type: OTHER
+Salience score: 0.0001046730758389458
+Mention text: string
+Mention type: COMMON
+Representative name for the entity: Distance
+Entity type: OTHER
+Salience score: 0.0001046730758389458
+Mention text: Distance
+Mention type: COMMON
+Representative name for the entity: point
+Entity type: OTHER
+Salience score: 0.0001046531688189134
+Mention text: point
+Mention type: COMMON
+Representative name for the entity: point
+Entity type: OTHER
+Salience score: 0.00010459531767992303
+Mention text: point
+Mention type: COMMON
+Representative name for the entity: break
+Entity type: EVENT
+Salience score: 0.00010456673771841452
+Mention text: break
+Mention type: COMMON
+Representative name for the entity: kind
+Entity type: OTHER
+Salience score: 0.00010282729635946453
+Mention text: kind
+Mention type: COMMON
+Representative name for the entity: breakthrough
+Entity type: EVENT
+Salience score: 0.00010161034151678905
+Mention text: breakthrough
+Mention type: COMMON
+Representative name for the entity: listeners
+Entity type: PERSON
+Salience score: 0.0001002607386908494
+Mention text: listeners
+Mention type: COMMON
+Representative name for the entity: Spected
+Entity type: PERSON
+Salience score: 0.00010007667151512578
+Mention text: Spected
+Mention type: PROPER
+Representative name for the entity: Venezuela
+Entity type: LOCATION
+Salience score: 9.965483332052827e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Venezuela
+mid: /m/07ylj
+Mention text: Venezuela
+Mention type: PROPER
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 9.885423787636682e-05
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: level
+Entity type: OTHER
+Salience score: 9.803661669138819e-05
+Mention text: level
+Mention type: COMMON
+Representative name for the entity: couple
+Entity type: PERSON
+Salience score: 9.803006832953542e-05
+Mention text: couple
+Mention type: COMMON
+Representative name for the entity: courts
+Entity type: ORGANIZATION
+Salience score: 9.801064879866317e-05
+Mention text: courts
+Mention type: COMMON
+Representative name for the entity: level
+Entity type: OTHER
+Salience score: 9.799787221709266e-05
+Mention text: level
+Mention type: COMMON
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 9.777434752322733e-05
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: progress
+Entity type: OTHER
+Salience score: 9.742586553329602e-05
+Mention text: progress
+Mention type: COMMON
+Representative name for the entity: state
+Entity type: LOCATION
+Salience score: 9.61606201599352e-05
+Mention text: state
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 9.615207090973854e-05
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: states
+Entity type: LOCATION
+Salience score: 9.614357986720279e-05
+Mention text: states
+Mention type: COMMON
+Representative name for the entity: Minnesota
+Entity type: LOCATION
+Salience score: 9.584907093085349e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Minnesota
+mid: /m/04ykg
+Mention text: Minnesota
+Mention type: PROPER
+Mention text: Minnesota
+Mention type: PROPER
+Mention text: Minnesota
+Mention type: PROPER
+Representative name for the entity: scoreboard
+Entity type: OTHER
+Salience score: 9.430494537809864e-05
+Mention text: scoreboard
+Mention type: COMMON
+Representative name for the entity: Electoral College
+Entity type: ORGANIZATION
+Salience score: 9.36574797378853e-05
+mid: /m/0kq2y
+wikipedia_url: https://en.wikipedia.org/wiki/Electoral_college
+Mention text: Electoral College
+Mention type: PROPER
+Mention text: Electoral College
+Mention type: PROPER
+Representative name for the entity: Southwest
+Entity type: ORGANIZATION
+Salience score: 9.236367623088881e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Southwest_Airlines
+mid: /m/0gztl
+Mention text: Southwest
+Mention type: PROPER
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 9.222115477314219e-05
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: votes
+Entity type: OTHER
+Salience score: 9.222115477314219e-05
+Mention text: votes
+Mention type: COMMON
+Representative name for the entity: vote
+Entity type: EVENT
+Salience score: 9.219672938343138e-05
+Mention text: vote
+Mention type: COMMON
+Representative name for the entity: election day votes
+Entity type: OTHER
+Salience score: 9.217282058671117e-05
+Mention text: election day votes
+Mention type: COMMON
+Representative name for the entity: victory
+Entity type: OTHER
+Salience score: 9.192694415105507e-05
+Mention text: victory
+Mention type: COMMON
+Representative name for the entity: victory
+Entity type: OTHER
+Salience score: 9.18922814889811e-05
+Mention text: victory
+Mention type: COMMON
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 9.187535033561289e-05
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 9.183680231217295e-05
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: snafus
+Entity type: OTHER
+Salience score: 9.183357178699225e-05
+Mention text: snafus
+Mention type: COMMON
+Representative name for the entity: Nevada
+Entity type: LOCATION
+Salience score: 9.107076766667888e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Nevada
+mid: /m/059_c
+Mention text: Nevada
+Mention type: PROPER
+Mention text: Nevada
+Mention type: PROPER
+Representative name for the entity: president
+Entity type: PERSON
+Salience score: 9.062552271643654e-05
+Mention text: president
+Mention type: COMMON
+Representative name for the entity: Arizona Phoenix
+Entity type: LOCATION
+Salience score: 8.988173794932663e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Phoenix,_Arizona
+mid: /m/0d35y
+Mention text: Arizona Phoenix
+Mention type: PROPER
+Mention text: Phoenix
+Mention type: PROPER
+Mention text: Phoenix
+Mention type: PROPER
+Mention text: state
+Mention type: COMMON
+Mention text: Phoenix
+Mention type: PROPER
+Representative name for the entity: half
+Entity type: OTHER
+Salience score: 8.952830103226006e-05
+Mention text: half
+Mention type: COMMON
+Representative name for the entity: seats
+Entity type: OTHER
+Salience score: 8.947611058829352e-05
+Mention text: seats
+Mention type: COMMON
+Representative name for the entity: fortunes
+Entity type: OTHER
+Salience score: 8.947611058829352e-05
+Mention text: fortunes
+Mention type: COMMON
+Representative name for the entity: seats
+Entity type: OTHER
+Salience score: 8.945716399466619e-05
+Mention text: seats
+Mention type: COMMON
+Representative name for the entity: track
+Entity type: OTHER
+Salience score: 8.939629333326593e-05
+Mention text: track
+Mention type: COMMON
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 8.879505912773311e-05
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 8.879505912773311e-05
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 8.876907668309286e-05
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: polls
+Entity type: OTHER
+Salience score: 8.856222120812163e-05
+Mention text: polls
+Mention type: COMMON
+Representative name for the entity: gap
+Entity type: OTHER
+Salience score: 8.554098894819617e-05
+Mention text: gap
+Mention type: COMMON
+Representative name for the entity: fortunes
+Entity type: OTHER
+Salience score: 8.413189061684534e-05
+Mention text: fortunes
+Mention type: COMMON
+Representative name for the entity: point
+Entity type: OTHER
+Salience score: 8.40208085719496e-05
+Mention text: point
+Mention type: COMMON
+Representative name for the entity: Republican
+Entity type: ORGANIZATION
+Salience score: 8.344653906533495e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Republican_Party_(United_States)
+mid: /m/07wbk
+Mention text: Republican
+Mention type: PROPER
+Mention text: Republican
+Mention type: PROPER
+Mention text: Republican
+Mention type: PROPER
+Mention text: Republicans
+Mention type: PROPER
+Mention text: Republicans
+Mention type: PROPER
+Mention text: Republicans
+Mention type: PROPER
+Mention text: Republican Party
+Mention type: PROPER
+Representative name for the entity: Hannah South Carolina
+Entity type: PERSON
+Salience score: 8.244891796493903e-05
+Mention text: Hannah South Carolina
+Mention type: PROPER
+Representative name for the entity: Asana
+Entity type: CONSUMER_GOOD
+Salience score: 8.126282773446292e-05
+Mention text: Asana
+Mention type: PROPER
+Representative name for the entity: Nobody
+Entity type: PERSON
+Salience score: 8.050642645685002e-05
+Mention text: Nobody
+Mention type: COMMON
+Representative name for the entity: incumbents
+Entity type: PERSON
+Salience score: 7.858041499275714e-05
+Mention text: incumbents
+Mention type: COMMON
+Representative name for the entity: nature
+Entity type: OTHER
+Salience score: 7.858041499275714e-05
+Mention text: nature
+Mention type: COMMON
+Representative name for the entity: bunch
+Entity type: OTHER
+Salience score: 7.85637748776935e-05
+Mention text: bunch
+Mention type: COMMON
+Representative name for the entity: Divergence
+Entity type: OTHER
+Salience score: 7.85637748776935e-05
+Mention text: Divergence
+Mention type: COMMON
+Representative name for the entity: exception
+Entity type: OTHER
+Salience score: 7.855283911339939e-05
+Mention text: exception
+Mention type: COMMON
+Representative name for the entity: amount
+Entity type: OTHER
+Salience score: 7.854202704038471e-05
+Mention text: amount
+Mention type: COMMON
+Representative name for the entity: mind
+Entity type: OTHER
+Salience score: 7.849997200537473e-05
+Mention text: mind
+Mention type: COMMON
+Representative name for the entity: remarks
+Entity type: OTHER
+Salience score: 7.848974200896919e-05
+Mention text: remarks
+Mention type: COMMON
+Representative name for the entity: doubt
+Entity type: OTHER
+Salience score: 7.84305520937778e-05
+Mention text: doubt
+Mention type: COMMON
+Representative name for the entity: kind
+Entity type: OTHER
+Salience score: 7.80542177380994e-05
+Mention text: kind
+Mention type: COMMON
+Representative name for the entity: speech
+Entity type: EVENT
+Salience score: 7.753477257210761e-05
+Mention text: speech
+Mention type: COMMON
+Representative name for the entity: Suburban
+Entity type: LOCATION
+Salience score: 7.613824709551409e-05
+Mention text: Suburban
+Mention type: PROPER
+Representative name for the entity: majority
+Entity type: PERSON
+Salience score: 7.568242290290073e-05
+Mention text: majority
+Mention type: COMMON
+Representative name for the entity: situation
+Entity type: OTHER
+Salience score: 7.361790630966425e-05
+Mention text: situation
+Mention type: COMMON
+Representative name for the entity: process
+Entity type: OTHER
+Salience score: 7.359949086094275e-05
+Mention text: process
+Mention type: COMMON
+Representative name for the entity: thing
+Entity type: OTHER
+Salience score: 7.359043229371309e-05
+Mention text: thing
+Mention type: COMMON
+Representative name for the entity: daily
+Entity type: ORGANIZATION
+Salience score: 7.352942338911816e-05
+Mention text: daily
+Mention type: COMMON
+Representative name for the entity: daily
+Entity type: OTHER
+Salience score: 7.350859959842637e-05
+Mention text: daily
+Mention type: COMMON
+Representative name for the entity: winner
+Entity type: PERSON
+Salience score: 7.336776616284624e-05
+Mention text: winner
+Mention type: COMMON
+Representative name for the entity: Lee
+Entity type: PERSON
+Salience score: 6.921581370988861e-05
+Mention text: Lee
+Mention type: PROPER
+Representative name for the entity: Coalition
+Entity type: ORGANIZATION
+Salience score: 6.756953371223062e-05
+mid: /m/0pyfv
+wikipedia_url: https://en.wikipedia.org/wiki/Coalition
+Mention text: Coalition
+Mention type: PROPER
+Representative name for the entity: Wendy
+Entity type: PERSON
+Salience score: 6.753898924216628e-05
+Mention text: Wendy
+Mention type: PROPER
+Representative name for the entity: Asin
+Entity type: PERSON
+Salience score: 6.753898924216628e-05
+Mention text: Asin
+Mention type: PROPER
+Representative name for the entity: Battleground
+Entity type: LOCATION
+Salience score: 6.693185423500836e-05
+Mention text: Battleground
+Mention type: PROPER
+Representative name for the entity: place
+Entity type: OTHER
+Salience score: 6.577960448339581e-05
+Mention text: place
+Mention type: COMMON
+Representative name for the entity: points
+Entity type: OTHER
+Salience score: 6.577403837582096e-05
+Mention text: points
+Mention type: COMMON
+Representative name for the entity: point
+Entity type: OTHER
+Salience score: 6.569989636773244e-05
+Mention text: point
+Mention type: COMMON
+Representative name for the entity: all
+Entity type: OTHER
+Salience score: 6.43699531792663e-05
+Mention text: all
+Mention type: COMMON
+Representative name for the entity: everyone
+Entity type: PERSON
+Salience score: 6.409107299987227e-05
+Mention text: everyone
+Mention type: COMMON
+Representative name for the entity: charge
+Entity type: OTHER
+Salience score: 6.354977085720748e-05
+Mention text: charge
+Mention type: COMMON
+Representative name for the entity: attempt
+Entity type: OTHER
+Salience score: 6.251599552342668e-05
+Mention text: attempt
+Mention type: COMMON
+Representative name for the entity: anything
+Entity type: OTHER
+Salience score: 6.247710552997887e-05
+Mention text: anything
+Mention type: COMMON
+Representative name for the entity: math
+Entity type: OTHER
+Salience score: 6.245838449103758e-05
+Mention text: math
+Mention type: COMMON
+Representative name for the entity: rest
+Entity type: OTHER
+Salience score: 6.245469558052719e-05
+Mention text: rest
+Mention type: COMMON
+Representative name for the entity: suburbs
+Entity type: LOCATION
+Salience score: 6.245469558052719e-05
+Mention text: suburbs
+Mention type: COMMON
+Representative name for the entity: fact
+Entity type: OTHER
+Salience score: 6.245469558052719e-05
+Mention text: fact
+Mention type: COMMON
+Representative name for the entity: environment
+Entity type: OTHER
+Salience score: 6.242226663744077e-05
+Mention text: environment
+Mention type: COMMON
+Representative name for the entity: help
+Entity type: OTHER
+Salience score: 6.241875234991312e-05
+Mention text: help
+Mention type: COMMON
+Representative name for the entity: stress
+Entity type: OTHER
+Salience score: 6.241875234991312e-05
+Mention text: stress
+Mention type: COMMON
+Representative name for the entity: push
+Entity type: OTHER
+Salience score: 6.221533112693578e-05
+Mention text: push
+Mention type: COMMON
+Representative name for the entity: rest
+Entity type: OTHER
+Salience score: 6.167930405354127e-05
+Mention text: rest
+Mention type: COMMON
+Representative name for the entity: polling
+Entity type: EVENT
+Salience score: 6.124287028796971e-05
+Mention text: polling
+Mention type: COMMON
+Representative name for the entity: pollster
+Entity type: PERSON
+Salience score: 6.120731995906681e-05
+Mention text: pollster
+Mention type: COMMON
+Representative name for the entity: media polling
+Entity type: OTHER
+Salience score: 6.116865552030504e-05
+Mention text: media polling
+Mention type: COMMON
+Representative name for the entity: Margin
+Entity type: OTHER
+Salience score: 6.116396252764389e-05
+Mention text: Margin
+Mention type: COMMON
+Representative name for the entity: margin
+Entity type: OTHER
+Salience score: 6.115005817264318e-05
+Mention text: margin
+Mention type: COMMON
+Representative name for the entity: polling
+Entity type: OTHER
+Salience score: 6.043392568244599e-05
+Mention text: polling
+Mention type: COMMON
+Representative name for the entity: Ohio
+Entity type: LOCATION
+Salience score: 5.972263534204103e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Ohio
+mid: /m/05kkh
+Mention text: Ohio
+Mention type: PROPER
+Mention text: Ohio
+Mention type: PROPER
+Representative name for the entity: Iowa
+Entity type: LOCATION
+Salience score: 5.968862024019472e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Iowa
+mid: /m/03s0w
+Mention text: Iowa
+Mention type: PROPER
+Mention text: Iowa
+Mention type: PROPER
+Representative name for the entity: way
+Entity type: OTHER
+Salience score: 5.777426849817857e-05
+Mention text: way
+Mention type: COMMON
+Representative name for the entity: some
+Entity type: OTHER
+Salience score: 5.7699337048688903e-05
+Mention text: some
+Mention type: COMMON
+Representative name for the entity: paths
+Entity type: OTHER
+Salience score: 5.698861423297785e-05
+Mention text: paths
+Mention type: COMMON
+Representative name for the entity: Michigan State
+Entity type: ORGANIZATION
+Salience score: 5.6688244512770325e-05
+Mention text: Michigan State
+Mention type: PROPER
+Representative name for the entity: lot
+Entity type: OTHER
+Salience score: 5.5815664381952956e-05
+Mention text: lot
+Mention type: COMMON
+Representative name for the entity: message
+Entity type: OTHER
+Salience score: 5.4903135605854914e-05
+Mention text: message
+Mention type: COMMON
+Representative name for the entity: spin
+Entity type: OTHER
+Salience score: 5.489616160048172e-05
+Mention text: spin
+Mention type: COMMON
+Representative name for the entity: irresponsibility buttocks
+Entity type: OTHER
+Salience score: 5.488926399266347e-05
+Mention text: irresponsibility buttocks
+Mention type: COMMON
+Representative name for the entity: par
+Entity type: OTHER
+Salience score: 5.488926399266347e-05
+Mention text: par
+Mention type: COMMON
+Representative name for the entity: faith
+Entity type: OTHER
+Salience score: 5.488243550644256e-05
+Mention text: faith
+Mention type: COMMON
+Representative name for the entity: legitimacy
+Entity type: OTHER
+Salience score: 5.487231828738004e-05
+Mention text: legitimacy
+Mention type: COMMON
+Representative name for the entity: divisions
+Entity type: OTHER
+Salience score: 5.487231828738004e-05
+Mention text: divisions
+Mention type: COMMON
+Representative name for the entity: ass
+Entity type: OTHER
+Salience score: 5.486566078616306e-05
+Mention text: ass
+Mention type: COMMON
+Representative name for the entity: sleep
+Entity type: OTHER
+Salience score: 5.485906876856461e-05
+Mention text: sleep
+Mention type: COMMON
+Representative name for the entity: health
+Entity type: OTHER
+Salience score: 5.481773041537963e-05
+Mention text: health
+Mention type: COMMON
+Representative name for the entity: anxiety
+Entity type: OTHER
+Salience score: 5.481773041537963e-05
+Mention text: anxiety
+Mention type: COMMON
+Representative name for the entity: depression
+Entity type: OTHER
+Salience score: 5.481773041537963e-05
+Mention text: depression
+Mention type: COMMON
+Representative name for the entity: visit
+Entity type: EVENT
+Salience score: 5.4814656323287636e-05
+Mention text: visit
+Mention type: COMMON
+Representative name for the entity: picture
+Entity type: WORK_OF_ART
+Salience score: 5.381304436014034e-05
+Mention text: picture
+Mention type: COMMON
+Representative name for the entity: many
+Entity type: OTHER
+Salience score: 5.379424328566529e-05
+Mention text: many
+Mention type: COMMON
+Representative name for the entity: sort
+Entity type: OTHER
+Salience score: 5.371164297685027e-05
+Mention text: sort
+Mention type: COMMON
+Representative name for the entity: actors
+Entity type: PERSON
+Salience score: 5.353705273591913e-05
+Mention text: actors
+Mention type: COMMON
+Representative name for the entity: same
+Entity type: OTHER
+Salience score: 5.1785613322863355e-05
+Mention text: same
+Mention type: COMMON
+Representative name for the entity: part
+Entity type: OTHER
+Salience score: 5.155572944204323e-05
+Mention text: part
+Mention type: COMMON
+Representative name for the entity: people
+Entity type: PERSON
+Salience score: 5.096764652989805e-05
+Mention text: people
+Mention type: COMMON
+Representative name for the entity: city
+Entity type: LOCATION
+Salience score: 5.0955517508555204e-05
+Mention text: city
+Mention type: COMMON
+Representative name for the entity: poll
+Entity type: OTHER
+Salience score: 5.090699050924741e-05
+Mention text: poll
+Mention type: COMMON
+Representative name for the entity: counseling service
+Entity type: OTHER
+Salience score: 4.967638960806653e-05
+Mention text: counseling service
+Mention type: COMMON
+Representative name for the entity: lead
+Entity type: OTHER
+Salience score: 4.905531750409864e-05
+Mention text: lead
+Mention type: COMMON
+Representative name for the entity: blowout leads
+Entity type: OTHER
+Salience score: 4.899169653072022e-05
+Mention text: blowout leads
+Mention type: COMMON
+Representative name for the entity: Kansas
+Entity type: LOCATION
+Salience score: 4.640617407858372e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Kansas
+mid: /m/0488g
+Mention text: Kansas
+Mention type: PROPER
+Representative name for the entity: map
+Entity type: WORK_OF_ART
+Salience score: 4.6289067540783435e-05
+Mention text: map
+Mention type: COMMON
+Representative name for the entity: results
+Entity type: OTHER
+Salience score: 4.626514783012681e-05
+Mention text: results
+Mention type: COMMON
+Representative name for the entity: contents
+Entity type: OTHER
+Salience score: 4.625355722964741e-05
+Mention text: contents
+Mention type: COMMON
+Representative name for the entity: contents
+Entity type: OTHER
+Salience score: 4.6245961129898205e-05
+Mention text: contents
+Mention type: COMMON
+Representative name for the entity: results
+Entity type: OTHER
+Salience score: 4.6238466893555596e-05
+Mention text: results
+Mention type: COMMON
+Representative name for the entity: cases
+Entity type: OTHER
+Salience score: 4.6238466893555596e-05
+Mention text: cases
+Mention type: COMMON
+Representative name for the entity: cases
+Entity type: OTHER
+Salience score: 4.6223769459174946e-05
+Mention text: cases
+Mention type: COMMON
+Representative name for the entity: sides
+Entity type: OTHER
+Salience score: 4.62201533082407e-05
+Mention text: sides
+Mention type: COMMON
+Representative name for the entity: side
+Entity type: OTHER
+Salience score: 4.62165626231581e-05
+Mention text: side
+Mention type: COMMON
+Representative name for the entity: question
+Entity type: OTHER
+Salience score: 4.6205921535147354e-05
+Mention text: question
+Mention type: COMMON
+Representative name for the entity: mail
+Entity type: OTHER
+Salience score: 4.310415897634812e-05
+Mention text: mail
+Mention type: COMMON
+Representative name for the entity: voting
+Entity type: OTHER
+Salience score: 4.310415897634812e-05
+Mention text: voting
+Mention type: COMMON
+Representative name for the entity: poles
+Entity type: OTHER
+Salience score: 4.3063457269454375e-05
+Mention text: poles
+Mention type: COMMON
+Representative name for the entity: poles
+Entity type: OTHER
+Salience score: 4.303911191527732e-05
+Mention text: poles
+Mention type: COMMON
+Representative name for the entity: campaigns
+Entity type: EVENT
+Salience score: 4.3032359826611355e-05
+Mention text: campaigns
+Mention type: COMMON
+Representative name for the entity: side
+Entity type: PERSON
+Salience score: 4.292074663680978e-05
+Mention text: side
+Mention type: COMMON
+Representative name for the entity: inclination
+Entity type: OTHER
+Salience score: 4.1444152884650975e-05
+Mention text: inclination
+Mention type: COMMON
+Representative name for the entity: unrest
+Entity type: EVENT
+Salience score: 4.1334787965752184e-05
+Mention text: unrest
+Mention type: COMMON
+Representative name for the entity: advance
+Entity type: OTHER
+Salience score: 3.9310303691308945e-05
+Mention text: advance
+Mention type: COMMON
+Representative name for the entity: balance
+Entity type: OTHER
+Salience score: 3.929647209588438e-05
+Mention text: balance
+Mention type: COMMON
+Representative name for the entity: somebody
+Entity type: PERSON
+Salience score: 3.928302612621337e-05
+Mention text: somebody
+Mention type: COMMON
+Representative name for the entity: anything
+Entity type: OTHER
+Salience score: 3.927972284145653e-05
+Mention text: anything
+Mention type: COMMON
+Representative name for the entity: media
+Entity type: OTHER
+Salience score: 3.924789416487329e-05
+Mention text: media
+Mention type: COMMON
+Representative name for the entity: numbers
+Entity type: OTHER
+Salience score: 3.828982517006807e-05
+Mention text: numbers
+Mention type: COMMON
+Representative name for the entity: claims
+Entity type: OTHER
+Salience score: 3.481370731606148e-05
+Mention text: claims
+Mention type: COMMON
+Representative name for the entity: point spread
+Entity type: EVENT
+Salience score: 3.449637006269768e-05
+Mention text: point spread
+Mention type: COMMON
+Representative name for the entity: support
+Entity type: OTHER
+Salience score: 3.4471129765734076e-05
+Mention text: support
+Mention type: COMMON
+Representative name for the entity: reservoir
+Entity type: LOCATION
+Salience score: 3.4471129765734076e-05
+Mention text: reservoir
+Mention type: COMMON
+Representative name for the entity: right
+Entity type: OTHER
+Salience score: 3.446572009124793e-05
+Mention text: right
+Mention type: COMMON
+Representative name for the entity: category
+Entity type: OTHER
+Salience score: 3.4457734727766365e-05
+Mention text: category
+Mention type: COMMON
+Representative name for the entity: uncertainty
+Entity type: OTHER
+Salience score: 3.445249603828415e-05
+Mention text: uncertainty
+Mention type: COMMON
+Representative name for the entity: fog
+Entity type: OTHER
+Salience score: 3.445249603828415e-05
+Mention text: fog
+Mention type: COMMON
+Representative name for the entity: Election Day
+Entity type: EVENT
+Salience score: 3.413718150113709e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Election_day
+mid: /m/0bx_1fs
+Mention text: Election Day
+Mention type: PROPER
+Representative name for the entity: byline
+Entity type: OTHER
+Salience score: 3.405727329663932e-05
+Mention text: byline
+Mention type: COMMON
+Representative name for the entity: Siena College
+Entity type: ORGANIZATION
+Salience score: 2.732957000262104e-05
+wikipedia_url: https://en.wikipedia.org/wiki/Siena_College
+mid: /m/01pdf0
+Mention text: Siena College
+Mention type: PROPER
+Representative name for the entity: Bulls
+Entity type: ORGANIZATION
+Salience score: 2.0370742277009413e-05
+Mention text: Bulls
+Mention type: PROPER
+Representative name for the entity: Wednesday, November 4th
+Entity type: DATE
+Salience score: 0.0
+month: 11
+day: 4
+Mention text: Wednesday, November 4th
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2016
+Entity type: DATE
+Salience score: 0.0
+year: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2016
+Entity type: DATE
+Salience score: 0.0
+year: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 1
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: 1
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: six
+Entity type: NUMBER
+Salience score: 0.0
+value: 6
+Mention text: six
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 11
+Entity type: NUMBER
+Salience score: 0.0
+value: 11
+Mention text: 11
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: three
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: three
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 270
+Entity type: NUMBER
+Salience score: 0.0
+value: 270
+Mention text: 270
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 10
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: 10
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: three
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: three
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: One
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: One
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 40
+Entity type: NUMBER
+Salience score: 0.0
+value: 40
+Mention text: 40
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 65
+Entity type: NUMBER
+Salience score: 0.0
+value: 65
+Mention text: 65
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 1 million
+Entity type: NUMBER
+Salience score: 0.0
+value: 1000000.000000
+Mention text: 1 million
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 5
+Entity type: NUMBER
+Salience score: 0.0
+value: 5
+Mention text: 5
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 270
+Entity type: NUMBER
+Salience score: 0.0
+value: 270
+Mention text: 270
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 10
+Entity type: NUMBER
+Salience score: 0.0
+value: 10
+Mention text: 10
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 4
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: 4
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 270
+Entity type: NUMBER
+Salience score: 0.0
+value: 270
+Mention text: 270
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 11
+Entity type: NUMBER
+Salience score: 0.0
+value: 11
+Mention text: 11
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: three
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: three
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 11
+Entity type: NUMBER
+Salience score: 0.0
+value: 11
+Mention text: 11
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 4.6 million
+Entity type: NUMBER
+Salience score: 0.0
+value: 4600000.000000
+Mention text: 4.6 million
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 59
+Entity type: NUMBER
+Salience score: 0.0
+value: 59
+Mention text: 59
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 48
+Entity type: NUMBER
+Salience score: 0.0
+value: 48
+Mention text: 48
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: a hundred and fifty thousand
+Entity type: NUMBER
+Salience score: 0.0
+value: 150000
+Mention text: a hundred and fifty thousand
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: a hundred thousand
+Entity type: NUMBER
+Salience score: 0.0
+value: 100000
+Mention text: a hundred thousand
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: two
+Entity type: NUMBER
+Salience score: 0.0
+value: 2
+Mention text: two
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 77 thousand
+Entity type: NUMBER
+Salience score: 0.0
+value: 77000.000000
+Mention text: 77 thousand
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: a hundred and fourteen thousand
+Entity type: NUMBER
+Salience score: 0.0
+value: 114000
+Mention text: a hundred and fourteen thousand
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 20
+Entity type: NUMBER
+Salience score: 0.0
+value: 20
+Mention text: 20
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 2016
+Entity type: NUMBER
+Salience score: 0.0
+value: 2016
+Mention text: 2016
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: one
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: one
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: One
+Entity type: NUMBER
+Salience score: 0.0
+value: 1
+Mention text: One
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: three
+Entity type: NUMBER
+Salience score: 0.0
+value: 3
+Mention text: three
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: 18
+Entity type: NUMBER
+Salience score: 0.0
+value: 18
+Mention text: 18
+Mention type: TYPE_UNKNOWN
+Representative name for the entity: four
+Entity type: NUMBER
+Salience score: 0.0
+value: 4
+Mention text: four
+Mention type: TYPE_UNKNOWN
+Language of the text: en

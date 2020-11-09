@@ -1,0 +1,10486 @@
+entities {
+  name: "Joe Biden"
+  type_: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/012gx2"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Joe_Biden"
+  }
+  salience: 0.4538505971431732
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 288
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 830
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 1005
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 2401
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 3777
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 4208
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 5822
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 6331
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 6778
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 8452
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 8642
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 9433
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Vice President"
+      begin_offset: 9418
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 9777
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 10384
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 10717
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 11423
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 11577
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 12058
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 13600
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 13733
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 13837
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 13898
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 13923
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 14831
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 16419
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 16855
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 18062
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 18359
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 18753
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 19188
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 19770
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 20062
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 20461
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 20728
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 21166
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 21291
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 22116
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Joe Biden"
+      begin_offset: 22889
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Biden"
+      begin_offset: 23979
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "editor"
+  type_: PERSON
+  salience: 0.1449119597673416
+  mentions {
+    text {
+      content: "editor"
+      begin_offset: 12616
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Georgia"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0d0x8"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
+  }
+  salience: 0.06458242237567902
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 2244
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 3225
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 7157
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 8337
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "stronghold"
+      begin_offset: 8376
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 8477
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 8602
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 8801
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 9410
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 10558
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 14822
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 21952
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Georgia"
+      begin_offset: 24000
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Wisconsin"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0824r"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Wisconsin"
+  }
+  salience: 0.0524076372385025
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 923
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 14259
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 14950
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 15315
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 15646
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 16745
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 16881
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 16930
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 17455
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 17705
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "place"
+      begin_offset: 17754
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 18240
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 18607
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Wisconsin"
+      begin_offset: 23713
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "South Florida"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/02xry"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Florida"
+  }
+  salience: 0.02277349680662155
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 2063
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 3200
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 3263
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 3401
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 3484
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 4400
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "South Florida"
+      begin_offset: 4690
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "South Florida"
+      begin_offset: 5332
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "South Florida"
+      begin_offset: 5672
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 11790
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "South"
+      begin_offset: 14737
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 17546
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Florida"
+      begin_offset: 3559
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "State of Florida"
+      begin_offset: 5382
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Trump"
+  type_: OTHER
+  metadata {
+    key: "mid"
+    value: "/m/0cqt90"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Donald_Trump"
+  }
+  salience: 0.01410147175192833
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 336
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 326
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 6067
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 6057
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 6904
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 6894
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 8188
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 10980
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 10970
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 13624
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 13614
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 13861
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 13851
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 14774
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 14764
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 18312
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 18302
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 21429
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "President"
+      begin_offset: 21419
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Trump"
+      begin_offset: 18040
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "race"
+  type_: EVENT
+  salience: 0.008936828933656216
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 1868
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 20124
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 20326
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 20443
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 21132
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Arizona"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0vmt"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Arizona"
+  }
+  salience: 0.008380171842873096
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 861
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 2387
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 3234
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 10156
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 10184
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 10416
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 10500
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 11487
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 11753
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 11955
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 14865
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 17573
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Arizona"
+      begin_offset: 23727
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "North Carolina"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/05fkf"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/North_Carolina"
+  }
+  salience: 0.005829900037497282
+  mentions {
+    text {
+      content: "Carolina"
+      begin_offset: 2172
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 3209
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 6019
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 6218
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 6265
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 6709
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 6990
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 7475
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 7793
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 14803
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "North Carolina"
+      begin_offset: 21933
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Alex"
+  type_: PERSON
+  salience: 0.005680374335497618
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 602
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 1193
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 1314
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 4986
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 14532
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 16679
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 18292
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 19819
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 21263
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 23455
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Alex"
+      begin_offset: 24504
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Pennsylvania"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/05tbn"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Pennsylvania"
+  }
+  salience: 0.0051192594692111015
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 586
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 991
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 14338
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 14971
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 15237
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 15446
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 15657
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 15845
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 16377
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 17630
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Pennsylvania"
+      begin_offset: 19564
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "kind"
+  type_: OTHER
+  salience: 0.004109975881874561
+  mentions {
+    text {
+      content: "kind"
+      begin_offset: 1332
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballots"
+  type_: OTHER
+  salience: 0.003386163618415594
+  mentions {
+    text {
+      content: "ballots"
+      begin_offset: 452
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.003309527412056923
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 6565
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.0032190089114010334
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 915
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.003198872320353985
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 1882
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "place"
+  type_: LOCATION
+  salience: 0.0028528233524411917
+  mentions {
+    text {
+      content: "place"
+      begin_offset: 11244
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "candidate"
+  type_: PERSON
+  salience: 0.0027905753813683987
+  mentions {
+    text {
+      content: "candidate"
+      begin_offset: 7269
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "reporters"
+  type_: PERSON
+  salience: 0.0024200587067753077
+  mentions {
+    text {
+      content: "reporters"
+      begin_offset: 12916
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "reporters"
+      begin_offset: 13023
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "race"
+  type_: EVENT
+  salience: 0.002293703146278858
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 1596
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "echo"
+  type_: OTHER
+  salience: 0.002266176510602236
+  mentions {
+    text {
+      content: "echo"
+      begin_offset: 7921
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "scenario"
+  type_: OTHER
+  salience: 0.002007127972319722
+  mentions {
+    text {
+      content: "scenario"
+      begin_offset: 3295
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "scenario"
+      begin_offset: 3376
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "areas"
+  type_: LOCATION
+  salience: 0.0018719428917393088
+  mentions {
+    text {
+      content: "areas"
+      begin_offset: 2359
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "areas"
+      begin_offset: 9953
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0017929056193679571
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 5260
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "counties"
+  type_: LOCATION
+  salience: 0.0017893031472340226
+  mentions {
+    text {
+      content: "counties"
+      begin_offset: 3633
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "picture"
+  type_: WORK_OF_ART
+  salience: 0.0017860535299405456
+  mentions {
+    text {
+      content: "picture"
+      begin_offset: 2586
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Election"
+  type_: EVENT
+  metadata {
+    key: "mid"
+    value: "/m/02l3h"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Election"
+  }
+  salience: 0.0017585232853889465
+  mentions {
+    text {
+      content: "Election"
+      begin_offset: 1568
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Election"
+      begin_offset: 21785
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "chance"
+  type_: OTHER
+  salience: 0.0016571033047512174
+  mentions {
+    text {
+      content: "chance"
+      begin_offset: 2808
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "fact"
+  type_: OTHER
+  salience: 0.0015424925368279219
+  mentions {
+    text {
+      content: "fact"
+      begin_offset: 8568
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "sign"
+      begin_offset: 8633
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.0015333538176491857
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 4647
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 4819
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "calls"
+  type_: OTHER
+  salience: 0.0015227628173306584
+  mentions {
+    text {
+      content: "calls"
+      begin_offset: 2031
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "call"
+  type_: OTHER
+  salience: 0.001500381389632821
+  mentions {
+    text {
+      content: "call"
+      begin_offset: 2379
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "people"
+  type_: PERSON
+  salience: 0.0014365911483764648
+  mentions {
+    text {
+      content: "people"
+      begin_offset: 1400
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margin"
+  type_: OTHER
+  salience: 0.0014222387690097094
+  mentions {
+    text {
+      content: "margin"
+      begin_offset: 19426
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "proxy"
+      begin_offset: 19545
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.00139553751796484
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 14693
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0013852976262569427
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 6046
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballot counting"
+  type_: OTHER
+  salience: 0.001340799848549068
+  mentions {
+    text {
+      content: "ballot counting"
+      begin_offset: 794
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "story"
+  type_: OTHER
+  salience: 0.0013126445701345801
+  mentions {
+    text {
+      content: "story"
+      begin_offset: 3524
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0012597471941262484
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 1184
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Democratic"
+  type_: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/0d075m"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+  }
+  salience: 0.001253945636563003
+  mentions {
+    text {
+      content: "Democratic"
+      begin_offset: 2348
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democratic"
+      begin_offset: 5800
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democratic"
+      begin_offset: 6801
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democratic"
+      begin_offset: 9942
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democratic"
+      begin_offset: 20825
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democratic"
+      begin_offset: 23118
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrat"
+      begin_offset: 4066
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 4365
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 5459
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 5863
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 5919
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 10303
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 11318
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 11600
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 20225
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 20493
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Democrats"
+      begin_offset: 21990
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Upper Midwest"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/027vx1"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Upper_Midwest"
+  }
+  salience: 0.0012393014039844275
+  mentions {
+    text {
+      content: "Midwest"
+      begin_offset: 2548
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Upper Midwest"
+      begin_offset: 14060
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Upper Midwest"
+      begin_offset: 14205
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Upper Midwest"
+      begin_offset: 14320
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Upper Midwest"
+      begin_offset: 19105
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.0012218871852383018
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 394
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.001217108336277306
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 562
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0012128371745347977
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 15217
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0011839938815683126
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 1961
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election"
+  type_: EVENT
+  salience: 0.0011839894577860832
+  mentions {
+    text {
+      content: "election"
+      begin_offset: 2984
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0011835162295028567
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 2105
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0011821717489510775
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 2192
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Miami-Dade County"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0jhy9"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Miami-Dade_County,_Florida"
+  }
+  salience: 0.0011421835515648127
+  mentions {
+    text {
+      content: "Miami-Dade County"
+      begin_offset: 4300
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Miami"
+      begin_offset: 4429
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Miami-Dade"
+      begin_offset: 4971
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Miami-Dade"
+      begin_offset: 11811
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.0011336075840517879
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 3095
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "something"
+  type_: OTHER
+  salience: 0.0011218967847526073
+  mentions {
+    text {
+      content: "something"
+      begin_offset: 22308
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.0010677448008209467
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 11012
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Senate"
+  type_: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/07t58"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/United_States_Senate"
+  }
+  salience: 0.0010466992389410734
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 11378
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 19880
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 20016
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 20166
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 20242
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 20409
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 20568
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 20836
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 20969
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Senate"
+      begin_offset: 21186
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "vote"
+  type_: OTHER
+  salience: 0.0010321546578779817
+  mentions {
+    text {
+      content: "vote"
+      begin_offset: 247
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "places"
+  type_: LOCATION
+  salience: 0.0009932211833074689
+  mentions {
+    text {
+      content: "places"
+      begin_offset: 4052
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lot"
+  type_: OTHER
+  salience: 0.0009796872036531568
+  mentions {
+    text {
+      content: "lot"
+      begin_offset: 1393
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election"
+  type_: EVENT
+  salience: 0.0009729023440741003
+  mentions {
+    text {
+      content: "election"
+      begin_offset: 68
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "area"
+  type_: LOCATION
+  salience: 0.0009665935067459941
+  mentions {
+    text {
+      content: "area"
+      begin_offset: 7188
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "area"
+      begin_offset: 23950
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Hillary Clinton"
+  type_: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/0d06m5"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Hillary_Clinton"
+  }
+  salience: 0.0009661916992627084
+  mentions {
+    text {
+      content: "Hillary Clinton"
+      begin_offset: 3830
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Hillary Clinton"
+      begin_offset: 9460
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Hillary Clinton"
+      begin_offset: 11683
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Hillary Clinton"
+      begin_offset: 14378
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Hillary"
+      begin_offset: 18692
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Clinton"
+      begin_offset: 3993
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "election"
+  type_: EVENT
+  salience: 0.0009507447248324752
+  mentions {
+    text {
+      content: "election"
+      begin_offset: 626
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election"
+  type_: EVENT
+  salience: 0.0009498778963461518
+  mentions {
+    text {
+      content: "election"
+      begin_offset: 712
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election"
+  type_: EVENT
+  salience: 0.0009483180474489927
+  mentions {
+    text {
+      content: "election"
+      begin_offset: 747
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election"
+  type_: EVENT
+  salience: 0.0009371201740577817
+  mentions {
+    text {
+      content: "election"
+      begin_offset: 2883
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "work"
+  type_: OTHER
+  salience: 0.0009096575086005032
+  mentions {
+    text {
+      content: "work"
+      begin_offset: 12294
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "work"
+      begin_offset: 12450
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "count"
+  type_: OTHER
+  salience: 0.0009071665117517114
+  mentions {
+    text {
+      content: "count"
+      begin_offset: 2504
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "point"
+  type_: OTHER
+  salience: 0.0008578967535868287
+  mentions {
+    text {
+      content: "point"
+      begin_offset: 2079
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballots"
+  type_: OTHER
+  salience: 0.0008447957225143909
+  mentions {
+    text {
+      content: "ballots"
+      begin_offset: 960
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballots"
+  type_: OTHER
+  salience: 0.0008442336693406105
+  mentions {
+    text {
+      content: "ballots"
+      begin_offset: 1136
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "absentee ballots"
+  type_: OTHER
+  salience: 0.0008442336693406105
+  mentions {
+    text {
+      content: "absentee ballots"
+      begin_offset: 1031
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "all"
+  type_: OTHER
+  salience: 0.0008382080122828484
+  mentions {
+    text {
+      content: "all"
+      begin_offset: 2181
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballots"
+  type_: OTHER
+  salience: 0.000816973450127989
+  mentions {
+    text {
+      content: "ballots"
+      begin_offset: 2318
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0008149612112902105
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 10050
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "act"
+  type_: EVENT
+  salience: 0.0008054986828938127
+  mentions {
+    text {
+      content: "act"
+      begin_offset: 21718
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margin"
+  type_: OTHER
+  salience: 0.0008035938953980803
+  mentions {
+    text {
+      content: "margin"
+      begin_offset: 1157
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margin"
+  type_: OTHER
+  salience: 0.0008035938953980803
+  mentions {
+    text {
+      content: "margin"
+      begin_offset: 1067
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margin"
+  type_: OTHER
+  salience: 0.0007967664278112352
+  mentions {
+    text {
+      content: "margin"
+      begin_offset: 2456
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "polls"
+  type_: OTHER
+  salience: 0.0007957853958941996
+  mentions {
+    text {
+      content: "polls"
+      begin_offset: 2899
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "picture"
+  type_: WORK_OF_ART
+  salience: 0.0007744930917397141
+  mentions {
+    text {
+      content: "picture"
+      begin_offset: 19176
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "paths"
+  type_: OTHER
+  salience: 0.0007615929353050888
+  mentions {
+    text {
+      content: "paths"
+      begin_offset: 660
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Atlanta"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/013yq"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Atlanta"
+  }
+  salience: 0.0007564940606243908
+  mentions {
+    text {
+      content: "Atlanta"
+      begin_offset: 7174
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Atlanta"
+      begin_offset: 8782
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Atlanta"
+      begin_offset: 9050
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Atlanta"
+      begin_offset: 9497
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Atlanta"
+      begin_offset: 9632
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Atlanta"
+      begin_offset: 23936
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Atlanta"
+      begin_offset: 24142
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "ballot"
+  type_: OTHER
+  salience: 0.0007193746860139072
+  mentions {
+    text {
+      content: "ballot"
+      begin_offset: 270
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "bit"
+  type_: OTHER
+  salience: 0.0007122898241505027
+  mentions {
+    text {
+      content: "bit"
+      begin_offset: 1289
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "leads"
+  type_: OTHER
+  salience: 0.0007107987185008824
+  mentions {
+    text {
+      content: "leads"
+      begin_offset: 885
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.0006863560993224382
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 19474
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "campaign"
+  type_: EVENT
+  salience: 0.0006483676843345165
+  mentions {
+    text {
+      content: "campaign"
+      begin_offset: 4529
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lead"
+  type_: OTHER
+  salience: 0.0006441305158659816
+  mentions {
+    text {
+      content: "lead"
+      begin_offset: 853
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "kind"
+  type_: OTHER
+  salience: 0.0006376353558152914
+  mentions {
+    text {
+      content: "kind"
+      begin_offset: 2749
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "team"
+  type_: ORGANIZATION
+  salience: 0.0006272364989854395
+  mentions {
+    text {
+      content: "team"
+      begin_offset: 12197
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "team"
+      begin_offset: 12469
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "States"
+  type_: LOCATION
+  salience: 0.0006095131975598633
+  mentions {
+    text {
+      content: "States"
+      begin_offset: 20528
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "situation"
+  type_: OTHER
+  salience: 0.0006038048886694014
+  mentions {
+    text {
+      content: "situation"
+      begin_offset: 1761
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "result"
+  type_: OTHER
+  salience: 0.000596665486227721
+  mentions {
+    text {
+      content: "result"
+      begin_offset: 1558
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "call"
+  type_: OTHER
+  salience: 0.0005957170506007969
+  mentions {
+    text {
+      content: "call"
+      begin_offset: 2156
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "call"
+  type_: OTHER
+  salience: 0.0005952856736257672
+  mentions {
+    text {
+      content: "call"
+      begin_offset: 2236
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Michael Barbaro"
+  type_: PERSON
+  metadata {
+    key: "mid"
+    value: "/g/11h4_dzp1q"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Michael_Barbaro"
+  }
+  salience: 0.0005872439942322671
+  mentions {
+    text {
+      content: "Michael"
+      begin_offset: 106
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Michael Barbaro"
+      begin_offset: 24624
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.000585405679885298
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 18813
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "times"
+  type_: OTHER
+  salience: 0.0005815993063151836
+  mentions {
+    text {
+      content: "times"
+      begin_offset: 1089
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "thing"
+  type_: OTHER
+  salience: 0.0005735920276492834
+  mentions {
+    text {
+      content: "thing"
+      begin_offset: 13370
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voting"
+  type_: EVENT
+  salience: 0.0005734299775213003
+  mentions {
+    text {
+      content: "voting"
+      begin_offset: 203
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "list"
+  type_: OTHER
+  salience: 0.0005705744842998683
+  mentions {
+    text {
+      content: "list"
+      begin_offset: 511
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "any"
+  type_: OTHER
+  salience: 0.0005619520670734346
+  mentions {
+    text {
+      content: "any"
+      begin_offset: 2040
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sign"
+  type_: OTHER
+  salience: 0.0005617324495688081
+  mentions {
+    text {
+      content: "sign"
+      begin_offset: 2126
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "level"
+  type_: OTHER
+  salience: 0.0005598548450507224
+  mentions {
+    text {
+      content: "level"
+      begin_offset: 2954
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "poles"
+  type_: OTHER
+  salience: 0.0005598548450507224
+  mentions {
+    text {
+      content: "poles"
+      begin_offset: 2967
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0005594625254161656
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 19247
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.000545934250112623
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 19091
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Michigan"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/04rrx"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Michigan"
+  }
+  salience: 0.0005321050412021577
+  mentions {
+    text {
+      content: "Michigan"
+      begin_offset: 937
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Michigan"
+      begin_offset: 14961
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Michigan"
+      begin_offset: 15258
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Michigan"
+      begin_offset: 15674
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Michigan"
+      begin_offset: 16364
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "track"
+  type_: OTHER
+  salience: 0.0005301020573824644
+  mentions {
+    text {
+      content: "track"
+      begin_offset: 50
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "millions"
+  type_: PERSON
+  salience: 0.0005211306270211935
+  mentions {
+    text {
+      content: "millions"
+      begin_offset: 382
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "clarity"
+  type_: OTHER
+  salience: 0.0005107499891892076
+  mentions {
+    text {
+      content: "clarity"
+      begin_offset: 2772
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "kind"
+  type_: OTHER
+  salience: 0.0005015345523133874
+  mentions {
+    text {
+      content: "kind"
+      begin_offset: 22448
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballots"
+  type_: OTHER
+  salience: 0.0004985518171451986
+  mentions {
+    text {
+      content: "ballots"
+      begin_offset: 15755
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "one"
+  type_: OTHER
+  salience: 0.0004924339009448886
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 3603
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Verbs"
+  type_: OTHER
+  salience: 0.0004918413469567895
+  mentions {
+    text {
+      content: "Verbs"
+      begin_offset: 11860
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "North"
+  type_: LOCATION
+  salience: 0.0004838453605771065
+  mentions {
+    text {
+      content: "North"
+      begin_offset: 2164
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "context"
+  type_: OTHER
+  salience: 0.0004725058388430625
+  mentions {
+    text {
+      content: "context"
+      begin_offset: 13253
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.00047190565965138376
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 3126
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.00047164157149381936
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 3411
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0004712669178843498
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 3653
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.00047080268268473446
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 4239
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.00046978413593024015
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 5936
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "map"
+  type_: OTHER
+  salience: 0.0004662343126256019
+  mentions {
+    text {
+      content: "map"
+      begin_offset: 1983
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "patients"
+  type_: PERSON
+  salience: 0.00045844505075365305
+  mentions {
+    text {
+      content: "patients"
+      begin_offset: 313
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "counties"
+  type_: LOCATION
+  salience: 0.00045778704225085676
+  mentions {
+    text {
+      content: "counties"
+      begin_offset: 7638
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.0004519661597441882
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 3705
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "warning"
+  type_: OTHER
+  salience: 0.0004510973230935633
+  mentions {
+    text {
+      content: "warning"
+      begin_offset: 1340
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.00045101079740561545
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 4930
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.00045101079740561545
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 4961
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "vote"
+  type_: EVENT
+  salience: 0.00045091423089616
+  mentions {
+    text {
+      content: "vote"
+      begin_offset: 5071
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.0004508193233050406
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 5154
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.00045063431025482714
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 5364
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "possibility"
+  type_: OTHER
+  salience: 0.0004504911776166409
+  mentions {
+    text {
+      content: "possibility"
+      begin_offset: 1521
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "bellwethers"
+  type_: PERSON
+  salience: 0.0004503031668718904
+  mentions {
+    text {
+      content: "bellwethers"
+      begin_offset: 1930
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "candidate"
+  type_: PERSON
+  salience: 0.00044902379158884287
+  mentions {
+    text {
+      content: "candidate"
+      begin_offset: 14674
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "action"
+  type_: OTHER
+  salience: 0.0004465581150725484
+  mentions {
+    text {
+      content: "action"
+      begin_offset: 372
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0004453601723071188
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 3496
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00044438132317736745
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 4561
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0004442827485036105
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 4846
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0004439973272383213
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 5176
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0004437262541614473
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 5899
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "reflexes"
+  type_: OTHER
+  salience: 0.00044055789476260543
+  mentions {
+    text {
+      content: "reflexes"
+      begin_offset: 1240
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.0004395841096993536
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 5709
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0004343802575021982
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 18681
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "map"
+  type_: WORK_OF_ART
+  salience: 0.00042612748802639544
+  mentions {
+    text {
+      content: "map"
+      begin_offset: 15346
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "wing radicals"
+  type_: PERSON
+  salience: 0.0004206386220175773
+  mentions {
+    text {
+      content: "wing radicals"
+      begin_offset: 5483
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Midwestern"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0q76g"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Midwestern_United_States"
+  }
+  salience: 0.0004041040374431759
+  mentions {
+    text {
+      content: "Midwestern"
+      begin_offset: 904
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Midwestern"
+      begin_offset: 23877
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "team"
+  type_: ORGANIZATION
+  salience: 0.00039188648224808276
+  mentions {
+    text {
+      content: "team"
+      begin_offset: 12482
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00039130766526795924
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 10039
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "path"
+  type_: OTHER
+  salience: 0.00039129203651100397
+  mentions {
+    text {
+      content: "path"
+      begin_offset: 11667
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.0003746073634829372
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 23198
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.00037316090310923755
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 8125
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0003687835414893925
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 24237
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00035831768764182925
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 8657
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "process"
+  type_: OTHER
+  salience: 0.00035768040106631815
+  mentions {
+    text {
+      content: "process"
+      begin_offset: 23129
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "process"
+      begin_offset: 24414
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.000357591052306816
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 3757
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "results"
+  type_: OTHER
+  salience: 0.0003498594742268324
+  mentions {
+    text {
+      content: "results"
+      begin_offset: 15615
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "County"
+  type_: LOCATION
+  salience: 0.0003412004152778536
+  mentions {
+    text {
+      content: "County"
+      begin_offset: 5104
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "US Supreme Court"
+  type_: ORGANIZATION
+  salience: 0.0003395581152290106
+  mentions {
+    text {
+      content: "US Supreme Court"
+      begin_offset: 170
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "point"
+  type_: OTHER
+  salience: 0.00032313467818312347
+  mentions {
+    text {
+      content: "point"
+      begin_offset: 3045
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "places"
+  type_: LOCATION
+  salience: 0.00032252183882519603
+  mentions {
+    text {
+      content: "places"
+      begin_offset: 3811
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0003189885464962572
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 9791
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0003188282425981015
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 10771
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0003186367393936962
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 11566
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0003160959458909929
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 6831
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.00031604370451532304
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 6979
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.00031599216163158417
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 7088
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0003159412881359458
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 7407
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.00031555694295093417
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 8327
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "status"
+  type_: OTHER
+  salience: 0.00031555694295093417
+  mentions {
+    text {
+      content: "status"
+      begin_offset: 8424
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "areas"
+  type_: LOCATION
+  salience: 0.000315319950459525
+  mentions {
+    text {
+      content: "areas"
+      begin_offset: 4121
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "candidates"
+  type_: PERSON
+  salience: 0.00031292345374822617
+  mentions {
+    text {
+      content: "candidates"
+      begin_offset: 20843
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "vote"
+  type_: OTHER
+  salience: 0.00030592276016250253
+  mentions {
+    text {
+      content: "vote"
+      begin_offset: 9880
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00030588373192586005
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 10092
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.0003057690046261996
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 10619
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.0003057690046261996
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 10865
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00030569444061256945
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 11121
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.00030558533035218716
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 11529
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.00030558533035218716
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 11635
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "news machine"
+  type_: ORGANIZATION
+  salience: 0.00030520849395543337
+  mentions {
+    text {
+      content: "news machine"
+      begin_offset: 12710
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00030325091211125255
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 6502
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Voters"
+  type_: PERSON
+  salience: 0.00030290460563264787
+  mentions {
+    text {
+      content: "Voters"
+      begin_offset: 7507
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "vote"
+  type_: OTHER
+  salience: 0.00030246033566072583
+  mentions {
+    text {
+      content: "vote"
+      begin_offset: 8748
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00030246033566072583
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 8723
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0003013316891156137
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 9677
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0003012543893419206
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 9976
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00029905993142165244
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 7829
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Improvement"
+  type_: OTHER
+  salience: 0.0002989987260662019
+  mentions {
+    text {
+      content: "Improvement"
+      begin_offset: 11585
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00029809499392285943
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 8151
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "pull"
+  type_: OTHER
+  salience: 0.0002967233012896031
+  mentions {
+    text {
+      content: "pull"
+      begin_offset: 8468
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.0002959240518976003
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 6417
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.0002914162178058177
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 15481
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.0002913897333201021
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 15638
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "act"
+  type_: EVENT
+  salience: 0.0002896044170483947
+  mentions {
+    text {
+      content: "act"
+      begin_offset: 22633
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "population"
+  type_: PERSON
+  salience: 0.00028847597423009574
+  mentions {
+    text {
+      content: "population"
+      begin_offset: 5658
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margins"
+  type_: OTHER
+  salience: 0.0002870410680770874
+  mentions {
+    text {
+      content: "margins"
+      begin_offset: 9689
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 0.00028291577473282814
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 4507
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 0.0002826669078785926
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 5028
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "The New York Times"
+  type_: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/07k2d"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/The_New_York_Times"
+  }
+  salience: 0.0002788362908177078
+  mentions {
+    text {
+      content: "The New York Times"
+      begin_offset: 82
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "New York Times"
+      begin_offset: 12684
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "New York Times"
+      begin_offset: 13446
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "nytimes.com"
+      begin_offset: 13492
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.0002764657256193459
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 20668
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.0002761351934168488
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 15187
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "presidency"
+  type_: OTHER
+  salience: 0.00027553795371204615
+  mentions {
+    text {
+      content: "presidency"
+      begin_offset: 13996
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "presidency"
+  type_: OTHER
+  salience: 0.00027545684133656323
+  mentions {
+    text {
+      content: "presidency"
+      begin_offset: 14426
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sense"
+  type_: OTHER
+  salience: 0.00027228365070186555
+  mentions {
+    text {
+      content: "sense"
+      begin_offset: 5124
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "environment"
+  type_: OTHER
+  salience: 0.00026870385045185685
+  mentions {
+    text {
+      content: "environment"
+      begin_offset: 23233
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "republican"
+  type_: PERSON
+  salience: 0.0002632888499647379
+  mentions {
+    text {
+      content: "republican"
+      begin_offset: 4890
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election"
+  type_: EVENT
+  salience: 0.0002631789830047637
+  mentions {
+    text {
+      content: "election"
+      begin_offset: 15103
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "either"
+  type_: PERSON
+  salience: 0.0002578037965577096
+  mentions {
+    text {
+      content: "either"
+      begin_offset: 15058
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "place"
+  type_: OTHER
+  salience: 0.0002554346283432096
+  mentions {
+    text {
+      content: "place"
+      begin_offset: 14104
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Election night"
+  type_: OTHER
+  salience: 0.0002529490739107132
+  mentions {
+    text {
+      content: "Election night"
+      begin_offset: 3350
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "party"
+  type_: ORGANIZATION
+  salience: 0.0002519527042750269
+  mentions {
+    text {
+      content: "party"
+      begin_offset: 5811
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "speech"
+  type_: WORK_OF_ART
+  salience: 0.00025053866556845605
+  mentions {
+    text {
+      content: "speech"
+      begin_offset: 21321
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "speech"
+  type_: WORK_OF_ART
+  salience: 0.00025053866556845605
+  mentions {
+    text {
+      content: "speech"
+      begin_offset: 21455
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "polling information"
+  type_: OTHER
+  salience: 0.000248001393629238
+  mentions {
+    text {
+      content: "polling information"
+      begin_offset: 17312
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "map"
+  type_: OTHER
+  salience: 0.0002477715315762907
+  mentions {
+    text {
+      content: "map"
+      begin_offset: 3022
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "fate"
+  type_: OTHER
+  salience: 0.0002476264489814639
+  mentions {
+    text {
+      content: "fate"
+      begin_offset: 19849
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "turnoff"
+  type_: OTHER
+  salience: 0.00024573266273364425
+  mentions {
+    text {
+      content: "turnoff"
+      begin_offset: 5883
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.0002452743356116116
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 18504
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "population"
+  type_: PERSON
+  salience: 0.0002401191886747256
+  mentions {
+    text {
+      content: "population"
+      begin_offset: 4748
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election"
+  type_: EVENT
+  salience: 0.00023691679234616458
+  mentions {
+    text {
+      content: "election"
+      begin_offset: 7938
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lot"
+  type_: OTHER
+  salience: 0.00023402752412948757
+  mentions {
+    text {
+      content: "lot"
+      begin_offset: 11542
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "counties"
+  type_: LOCATION
+  salience: 0.00023154049995355308
+  mentions {
+    text {
+      content: "counties"
+      begin_offset: 9564
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "path"
+  type_: OTHER
+  salience: 0.0002306766400579363
+  mentions {
+    text {
+      content: "path"
+      begin_offset: 9768
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00023051118478178978
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 23397
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 0.00023029022850096226
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 12519
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00022987520787864923
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 9364
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "counties"
+  type_: LOCATION
+  salience: 0.00022876699222251773
+  mentions {
+    text {
+      content: "counties"
+      begin_offset: 9034
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "campaign"
+  type_: ORGANIZATION
+  salience: 0.0002280256012454629
+  mentions {
+    text {
+      content: "campaign"
+      begin_offset: 17897
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "process"
+  type_: OTHER
+  salience: 0.00022730615455657244
+  mentions {
+    text {
+      content: "process"
+      begin_offset: 3058
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "race"
+  type_: EVENT
+  salience: 0.00022269309556577355
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 11385
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Victory"
+  type_: PERSON
+  salience: 0.00022243558487389237
+  mentions {
+    text {
+      content: "Victory"
+      begin_offset: 669
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Victory"
+      begin_offset: 14620
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Victory"
+      begin_offset: 18346
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "race"
+  type_: EVENT
+  salience: 0.00022071338025853038
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 7561
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "States"
+  type_: LOCATION
+  salience: 0.00021874056255910546
+  mentions {
+    text {
+      content: "States"
+      begin_offset: 20948
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.0002186098718084395
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 21871
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 0.0002186098718084395
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 21810
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "points"
+  type_: OTHER
+  salience: 0.00021824357099831104
+  mentions {
+    text {
+      content: "points"
+      begin_offset: 10757
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "count"
+  type_: OTHER
+  salience: 0.0002182168245781213
+  mentions {
+    text {
+      content: "count"
+      begin_offset: 10917
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "place"
+  type_: OTHER
+  salience: 0.00021801206457894295
+  mentions {
+    text {
+      content: "place"
+      begin_offset: 12220
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.000217221473576501
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 19273
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "point"
+  type_: OTHER
+  salience: 0.0002164834295399487
+  mentions {
+    text {
+      content: "point"
+      begin_offset: 6464
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "places"
+  type_: LOCATION
+  salience: 0.00021637311147060245
+  mentions {
+    text {
+      content: "places"
+      begin_offset: 6753
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "place"
+  type_: OTHER
+  salience: 0.00021619895414914936
+  mentions {
+    text {
+      content: "place"
+      begin_offset: 7464
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "places"
+  type_: LOCATION
+  salience: 0.00021606747759506106
+  mentions {
+    text {
+      content: "places"
+      begin_offset: 7894
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "places"
+  type_: LOCATION
+  salience: 0.00021576497238129377
+  mentions {
+    text {
+      content: "places"
+      begin_offset: 9151
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "area"
+  type_: LOCATION
+  salience: 0.00021347493748180568
+  mentions {
+    text {
+      content: "area"
+      begin_offset: 10644
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballot"
+  type_: OTHER
+  salience: 0.00021339724480640143
+  mentions {
+    text {
+      content: "ballot"
+      begin_offset: 11344
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "story"
+  type_: OTHER
+  salience: 0.00021282152738422155
+  mentions {
+    text {
+      content: "story"
+      begin_offset: 6700
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "area"
+  type_: LOCATION
+  salience: 0.0002117167750839144
+  mentions {
+    text {
+      content: "area"
+      begin_offset: 6546
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "areas"
+  type_: LOCATION
+  salience: 0.00021164533973205835
+  mentions {
+    text {
+      content: "areas"
+      begin_offset: 6957
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "areas"
+  type_: LOCATION
+  salience: 0.00021164533973205835
+  mentions {
+    text {
+      content: "areas"
+      begin_offset: 6878
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "area"
+  type_: LOCATION
+  salience: 0.00021157583978492767
+  mentions {
+    text {
+      content: "area"
+      begin_offset: 7131
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "areas"
+  type_: LOCATION
+  salience: 0.00021131521498318762
+  mentions {
+    text {
+      content: "areas"
+      begin_offset: 8236
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "city"
+  type_: LOCATION
+  salience: 0.00021122975158505142
+  mentions {
+    text {
+      content: "city"
+      begin_offset: 3936
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballots"
+  type_: OTHER
+  salience: 0.00021110699162818491
+  mentions {
+    text {
+      content: "ballots"
+      begin_offset: 8999
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballots"
+  type_: OTHER
+  salience: 0.00021105048654135317
+  mentions {
+    text {
+      content: "ballots"
+      begin_offset: 9246
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "community"
+  type_: PERSON
+  salience: 0.00021092945826239884
+  mentions {
+    text {
+      content: "community"
+      begin_offset: 4677
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "story"
+  type_: OTHER
+  salience: 0.00020914628112223
+  mentions {
+    text {
+      content: "story"
+      begin_offset: 12981
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "demographics"
+  type_: OTHER
+  salience: 0.00020852060697507113
+  mentions {
+    text {
+      content: "demographics"
+      begin_offset: 10365
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0002067797031486407
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 19615
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "presidency"
+  type_: OTHER
+  salience: 0.00020672012760769576
+  mentions {
+    text {
+      content: "presidency"
+      begin_offset: 19861
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "trump"
+  type_: OTHER
+  salience: 0.0002065156731987372
+  mentions {
+    text {
+      content: "trump"
+      begin_offset: 7581
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00020648163626901805
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 21729
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margins"
+  type_: OTHER
+  salience: 0.0002030713512795046
+  mentions {
+    text {
+      content: "margins"
+      begin_offset: 11622
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Hillsborough County"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0jj6k"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Hillsborough_County,_Florida"
+  }
+  salience: 0.00020199237042106688
+  mentions {
+    text {
+      content: "Hillsborough County"
+      begin_offset: 3889
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Pinellas County"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0jxgx"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Pinellas_County,_Florida"
+  }
+  salience: 0.00020199237042106688
+  mentions {
+    text {
+      content: "Pinellas County"
+      begin_offset: 3909
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "victory"
+  type_: EVENT
+  salience: 0.00020190318173263222
+  mentions {
+    text {
+      content: "victory"
+      begin_offset: 7702
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "polling"
+  type_: EVENT
+  salience: 0.00020113767823204398
+  mentions {
+    text {
+      content: "polling"
+      begin_offset: 8010
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "polling"
+  type_: EVENT
+  salience: 0.00020113767823204398
+  mentions {
+    text {
+      content: "polling"
+      begin_offset: 8030
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "polls"
+  type_: OTHER
+  salience: 0.00020096683874726295
+  mentions {
+    text {
+      content: "polls"
+      begin_offset: 8896
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "place"
+  type_: OTHER
+  salience: 0.00019993747991975397
+  mentions {
+    text {
+      content: "place"
+      begin_offset: 13000
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "point"
+  type_: OTHER
+  salience: 0.0001996672508539632
+  mentions {
+    text {
+      content: "point"
+      begin_offset: 14146
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "times"
+  type_: OTHER
+  salience: 0.00019768424681387842
+  mentions {
+    text {
+      content: "times"
+      begin_offset: 10125
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lead"
+  type_: OTHER
+  salience: 0.00019584364781621844
+  mentions {
+    text {
+      content: "lead"
+      begin_offset: 9988
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "all"
+  type_: PERSON
+  salience: 0.00019528527627699077
+  mentions {
+    text {
+      content: "all"
+      begin_offset: 14362
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ground"
+  type_: OTHER
+  salience: 0.00019236671505495906
+  mentions {
+    text {
+      content: "ground"
+      begin_offset: 4594
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "numbers"
+  type_: OTHER
+  salience: 0.00019220045942347497
+  mentions {
+    text {
+      content: "numbers"
+      begin_offset: 5197
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "socialism"
+  type_: OTHER
+  salience: 0.0001920830982271582
+  mentions {
+    text {
+      content: "socialism"
+      begin_offset: 5747
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "socialists"
+  type_: PERSON
+  salience: 0.0001920830982271582
+  mentions {
+    text {
+      content: "socialists"
+      begin_offset: 5520
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "advantage"
+  type_: OTHER
+  salience: 0.0001920452486956492
+  mentions {
+    text {
+      content: "advantage"
+      begin_offset: 5992
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "one"
+  type_: PERSON
+  salience: 0.00019171784515492618
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 10260
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "north"
+  type_: LOCATION
+  salience: 0.00019061418424826115
+  mentions {
+    text {
+      content: "north"
+      begin_offset: 14918
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 0.00019005924696102738
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 6630
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "One"
+  type_: OTHER
+  salience: 0.00018951852689497173
+  mentions {
+    text {
+      content: "One"
+      begin_offset: 9010
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "places"
+  type_: LOCATION
+  salience: 0.00018925665062852204
+  mentions {
+    text {
+      content: "places"
+      begin_offset: 20606
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 0.00018763971456792206
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 7072
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "case"
+  type_: OTHER
+  salience: 0.00018735819321591407
+  mentions {
+    text {
+      content: "case"
+      begin_offset: 8286
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margin"
+  type_: OTHER
+  salience: 0.00018572178669273853
+  mentions {
+    text {
+      content: "margin"
+      begin_offset: 15545
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sauna"
+  type_: LOCATION
+  salience: 0.00018445118621457368
+  mentions {
+    text {
+      content: "sauna"
+      begin_offset: 12503
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "country"
+  type_: LOCATION
+  salience: 0.0001841734047047794
+  mentions {
+    text {
+      content: "country"
+      begin_offset: 5554
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "race"
+  type_: EVENT
+  salience: 0.0001837844174588099
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 21637
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lot"
+  type_: OTHER
+  salience: 0.00018354678468313068
+  mentions {
+    text {
+      content: "lot"
+      begin_offset: 7625
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lot"
+  type_: OTHER
+  salience: 0.00018354678468313068
+  mentions {
+    text {
+      content: "lot"
+      begin_offset: 7601
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 0.00018154314602725208
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 23888
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "times"
+  type_: OTHER
+  salience: 0.00018103445472661406
+  mentions {
+    text {
+      content: "times"
+      begin_offset: 12876
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sense"
+  type_: OTHER
+  salience: 0.00017916715296451002
+  mentions {
+    text {
+      content: "sense"
+      begin_offset: 5015
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sort"
+  type_: OTHER
+  salience: 0.0001785649947123602
+  mentions {
+    text {
+      content: "sort"
+      begin_offset: 9586
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "picture"
+  type_: WORK_OF_ART
+  salience: 0.00017845221736934036
+  mentions {
+    text {
+      content: "picture"
+      begin_offset: 10604
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sort"
+  type_: OTHER
+  salience: 0.00017840870714280754
+  mentions {
+    text {
+      content: "sort"
+      begin_offset: 11107
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "picture"
+  type_: WORK_OF_ART
+  salience: 0.00017832420417107642
+  mentions {
+    text {
+      content: "picture"
+      begin_offset: 11829
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "many"
+  type_: PERSON
+  salience: 0.00017698245937936008
+  mentions {
+    text {
+      content: "many"
+      begin_offset: 6478
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "story"
+  type_: OTHER
+  salience: 0.00017692273831926286
+  mentions {
+    text {
+      content: "story"
+      begin_offset: 6732
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sort"
+  type_: OTHER
+  salience: 0.0001766728237271309
+  mentions {
+    text {
+      content: "sort"
+      begin_offset: 7913
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "candidate"
+  type_: PERSON
+  salience: 0.00017664676124695688
+  mentions {
+    text {
+      content: "candidate"
+      begin_offset: 8178
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sort"
+  type_: OTHER
+  salience: 0.00017642545572016388
+  mentions {
+    text {
+      content: "sort"
+      begin_offset: 9193
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "work"
+  type_: OTHER
+  salience: 0.00017603352898731828
+  mentions {
+    text {
+      content: "work"
+      begin_offset: 12231
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "areas"
+  type_: LOCATION
+  salience: 0.0001758588186930865
+  mentions {
+    text {
+      content: "areas"
+      begin_offset: 7394
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "paths"
+  type_: OTHER
+  salience: 0.00017542560817673802
+  mentions {
+    text {
+      content: "paths"
+      begin_offset: 13745
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "path"
+  type_: OTHER
+  salience: 0.00017537269741296768
+  mentions {
+    text {
+      content: "path"
+      begin_offset: 13965
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "people"
+  type_: PERSON
+  salience: 0.00017493967607151717
+  mentions {
+    text {
+      content: "people"
+      begin_offset: 25005
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sign"
+  type_: OTHER
+  salience: 0.0001743622124195099
+  mentions {
+    text {
+      content: "sign"
+      begin_offset: 8530
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "paths"
+  type_: OTHER
+  salience: 0.00017329597903881222
+  mentions {
+    text {
+      content: "paths"
+      begin_offset: 13644
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "path"
+  type_: OTHER
+  salience: 0.00017314168508164585
+  mentions {
+    text {
+      content: "path"
+      begin_offset: 14612
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "parts"
+  type_: OTHER
+  salience: 0.00017087976448237896
+  mentions {
+    text {
+      content: "parts"
+      begin_offset: 11478
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "more"
+  type_: OTHER
+  salience: 0.00016962300287559628
+  mentions {
+    text {
+      content: "more"
+      begin_offset: 13676
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "math"
+  type_: OTHER
+  salience: 0.00016931851860135794
+  mentions {
+    text {
+      content: "math"
+      begin_offset: 7440
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "parties"
+  type_: ORGANIZATION
+  salience: 0.0001692525838734582
+  mentions {
+    text {
+      content: "parties"
+      begin_offset: 8046
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "indicators"
+  type_: OTHER
+  salience: 0.00016922711802180856
+  mentions {
+    text {
+      content: "indicators"
+      begin_offset: 3684
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "middle"
+  type_: OTHER
+  salience: 0.00016922711802180856
+  mentions {
+    text {
+      content: "middle"
+      begin_offset: 3719
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Statewide"
+  type_: OTHER
+  salience: 0.00016910080739762634
+  mentions {
+    text {
+      content: "Statewide"
+      begin_offset: 4143
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "order"
+  type_: OTHER
+  salience: 0.00016910080739762634
+  mentions {
+    text {
+      content: "order"
+      begin_offset: 4130
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "daily"
+  type_: ORGANIZATION
+  salience: 0.00016906893870327622
+  mentions {
+    text {
+      content: "daily"
+      begin_offset: 13417
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "popular vote strategy"
+  type_: OTHER
+  salience: 0.0001690603676252067
+  mentions {
+    text {
+      content: "popular vote strategy"
+      begin_offset: 4375
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "effort"
+  type_: OTHER
+  salience: 0.0001687283074716106
+  mentions {
+    text {
+      content: "effort"
+      begin_offset: 5298
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "care"
+  type_: OTHER
+  salience: 0.0001687283074716106
+  mentions {
+    text {
+      content: "care"
+      begin_offset: 5440
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "degree"
+  type_: OTHER
+  salience: 0.0001687283074716106
+  mentions {
+    text {
+      content: "degree"
+      begin_offset: 5430
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "standing"
+  type_: OTHER
+  salience: 0.0001687283074716106
+  mentions {
+    text {
+      content: "standing"
+      begin_offset: 5320
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "folks"
+  type_: PERSON
+  salience: 0.00016869451792445034
+  mentions {
+    text {
+      content: "folks"
+      begin_offset: 5787
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "League"
+  type_: OTHER
+  salience: 0.00016869451792445034
+  mentions {
+    text {
+      content: "League"
+      begin_offset: 5508
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "offices"
+  type_: LOCATION
+  salience: 0.00016869451792445034
+  mentions {
+    text {
+      content: "offices"
+      begin_offset: 5593
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "rhetoric"
+  type_: OTHER
+  salience: 0.00016869451792445034
+  mentions {
+    text {
+      content: "rhetoric"
+      begin_offset: 5735
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Biden Victory"
+  type_: PERSON
+  salience: 0.00016751243674661964
+  mentions {
+    text {
+      content: "Biden Victory"
+      begin_offset: 3315
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Victory Biden"
+  type_: PERSON
+  salience: 0.00016410494572483003
+  mentions {
+    text {
+      content: "Victory Biden"
+      begin_offset: 13653
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "news stories"
+  type_: WORK_OF_ART
+  salience: 0.00016348333156201988
+  mentions {
+    text {
+      content: "news stories"
+      begin_offset: 12737
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "news stories"
+  type_: WORK_OF_ART
+  salience: 0.00016348333156201988
+  mentions {
+    text {
+      content: "news stories"
+      begin_offset: 12939
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "candidates"
+  type_: PERSON
+  salience: 0.00016326236072927713
+  mentions {
+    text {
+      content: "candidates"
+      begin_offset: 14022
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "populations"
+  type_: PERSON
+  salience: 0.0001627877209102735
+  mentions {
+    text {
+      content: "populations"
+      begin_offset: 10287
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "population"
+  type_: PERSON
+  salience: 0.00016268798208329827
+  mentions {
+    text {
+      content: "population"
+      begin_offset: 11293
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "population"
+  type_: PERSON
+  salience: 0.00016264946316368878
+  mentions {
+    text {
+      content: "population"
+      begin_offset: 11497
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "picture"
+  type_: WORK_OF_ART
+  salience: 0.0001612167980056256
+  mentions {
+    text {
+      content: "picture"
+      begin_offset: 14495
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "candidates"
+  type_: PERSON
+  salience: 0.00016117079940158874
+  mentions {
+    text {
+      content: "candidates"
+      begin_offset: 15007
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Hispanic"
+  type_: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/0fk1z"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Hispanic"
+  }
+  salience: 0.0001605654542800039
+  mentions {
+    text {
+      content: "Hispanic"
+      begin_offset: 4627
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Hispanic"
+      begin_offset: 4810
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Hispanic"
+      begin_offset: 5355
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.0001597342052264139
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 23700
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "many"
+  type_: OTHER
+  salience: 0.0001591101463418454
+  mentions {
+    text {
+      content: "many"
+      begin_offset: 15782
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "picture"
+  type_: WORK_OF_ART
+  salience: 0.00015868688933551311
+  mentions {
+    text {
+      content: "picture"
+      begin_offset: 23780
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "vote counting"
+  type_: OTHER
+  salience: 0.00015865561726968735
+  mentions {
+    text {
+      content: "vote counting"
+      begin_offset: 21599
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sort"
+  type_: OTHER
+  salience: 0.00015667834668420255
+  mentions {
+    text {
+      content: "sort"
+      begin_offset: 20363
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election night"
+  type_: EVENT
+  salience: 0.00015642835933249444
+  mentions {
+    text {
+      content: "election night"
+      begin_offset: 14172
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Both"
+  type_: OTHER
+  salience: 0.00015642835933249444
+  mentions {
+    text {
+      content: "Both"
+      begin_offset: 14008
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "pedestrian reasons"
+  type_: OTHER
+  salience: 0.00015502051974181086
+  mentions {
+    text {
+      content: "pedestrian reasons"
+      begin_offset: 9301
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "colleagues"
+  type_: PERSON
+  salience: 0.00015359460667241365
+  mentions {
+    text {
+      content: "colleagues"
+      begin_offset: 9824
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "contests"
+  type_: EVENT
+  salience: 0.00015355560753960162
+  mentions {
+    text {
+      content: "contests"
+      begin_offset: 10237
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sauna"
+  type_: LOCATION
+  salience: 0.00015335454372689128
+  mentions {
+    text {
+      content: "sauna"
+      begin_offset: 12259
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "things"
+  type_: OTHER
+  salience: 0.00015333729970734566
+  mentions {
+    text {
+      content: "things"
+      begin_offset: 12428
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "daily"
+  type_: ORGANIZATION
+  salience: 0.00015333729970734566
+  mentions {
+    text {
+      content: "daily"
+      begin_offset: 12545
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "team"
+  type_: ORGANIZATION
+  salience: 0.00015333729970734566
+  mentions {
+    text {
+      content: "team"
+      begin_offset: 12388
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sauna"
+  type_: LOCATION
+  salience: 0.00015332020120695233
+  mentions {
+    text {
+      content: "sauna"
+      begin_offset: 12577
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "race"
+  type_: EVENT
+  salience: 0.00015298360085580498
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 19338
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "race"
+  type_: EVENT
+  salience: 0.00015298360085580498
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 19412
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "races"
+  type_: EVENT
+  salience: 0.00015291788440663368
+  mentions {
+    text {
+      content: "races"
+      begin_offset: 20173
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "races"
+  type_: EVENT
+  salience: 0.00015291788440663368
+  mentions {
+    text {
+      content: "races"
+      begin_offset: 20249
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "States"
+  type_: LOCATION
+  salience: 0.00015291212184820324
+  mentions {
+    text {
+      content: "States"
+      begin_offset: 22384
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "races"
+  type_: EVENT
+  salience: 0.00015290714509319514
+  mentions {
+    text {
+      content: "races"
+      begin_offset: 20416
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "race"
+  type_: EVENT
+  salience: 0.00015276306658051908
+  mentions {
+    text {
+      content: "race"
+      begin_offset: 21823
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "clarity"
+  type_: OTHER
+  salience: 0.00015242169320117682
+  mentions {
+    text {
+      content: "clarity"
+      begin_offset: 15428
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "question"
+  type_: OTHER
+  salience: 0.00015210294805001467
+  mentions {
+    text {
+      content: "question"
+      begin_offset: 7422
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "case"
+  type_: OTHER
+  salience: 0.00015207908290904015
+  mentions {
+    text {
+      content: "case"
+      begin_offset: 7573
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Sense"
+  type_: OTHER
+  salience: 0.00015196418098639697
+  mentions {
+    text {
+      content: "Sense"
+      begin_offset: 7983
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "two"
+  type_: PERSON
+  salience: 0.0001487941190134734
+  mentions {
+    text {
+      content: "two"
+      begin_offset: 15078
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voters"
+  type_: PERSON
+  salience: 0.00014667613140773028
+  mentions {
+    text {
+      content: "voters"
+      begin_offset: 22072
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00014665731578134
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 22283
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00014664798800367862
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 22369
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "areas"
+  type_: LOCATION
+  salience: 0.00014657981228083372
+  mentions {
+    text {
+      content: "areas"
+      begin_offset: 19509
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballot"
+  type_: OTHER
+  salience: 0.00014650655793957412
+  mentions {
+    text {
+      content: "ballot"
+      begin_offset: 20588
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ballots"
+  type_: OTHER
+  salience: 0.00014635904517490417
+  mentions {
+    text {
+      content: "ballots"
+      begin_offset: 22040
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "turnout"
+  type_: OTHER
+  salience: 0.0001460551720811054
+  mentions {
+    text {
+      content: "turnout"
+      begin_offset: 7545
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.0001444009831175208
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 22601
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00014439197548199445
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 22725
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00014435641060117632
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 23088
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "reason"
+  type_: OTHER
+  salience: 0.00014330531121231616
+  mentions {
+    text {
+      content: "reason"
+      begin_offset: 15586
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "communities"
+  type_: LOCATION
+  salience: 0.00014302055933512747
+  mentions {
+    text {
+      content: "communities"
+      begin_offset: 9613
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "list"
+  type_: OTHER
+  salience: 0.00014296580047812313
+  mentions {
+    text {
+      content: "list"
+      begin_offset: 10148
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "cities"
+  type_: LOCATION
+  salience: 0.000142930235597305
+  mentions {
+    text {
+      content: "cities"
+      begin_offset: 10682
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "bit"
+  type_: OTHER
+  salience: 0.00014291271509137005
+  mentions {
+    text {
+      content: "bit"
+      begin_offset: 10953
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "bit"
+  type_: OTHER
+  salience: 0.00014282770280260593
+  mentions {
+    text {
+      content: "bit"
+      begin_offset: 11781
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "communities"
+  type_: PERSON
+  salience: 0.00014281118637882173
+  mentions {
+    text {
+      content: "communities"
+      begin_offset: 11940
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "course"
+  type_: OTHER
+  salience: 0.00014281118637882173
+  mentions {
+    text {
+      content: "course"
+      begin_offset: 12003
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "performance"
+  type_: OTHER
+  salience: 0.0001417051680618897
+  mentions {
+    text {
+      content: "performance"
+      begin_offset: 6931
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "performance"
+  type_: EVENT
+  salience: 0.0001417051680618897
+  mentions {
+    text {
+      content: "performance"
+      begin_offset: 6812
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "cities"
+  type_: LOCATION
+  salience: 0.0001417051680618897
+  mentions {
+    text {
+      content: "cities"
+      begin_offset: 6844
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "city"
+  type_: LOCATION
+  salience: 0.0001416586310369894
+  mentions {
+    text {
+      content: "city"
+      begin_offset: 7063
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "any"
+  type_: OTHER
+  salience: 0.00014130686759017408
+  mentions {
+    text {
+      content: "any"
+      begin_offset: 9182
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voting"
+  type_: OTHER
+  salience: 0.00014130686759017408
+  mentions {
+    text {
+      content: "voting"
+      begin_offset: 9224
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "performance"
+  type_: OTHER
+  salience: 0.00014130686759017408
+  mentions {
+    text {
+      content: "performance"
+      begin_offset: 9478
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "three"
+  type_: OTHER
+  salience: 0.00014031666796654463
+  mentions {
+    text {
+      content: "three"
+      begin_offset: 15466
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "deadlock situation"
+  type_: OTHER
+  salience: 0.00014031666796654463
+  mentions {
+    text {
+      content: "deadlock situation"
+      begin_offset: 15396
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "professional"
+  type_: PERSON
+  salience: 0.000140124699100852
+  mentions {
+    text {
+      content: "professional"
+      begin_offset: 24766
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "cities"
+  type_: LOCATION
+  salience: 0.00013994741311762482
+  mentions {
+    text {
+      content: "cities"
+      begin_offset: 7024
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margin"
+  type_: OTHER
+  salience: 0.00013951974688097835
+  mentions {
+    text {
+      content: "margin"
+      begin_offset: 19375
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margin"
+  type_: OTHER
+  salience: 0.00013951974688097835
+  mentions {
+    text {
+      content: "margin"
+      begin_offset: 19297
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "stories"
+  type_: WORK_OF_ART
+  salience: 0.00013738646521233022
+  mentions {
+    text {
+      content: "stories"
+      begin_offset: 17281
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "potential"
+  type_: OTHER
+  salience: 0.0001365976349916309
+  mentions {
+    text {
+      content: "potential"
+      begin_offset: 6317
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "tally"
+  type_: OTHER
+  salience: 0.00013614427007269114
+  mentions {
+    text {
+      content: "tally"
+      begin_offset: 9133
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Fulton County"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0nzny"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Fulton_County,_Georgia"
+  }
+  salience: 0.0001351631508441642
+  mentions {
+    text {
+      content: "Fulton County"
+      begin_offset: 8956
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "inroads"
+  type_: OTHER
+  salience: 0.0001338180882157758
+  mentions {
+    text {
+      content: "inroads"
+      begin_offset: 4089
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Cuban American"
+  type_: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/04dbw3"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Cuban_Americans"
+  }
+  salience: 0.00013380694144871086
+  mentions {
+    text {
+      content: "Cuban American"
+      begin_offset: 4733
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "American"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/09c7w0"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/United_States"
+  }
+  salience: 0.00013377776485867798
+  mentions {
+    text {
+      content: "American"
+      begin_offset: 4921
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "States"
+      begin_offset: 14583
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "States"
+      begin_offset: 14942
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "States"
+      begin_offset: 15091
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Venezuelan American"
+  type_: PERSON
+  metadata {
+    key: "mid"
+    value: "/m/02vys3l"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Venezuelan_Americans"
+  }
+  salience: 0.00013363930338528007
+  mentions {
+    text {
+      content: "Venezuelan American"
+      begin_offset: 5638
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "millions"
+  type_: OTHER
+  salience: 0.00013170824968256056
+  mentions {
+    text {
+      content: "millions"
+      begin_offset: 16317
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "paths"
+  type_: OTHER
+  salience: 0.00013157854846213013
+  mentions {
+    text {
+      content: "paths"
+      begin_offset: 19723
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "reporters"
+  type_: PERSON
+  salience: 0.0001308702485403046
+  mentions {
+    text {
+      content: "reporters"
+      begin_offset: 13323
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "scenario"
+  type_: OTHER
+  salience: 0.00013067595136817545
+  mentions {
+    text {
+      content: "scenario"
+      begin_offset: 15201
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "balance"
+  type_: OTHER
+  salience: 0.0001303351018577814
+  mentions {
+    text {
+      content: "balance"
+      begin_offset: 10906
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00013031928392592818
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 11143
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "strength"
+  type_: OTHER
+  salience: 0.0001302727614529431
+  mentions {
+    text {
+      content: "strength"
+      begin_offset: 11435
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "another"
+  type_: OTHER
+  salience: 0.00012925546616315842
+  mentions {
+    text {
+      content: "another"
+      begin_offset: 6637
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "door"
+  type_: OTHER
+  salience: 0.00012919136497657746
+  mentions {
+    text {
+      content: "door"
+      begin_offset: 7149
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "suburbs"
+  type_: LOCATION
+  salience: 0.00012917057028971612
+  mentions {
+    text {
+      content: "suburbs"
+      begin_offset: 7326
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Jacksonville"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0ggh3"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Jacksonville,_Florida"
+  }
+  salience: 0.0001285485632251948
+  mentions {
+    text {
+      content: "Jacksonville"
+      begin_offset: 3960
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Jacksonville"
+      begin_offset: 11921
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Tampa"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0n1rj"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Tampa,_Florida"
+  }
+  salience: 0.0001285485632251948
+  mentions {
+    text {
+      content: "Tampa"
+      begin_offset: 3944
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Tampa"
+      begin_offset: 11904
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Cornerstone"
+  type_: ORGANIZATION
+  salience: 0.00012776811490766704
+  mentions {
+    text {
+      content: "Cornerstone"
+      begin_offset: 4346
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "other"
+  type_: OTHER
+  salience: 0.00012253972818143666
+  mentions {
+    text {
+      content: "other"
+      begin_offset: 19209
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "candidates"
+  type_: PERSON
+  salience: 0.00012249546125531197
+  mentions {
+    text {
+      content: "candidates"
+      begin_offset: 19967
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 0.00012239028001204133
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 16234
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "place"
+  type_: OTHER
+  salience: 0.00011981521674897522
+  mentions {
+    text {
+      content: "place"
+      begin_offset: 22832
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "vending machine"
+  type_: CONSUMER_GOOD
+  salience: 0.00011941657430725172
+  mentions {
+    text {
+      content: "vending machine"
+      begin_offset: 12778
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ground"
+  type_: LOCATION
+  salience: 0.00011936497321585193
+  mentions {
+    text {
+      content: "ground"
+      begin_offset: 13201
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "everywhere"
+  type_: LOCATION
+  salience: 0.00011932744382647797
+  mentions {
+    text {
+      content: "everywhere"
+      begin_offset: 13537
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "winner"
+  type_: PERSON
+  salience: 0.00011923185229534283
+  mentions {
+    text {
+      content: "winner"
+      begin_offset: 14415
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "binding"
+  type_: OTHER
+  salience: 0.00011920891120098531
+  mentions {
+    text {
+      content: "binding"
+      begin_offset: 14594
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "attention"
+  type_: OTHER
+  salience: 0.00011918631935259327
+  mentions {
+    text {
+      content: "attention"
+      begin_offset: 14894
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sense"
+  type_: OTHER
+  salience: 0.00011913305206689984
+  mentions {
+    text {
+      content: "sense"
+      begin_offset: 20808
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "points"
+  type_: OTHER
+  salience: 0.00011849489237647504
+  mentions {
+    text {
+      content: "points"
+      begin_offset: 20891
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "parts"
+  type_: OTHER
+  salience: 0.00011740157788153738
+  mentions {
+    text {
+      content: "parts"
+      begin_offset: 19555
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Herbs"
+  type_: OTHER
+  salience: 0.00011456570791779086
+  mentions {
+    text {
+      content: "Herbs"
+      begin_offset: 9508
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ring"
+  type_: CONSUMER_GOOD
+  salience: 0.00011455077765276656
+  mentions {
+    text {
+      content: "ring"
+      begin_offset: 9600
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "upshot estimate"
+  type_: OTHER
+  salience: 0.00011453600018285215
+  mentions {
+    text {
+      content: "upshot estimate"
+      begin_offset: 9842
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ways"
+  type_: OTHER
+  salience: 0.00011450691818026826
+  mentions {
+    text {
+      content: "ways"
+      begin_offset: 10326
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "fashion"
+  type_: OTHER
+  salience: 0.0001144505076808855
+  mentions {
+    text {
+      content: "fashion"
+      begin_offset: 11091
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "bite"
+  type_: OTHER
+  salience: 0.00011443675612099469
+  mentions {
+    text {
+      content: "bite"
+      begin_offset: 11225
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "retirees"
+  type_: PERSON
+  salience: 0.00011440965317888185
+  mentions {
+    text {
+      content: "retirees"
+      begin_offset: 11549
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "moderates"
+  type_: PERSON
+  salience: 0.00011439629452070221
+  mentions {
+    text {
+      content: "moderates"
+      begin_offset: 11848
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "coast"
+  type_: LOCATION
+  salience: 0.00011438306682975963
+  mentions {
+    text {
+      content: "coast"
+      begin_offset: 12048
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "desert"
+  type_: LOCATION
+  salience: 0.00011438306682975963
+  mentions {
+    text {
+      content: "desert"
+      begin_offset: 12023
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "routines"
+  type_: OTHER
+  salience: 0.00011435698252171278
+  mentions {
+    text {
+      content: "routines"
+      begin_offset: 12274
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "plans"
+  type_: OTHER
+  salience: 0.0001143441186286509
+  mentions {
+    text {
+      content: "plans"
+      begin_offset: 12395
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "most"
+  type_: OTHER
+  salience: 0.00011431874736445025
+  mentions {
+    text {
+      content: "most"
+      begin_offset: 12645
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "life"
+  type_: OTHER
+  salience: 0.00011431874736445025
+  mentions {
+    text {
+      content: "life"
+      begin_offset: 12662
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "situation"
+  type_: OTHER
+  salience: 0.00011422991519793868
+  mentions {
+    text {
+      content: "situation"
+      begin_offset: 10490
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Cuban"
+  type_: LOCATION
+  salience: 0.0001136146966018714
+  mentions {
+    text {
+      content: "Cuban"
+      begin_offset: 4912
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "razor"
+  type_: OTHER
+  salience: 0.00011351622379152104
+  mentions {
+    text {
+      content: "razor"
+      begin_offset: 6613
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Edge"
+  type_: OTHER
+  salience: 0.00011351622379152104
+  mentions {
+    text {
+      content: "Edge"
+      begin_offset: 6621
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Cuba"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0d04z6"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Cuba"
+  }
+  salience: 0.00011347235704306513
+  mentions {
+    text {
+      content: "Cuba"
+      begin_offset: 5588
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "politics"
+  type_: OTHER
+  salience: 0.0001134599297074601
+  mentions {
+    text {
+      content: "politics"
+      begin_offset: 7226
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "force"
+  type_: OTHER
+  salience: 0.0001134599297074601
+  mentions {
+    text {
+      content: "force"
+      begin_offset: 7206
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "setbacks"
+  type_: OTHER
+  salience: 0.00011344165977789089
+  mentions {
+    text {
+      content: "setbacks"
+      begin_offset: 7310
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "tide"
+  type_: OTHER
+  salience: 0.00011340584023855627
+  mentions {
+    text {
+      content: "tide"
+      begin_offset: 7499
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "gains"
+  type_: OTHER
+  salience: 0.00011338826880091801
+  mentions {
+    text {
+      content: "gains"
+      begin_offset: 7614
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "unpopularity"
+  type_: OTHER
+  salience: 0.00011332015128573403
+  mentions {
+    text {
+      content: "unpopularity"
+      begin_offset: 8196
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "wave"
+  type_: OTHER
+  salience: 0.00011330363486194983
+  mentions {
+    text {
+      content: "wave"
+      begin_offset: 8319
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "water"
+  type_: OTHER
+  salience: 0.00011322389036649838
+  mentions {
+    text {
+      content: "water"
+      begin_offset: 8904
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "difficulties"
+  type_: OTHER
+  salience: 0.00011320848716422915
+  mentions {
+    text {
+      content: "difficulties"
+      begin_offset: 8975
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "facility"
+  type_: LOCATION
+  salience: 0.00011320848716422915
+  mentions {
+    text {
+      content: "facility"
+      begin_offset: 8944
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "issues"
+  type_: OTHER
+  salience: 0.00011317817552480847
+  mentions {
+    text {
+      content: "issues"
+      begin_offset: 9212
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "pandemic"
+  type_: OTHER
+  salience: 0.00011317817552480847
+  mentions {
+    text {
+      content: "pandemic"
+      begin_offset: 9261
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Latino"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/025rpb0"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Hispanic_and_Latino_Americans"
+  }
+  salience: 0.00011273488053120673
+  mentions {
+    text {
+      content: "Latino"
+      begin_offset: 4640
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Latino"
+      begin_offset: 5041
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Hispanic"
+      begin_offset: 4952
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "country"
+  type_: LOCATION
+  salience: 0.00011090424959547818
+  mentions {
+    text {
+      content: "country"
+      begin_offset: 23349
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "counselor"
+  type_: OTHER
+  salience: 0.00011080016702180728
+  mentions {
+    text {
+      content: "counselor"
+      begin_offset: 24850
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "help counselor"
+  type_: OTHER
+  salience: 0.00011079392425017431
+  mentions {
+    text {
+      content: "help counselor"
+      begin_offset: 25088
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Victory"
+  type_: EVENT
+  salience: 0.00011053945490857586
+  mentions {
+    text {
+      content: "Victory"
+      begin_offset: 22964
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 0.00010912038123933598
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 24229
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 0.00010654147627064958
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 16613
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Side"
+  type_: OTHER
+  salience: 0.00010540905350353569
+  mentions {
+    text {
+      content: "Side"
+      begin_offset: 19217
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "question"
+  type_: OTHER
+  salience: 0.00010540139192016795
+  mentions {
+    text {
+      content: "question"
+      begin_offset: 19661
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "things"
+  type_: OTHER
+  salience: 0.0001053712039720267
+  mentions {
+    text {
+      content: "things"
+      begin_offset: 20139
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "question"
+  type_: OTHER
+  salience: 0.00010530577128520235
+  mentions {
+    text {
+      content: "question"
+      begin_offset: 21077
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lives"
+  type_: OTHER
+  salience: 0.00010486380779184401
+  mentions {
+    text {
+      content: "lives"
+      begin_offset: 13046
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "war zone"
+  type_: LOCATION
+  salience: 0.00010484115045983344
+  mentions {
+    text {
+      content: "war zone"
+      begin_offset: 13132
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "terms"
+  type_: OTHER
+  salience: 0.00010474390001036227
+  mentions {
+    text {
+      content: "terms"
+      begin_offset: 13939
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "string"
+  type_: OTHER
+  salience: 0.0001046730758389458
+  mentions {
+    text {
+      content: "string"
+      begin_offset: 14932
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Distance"
+  type_: OTHER
+  salience: 0.0001046730758389458
+  mentions {
+    text {
+      content: "Distance"
+      begin_offset: 15034
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "point"
+  type_: OTHER
+  salience: 0.0001046531688189134
+  mentions {
+    text {
+      content: "point"
+      begin_offset: 22555
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "point"
+  type_: OTHER
+  salience: 0.00010459531767992303
+  mentions {
+    text {
+      content: "point"
+      begin_offset: 23604
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "break"
+  type_: EVENT
+  salience: 0.00010456673771841452
+  mentions {
+    text {
+      content: "break"
+      begin_offset: 8915
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "kind"
+  type_: OTHER
+  salience: 0.00010282729635946453
+  mentions {
+    text {
+      content: "kind"
+      begin_offset: 18124
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "breakthrough"
+  type_: EVENT
+  salience: 0.00010161034151678905
+  mentions {
+    text {
+      content: "breakthrough"
+      begin_offset: 14040
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "listeners"
+  type_: PERSON
+  salience: 0.0001002607386908494
+  mentions {
+    text {
+      content: "listeners"
+      begin_offset: 25114
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Spected"
+  type_: PERSON
+  salience: 0.00010007667151512578
+  mentions {
+    text {
+      content: "Spected"
+      begin_offset: 3148
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Venezuela"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/07ylj"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Venezuela"
+  }
+  salience: 9.965483332052827e-05
+  mentions {
+    text {
+      content: "Venezuela"
+      begin_offset: 5601
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 9.885423787636682e-05
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 17665
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "level"
+  type_: OTHER
+  salience: 9.803661669138819e-05
+  mentions {
+    text {
+      content: "level"
+      begin_offset: 21193
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "couple"
+  type_: PERSON
+  salience: 9.803006832953542e-05
+  mentions {
+    text {
+      content: "couple"
+      begin_offset: 21270
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "courts"
+  type_: ORGANIZATION
+  salience: 9.801064879866317e-05
+  mentions {
+    text {
+      content: "courts"
+      begin_offset: 21584
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "level"
+  type_: OTHER
+  salience: 9.799787221709266e-05
+  mentions {
+    text {
+      content: "level"
+      begin_offset: 21849
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 9.777434752322733e-05
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 16116
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "progress"
+  type_: OTHER
+  salience: 9.742586553329602e-05
+  mentions {
+    text {
+      content: "progress"
+      begin_offset: 12407
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "state"
+  type_: LOCATION
+  salience: 9.61606201599352e-05
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 15836
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 9.615207090973854e-05
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 16063
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "states"
+  type_: LOCATION
+  salience: 9.614357986720279e-05
+  mentions {
+    text {
+      content: "states"
+      begin_offset: 16196
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Minnesota"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/04ykg"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Minnesota"
+  }
+  salience: 9.584907093085349e-05
+  mentions {
+    text {
+      content: "Minnesota"
+      begin_offset: 18657
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Minnesota"
+      begin_offset: 18946
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Minnesota"
+      begin_offset: 19051
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "scoreboard"
+  type_: OTHER
+  salience: 9.430494537809864e-05
+  mentions {
+    text {
+      content: "scoreboard"
+      begin_offset: 7352
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Electoral College"
+  type_: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/0kq2y"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Electoral_college"
+  }
+  salience: 9.36574797378853e-05
+  mentions {
+    text {
+      content: "Electoral College"
+      begin_offset: 15169
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Electoral College"
+      begin_offset: 15559
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Southwest"
+  type_: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/0gztl"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Southwest_Airlines"
+  }
+  salience: 9.236367623088881e-05
+  mentions {
+    text {
+      content: "Southwest"
+      begin_offset: 14747
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 9.222115477314219e-05
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 15945
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "votes"
+  type_: OTHER
+  salience: 9.222115477314219e-05
+  mentions {
+    text {
+      content: "votes"
+      begin_offset: 15904
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "vote"
+  type_: EVENT
+  salience: 9.219672938343138e-05
+  mentions {
+    text {
+      content: "vote"
+      begin_offset: 16286
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "election day votes"
+  type_: OTHER
+  salience: 9.217282058671117e-05
+  mentions {
+    text {
+      content: "election day votes"
+      begin_offset: 16648
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "victory"
+  type_: OTHER
+  salience: 9.192694415105507e-05
+  mentions {
+    text {
+      content: "victory"
+      begin_offset: 22230
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "victory"
+  type_: OTHER
+  salience: 9.18922814889811e-05
+  mentions {
+    text {
+      content: "victory"
+      begin_offset: 22908
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 9.187535033561289e-05
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 23145
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 9.183680231217295e-05
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 24272
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "snafus"
+  type_: OTHER
+  salience: 9.183357178699225e-05
+  mentions {
+    text {
+      content: "snafus"
+      begin_offset: 8882
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Nevada"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/059_c"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Nevada"
+  }
+  salience: 9.107076766667888e-05
+  mentions {
+    text {
+      content: "Nevada"
+      begin_offset: 14877
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Nevada"
+      begin_offset: 23739
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "president"
+  type_: PERSON
+  salience: 9.062552271643654e-05
+  mentions {
+    text {
+      content: "president"
+      begin_offset: 18828
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Arizona Phoenix"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0d35y"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Phoenix,_Arizona"
+  }
+  salience: 8.988173794932663e-05
+  mentions {
+    text {
+      content: "Arizona Phoenix"
+      begin_offset: 7099
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Phoenix"
+      begin_offset: 7123
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Phoenix"
+      begin_offset: 10662
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "state"
+      begin_offset: 10656
+    }
+    type_: COMMON
+  }
+  mentions {
+    text {
+      content: "Phoenix"
+      begin_offset: 10696
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "half"
+  type_: OTHER
+  salience: 8.952830103226006e-05
+  mentions {
+    text {
+      content: "half"
+      begin_offset: 18934
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "seats"
+  type_: OTHER
+  salience: 8.947611058829352e-05
+  mentions {
+    text {
+      content: "seats"
+      begin_offset: 20023
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "fortunes"
+  type_: OTHER
+  salience: 8.947611058829352e-05
+  mentions {
+    text {
+      content: "fortunes"
+      begin_offset: 20050
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "seats"
+  type_: OTHER
+  salience: 8.945716399466619e-05
+  mentions {
+    text {
+      content: "seats"
+      begin_offset: 20575
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "track"
+  type_: OTHER
+  salience: 8.939629333326593e-05
+  mentions {
+    text {
+      content: "track"
+      begin_offset: 21393
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lot"
+  type_: OTHER
+  salience: 8.879505912773311e-05
+  mentions {
+    text {
+      content: "lot"
+      begin_offset: 24015
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lot"
+  type_: OTHER
+  salience: 8.879505912773311e-05
+  mentions {
+    text {
+      content: "lot"
+      begin_offset: 24054
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lot"
+  type_: OTHER
+  salience: 8.876907668309286e-05
+  mentions {
+    text {
+      content: "lot"
+      begin_offset: 24577
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "polls"
+  type_: OTHER
+  salience: 8.856222120812163e-05
+  mentions {
+    text {
+      content: "polls"
+      begin_offset: 17510
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "gap"
+  type_: OTHER
+  salience: 8.554098894819617e-05
+  mentions {
+    text {
+      content: "gap"
+      begin_offset: 6350
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "fortunes"
+  type_: OTHER
+  salience: 8.413189061684534e-05
+  mentions {
+    text {
+      content: "fortunes"
+      begin_offset: 19944
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "point"
+  type_: OTHER
+  salience: 8.40208085719496e-05
+  mentions {
+    text {
+      content: "point"
+      begin_offset: 18922
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Republican"
+  type_: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/07wbk"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+  }
+  salience: 8.344653906533495e-05
+  mentions {
+    text {
+      content: "Republican"
+      begin_offset: 7258
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Republican"
+      begin_offset: 10210
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Republican"
+      begin_offset: 19990
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Republicans"
+      begin_offset: 16250
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Republicans"
+      begin_offset: 21021
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Republicans"
+      begin_offset: 21229
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Republican Party"
+      begin_offset: 24292
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Hannah South Carolina"
+  type_: PERSON
+  salience: 8.244891796493903e-05
+  mentions {
+    text {
+      content: "Hannah South Carolina"
+      begin_offset: 20635
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Asana"
+  type_: CONSUMER_GOOD
+  salience: 8.126282773446292e-05
+  mentions {
+    text {
+      content: "Asana"
+      begin_offset: 12265
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Nobody"
+  type_: PERSON
+  salience: 8.050642645685002e-05
+  mentions {
+    text {
+      content: "Nobody"
+      begin_offset: 20708
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "incumbents"
+  type_: PERSON
+  salience: 7.858041499275714e-05
+  mentions {
+    text {
+      content: "incumbents"
+      begin_offset: 20001
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "nature"
+  type_: OTHER
+  salience: 7.858041499275714e-05
+  mentions {
+    text {
+      content: "nature"
+      begin_offset: 20097
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "bunch"
+  type_: OTHER
+  salience: 7.85637748776935e-05
+  mentions {
+    text {
+      content: "bunch"
+      begin_offset: 20546
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Divergence"
+  type_: OTHER
+  salience: 7.85637748776935e-05
+  mentions {
+    text {
+      content: "Divergence"
+      begin_offset: 20390
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "exception"
+  type_: OTHER
+  salience: 7.855283911339939e-05
+  mentions {
+    text {
+      content: "exception"
+      begin_offset: 20689
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "amount"
+  type_: OTHER
+  salience: 7.854202704038471e-05
+  mentions {
+    text {
+      content: "amount"
+      begin_offset: 20784
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "mind"
+  type_: OTHER
+  salience: 7.849997200537473e-05
+  mentions {
+    text {
+      content: "mind"
+      begin_offset: 21628
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "remarks"
+  type_: OTHER
+  salience: 7.848974200896919e-05
+  mentions {
+    text {
+      content: "remarks"
+      begin_offset: 21774
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "doubt"
+  type_: OTHER
+  salience: 7.84305520937778e-05
+  mentions {
+    text {
+      content: "doubt"
+      begin_offset: 23168
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "kind"
+  type_: OTHER
+  salience: 7.80542177380994e-05
+  mentions {
+    text {
+      content: "kind"
+      begin_offset: 22182
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "speech"
+  type_: EVENT
+  salience: 7.753477257210761e-05
+  mentions {
+    text {
+      content: "speech"
+      begin_offset: 22162
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Suburban"
+  type_: LOCATION
+  salience: 7.613824709551409e-05
+  mentions {
+    text {
+      content: "Suburban"
+      begin_offset: 9025
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "majority"
+  type_: PERSON
+  salience: 7.568242290290073e-05
+  mentions {
+    text {
+      content: "majority"
+      begin_offset: 20976
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "situation"
+  type_: OTHER
+  salience: 7.361790630966425e-05
+  mentions {
+    text {
+      content: "situation"
+      begin_offset: 22508
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "process"
+  type_: OTHER
+  salience: 7.359949086094275e-05
+  mentions {
+    text {
+      content: "process"
+      begin_offset: 22799
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "thing"
+  type_: OTHER
+  salience: 7.359043229371309e-05
+  mentions {
+    text {
+      content: "thing"
+      begin_offset: 23061
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "daily"
+  type_: ORGANIZATION
+  salience: 7.352942338911816e-05
+  mentions {
+    text {
+      content: "daily"
+      begin_offset: 24613
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "daily"
+  type_: OTHER
+  salience: 7.350859959842637e-05
+  mentions {
+    text {
+      content: "daily"
+      begin_offset: 25208
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "winner"
+  type_: PERSON
+  salience: 7.336776616284624e-05
+  mentions {
+    text {
+      content: "winner"
+      begin_offset: 22409
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Lee"
+  type_: PERSON
+  salience: 6.921581370988861e-05
+  mentions {
+    text {
+      content: "Lee"
+      begin_offset: 12637
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Coalition"
+  type_: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/0pyfv"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Coalition"
+  }
+  salience: 6.756953371223062e-05
+  mentions {
+    text {
+      content: "Coalition"
+      begin_offset: 12142
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Wendy"
+  type_: PERSON
+  salience: 6.753898924216628e-05
+  mentions {
+    text {
+      content: "Wendy"
+      begin_offset: 12594
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Asin"
+  type_: PERSON
+  salience: 6.753898924216628e-05
+  mentions {
+    text {
+      content: "Asin"
+      begin_offset: 12583
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Battleground"
+  type_: LOCATION
+  salience: 6.693185423500836e-05
+  mentions {
+    text {
+      content: "Battleground"
+      begin_offset: 8411
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "place"
+  type_: OTHER
+  salience: 6.577960448339581e-05
+  mentions {
+    text {
+      content: "place"
+      begin_offset: 16733
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "points"
+  type_: OTHER
+  salience: 6.577403837582096e-05
+  mentions {
+    text {
+      content: "points"
+      begin_offset: 16871
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "point"
+  type_: OTHER
+  salience: 6.569989636773244e-05
+  mentions {
+    text {
+      content: "point"
+      begin_offset: 18221
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "all"
+  type_: OTHER
+  salience: 6.43699531792663e-05
+  mentions {
+    text {
+      content: "all"
+      begin_offset: 16140
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "everyone"
+  type_: PERSON
+  salience: 6.409107299987227e-05
+  mentions {
+    text {
+      content: "everyone"
+      begin_offset: 12367
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "charge"
+  type_: OTHER
+  salience: 6.354977085720748e-05
+  mentions {
+    text {
+      content: "charge"
+      begin_offset: 25019
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "attempt"
+  type_: OTHER
+  salience: 6.251599552342668e-05
+  mentions {
+    text {
+      content: "attempt"
+      begin_offset: 22213
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "anything"
+  type_: OTHER
+  salience: 6.247710552997887e-05
+  mentions {
+    text {
+      content: "anything"
+      begin_offset: 23422
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "math"
+  type_: OTHER
+  salience: 6.245838449103758e-05
+  mentions {
+    text {
+      content: "math"
+      begin_offset: 24026
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "rest"
+  type_: OTHER
+  salience: 6.245469558052719e-05
+  mentions {
+    text {
+      content: "rest"
+      begin_offset: 24280
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "suburbs"
+  type_: LOCATION
+  salience: 6.245469558052719e-05
+  mentions {
+    text {
+      content: "suburbs"
+      begin_offset: 24158
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "fact"
+  type_: OTHER
+  salience: 6.245469558052719e-05
+  mentions {
+    text {
+      content: "fact"
+      begin_offset: 24324
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "environment"
+  type_: OTHER
+  salience: 6.242226663744077e-05
+  mentions {
+    text {
+      content: "environment"
+      begin_offset: 24880
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "help"
+  type_: OTHER
+  salience: 6.241875234991312e-05
+  mentions {
+    text {
+      content: "help"
+      begin_offset: 25058
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "stress"
+  type_: OTHER
+  salience: 6.241875234991312e-05
+  mentions {
+    text {
+      content: "stress"
+      begin_offset: 24945
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "push"
+  type_: OTHER
+  salience: 6.221533112693578e-05
+  mentions {
+    text {
+      content: "push"
+      begin_offset: 18976
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "rest"
+  type_: OTHER
+  salience: 6.167930405354127e-05
+  mentions {
+    text {
+      content: "rest"
+      begin_offset: 24546
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "polling"
+  type_: EVENT
+  salience: 6.124287028796971e-05
+  mentions {
+    text {
+      content: "polling"
+      begin_offset: 16720
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "pollster"
+  type_: PERSON
+  salience: 6.120731995906681e-05
+  mentions {
+    text {
+      content: "pollster"
+      begin_offset: 17233
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "media polling"
+  type_: OTHER
+  salience: 6.116865552030504e-05
+  mentions {
+    text {
+      content: "media polling"
+      begin_offset: 18182
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Margin"
+  type_: OTHER
+  salience: 6.116396252764389e-05
+  mentions {
+    text {
+      content: "Margin"
+      begin_offset: 18230
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "margin"
+  type_: OTHER
+  salience: 6.115005817264318e-05
+  mentions {
+    text {
+      content: "margin"
+      begin_offset: 18738
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "polling"
+  type_: OTHER
+  salience: 6.043392568244599e-05
+  mentions {
+    text {
+      content: "polling"
+      begin_offset: 17835
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Ohio"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/05kkh"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Ohio"
+  }
+  salience: 5.972263534204103e-05
+  mentions {
+    text {
+      content: "Ohio"
+      begin_offset: 19258
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Ohio"
+      begin_offset: 19530
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Iowa"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/03s0w"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Iowa"
+  }
+  salience: 5.968862024019472e-05
+  mentions {
+    text {
+      content: "Iowa"
+      begin_offset: 20619
+    }
+    type_: PROPER
+  }
+  mentions {
+    text {
+      content: "Iowa"
+      begin_offset: 20702
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "way"
+  type_: OTHER
+  salience: 5.777426849817857e-05
+  mentions {
+    text {
+      content: "way"
+      begin_offset: 16674
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "some"
+  type_: OTHER
+  salience: 5.7699337048688903e-05
+  mentions {
+    text {
+      content: "some"
+      begin_offset: 18170
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "paths"
+  type_: OTHER
+  salience: 5.698861423297785e-05
+  mentions {
+    text {
+      content: "paths"
+      begin_offset: 18337
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Michigan State"
+  type_: ORGANIZATION
+  salience: 5.6688244512770325e-05
+  mentions {
+    text {
+      content: "Michigan State"
+      begin_offset: 18621
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "lot"
+  type_: OTHER
+  salience: 5.5815664381952956e-05
+  mentions {
+    text {
+      content: "lot"
+      begin_offset: 17274
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "message"
+  type_: OTHER
+  salience: 5.4903135605854914e-05
+  mentions {
+    text {
+      content: "message"
+      begin_offset: 22246
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "spin"
+  type_: OTHER
+  salience: 5.489616160048172e-05
+  mentions {
+    text {
+      content: "spin"
+      begin_offset: 22467
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "irresponsibility buttocks"
+  type_: OTHER
+  salience: 5.488926399266347e-05
+  mentions {
+    text {
+      content: "irresponsibility buttocks"
+      begin_offset: 22653
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "par"
+  type_: OTHER
+  salience: 5.488926399266347e-05
+  mentions {
+    text {
+      content: "par"
+      begin_offset: 22583
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "faith"
+  type_: OTHER
+  salience: 5.488243550644256e-05
+  mentions {
+    text {
+      content: "faith"
+      begin_offset: 22776
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "legitimacy"
+  type_: OTHER
+  salience: 5.487231828738004e-05
+  mentions {
+    text {
+      content: "legitimacy"
+      begin_offset: 23184
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "divisions"
+  type_: OTHER
+  salience: 5.487231828738004e-05
+  mentions {
+    text {
+      content: "divisions"
+      begin_offset: 23332
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "ass"
+  type_: OTHER
+  salience: 5.486566078616306e-05
+  mentions {
+    text {
+      content: "ass"
+      begin_offset: 23502
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sleep"
+  type_: OTHER
+  salience: 5.485906876856461e-05
+  mentions {
+    text {
+      content: "sleep"
+      begin_offset: 23664
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "health"
+  type_: OTHER
+  salience: 5.481773041537963e-05
+  mentions {
+    text {
+      content: "health"
+      begin_offset: 25042
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "anxiety"
+  type_: OTHER
+  salience: 5.481773041537963e-05
+  mentions {
+    text {
+      content: "anxiety"
+      begin_offset: 24920
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "depression"
+  type_: OTHER
+  salience: 5.481773041537963e-05
+  mentions {
+    text {
+      content: "depression"
+      begin_offset: 24931
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "visit"
+  type_: EVENT
+  salience: 5.4814656323287636e-05
+  mentions {
+    text {
+      content: "visit"
+      begin_offset: 25182
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "picture"
+  type_: WORK_OF_ART
+  salience: 5.381304436014034e-05
+  mentions {
+    text {
+      content: "picture"
+      begin_offset: 16046
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "many"
+  type_: OTHER
+  salience: 5.379424328566529e-05
+  mentions {
+    text {
+      content: "many"
+      begin_offset: 16461
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sort"
+  type_: OTHER
+  salience: 5.371164297685027e-05
+  mentions {
+    text {
+      content: "sort"
+      begin_offset: 18375
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "actors"
+  type_: PERSON
+  salience: 5.353705273591913e-05
+  mentions {
+    text {
+      content: "actors"
+      begin_offset: 23277
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "same"
+  type_: OTHER
+  salience: 5.1785613322863355e-05
+  mentions {
+    text {
+      content: "same"
+      begin_offset: 17530
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "part"
+  type_: OTHER
+  salience: 5.155572944204323e-05
+  mentions {
+    text {
+      content: "part"
+      begin_offset: 16177
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "people"
+  type_: PERSON
+  salience: 5.096764652989805e-05
+  mentions {
+    text {
+      content: "people"
+      begin_offset: 23576
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "city"
+  type_: LOCATION
+  salience: 5.0955517508555204e-05
+  mentions {
+    text {
+      content: "city"
+      begin_offset: 24134
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "poll"
+  type_: OTHER
+  salience: 5.090699050924741e-05
+  mentions {
+    text {
+      content: "poll"
+      begin_offset: 16843
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "counseling service"
+  type_: OTHER
+  salience: 4.967638960806653e-05
+  mentions {
+    text {
+      content: "counseling service"
+      begin_offset: 24714
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "lead"
+  type_: OTHER
+  salience: 4.905531750409864e-05
+  mentions {
+    text {
+      content: "lead"
+      begin_offset: 16599
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "blowout leads"
+  type_: OTHER
+  salience: 4.899169653072022e-05
+  mentions {
+    text {
+      content: "blowout leads"
+      begin_offset: 18132
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Kansas"
+  type_: LOCATION
+  metadata {
+    key: "mid"
+    value: "/m/0488g"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Kansas"
+  }
+  salience: 4.640617407858372e-05
+  mentions {
+    text {
+      content: "Kansas"
+      begin_offset: 20625
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "map"
+  type_: WORK_OF_ART
+  salience: 4.6289067540783435e-05
+  mentions {
+    text {
+      content: "map"
+      begin_offset: 16098
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "results"
+  type_: OTHER
+  salience: 4.626514783012681e-05
+  mentions {
+    text {
+      content: "results"
+      begin_offset: 16914
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "contents"
+  type_: OTHER
+  salience: 4.625355722964741e-05
+  mentions {
+    text {
+      content: "contents"
+      begin_offset: 17095
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "contents"
+  type_: OTHER
+  salience: 4.6245961129898205e-05
+  mentions {
+    text {
+      content: "contents"
+      begin_offset: 17200
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "results"
+  type_: OTHER
+  salience: 4.6238466893555596e-05
+  mentions {
+    text {
+      content: "results"
+      begin_offset: 17391
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "cases"
+  type_: OTHER
+  salience: 4.6238466893555596e-05
+  mentions {
+    text {
+      content: "cases"
+      begin_offset: 17436
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "cases"
+  type_: OTHER
+  salience: 4.6223769459174946e-05
+  mentions {
+    text {
+      content: "cases"
+      begin_offset: 17854
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "sides"
+  type_: OTHER
+  salience: 4.62201533082407e-05
+  mentions {
+    text {
+      content: "sides"
+      begin_offset: 18001
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "side"
+  type_: OTHER
+  salience: 4.62165626231581e-05
+  mentions {
+    text {
+      content: "side"
+      begin_offset: 18046
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "question"
+  type_: OTHER
+  salience: 4.6205921535147354e-05
+  mentions {
+    text {
+      content: "question"
+      begin_offset: 18399
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "mail"
+  type_: OTHER
+  salience: 4.310415897634812e-05
+  mentions {
+    text {
+      content: "mail"
+      begin_offset: 15991
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "voting"
+  type_: OTHER
+  salience: 4.310415897634812e-05
+  mentions {
+    text {
+      content: "voting"
+      begin_offset: 15999
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "poles"
+  type_: OTHER
+  salience: 4.3063457269454375e-05
+  mentions {
+    text {
+      content: "poles"
+      begin_offset: 17111
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "poles"
+  type_: OTHER
+  salience: 4.303911191527732e-05
+  mentions {
+    text {
+      content: "poles"
+      begin_offset: 17724
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "campaigns"
+  type_: EVENT
+  salience: 4.3032359826611355e-05
+  mentions {
+    text {
+      content: "campaigns"
+      begin_offset: 17875
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "side"
+  type_: PERSON
+  salience: 4.292074663680978e-05
+  mentions {
+    text {
+      content: "side"
+      begin_offset: 18068
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "inclination"
+  type_: OTHER
+  salience: 4.1444152884650975e-05
+  mentions {
+    text {
+      content: "inclination"
+      begin_offset: 18422
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "unrest"
+  type_: EVENT
+  salience: 4.1334787965752184e-05
+  mentions {
+    text {
+      content: "unrest"
+      begin_offset: 23382
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "advance"
+  type_: OTHER
+  salience: 3.9310303691308945e-05
+  mentions {
+    text {
+      content: "advance"
+      begin_offset: 15975
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "balance"
+  type_: OTHER
+  salience: 3.929647209588438e-05
+  mentions {
+    text {
+      content: "balance"
+      begin_offset: 16341
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "somebody"
+  type_: PERSON
+  salience: 3.928302612621337e-05
+  mentions {
+    text {
+      content: "somebody"
+      begin_offset: 16785
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "anything"
+  type_: OTHER
+  salience: 3.927972284145653e-05
+  mentions {
+    text {
+      content: "anything"
+      begin_offset: 16992
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "media"
+  type_: OTHER
+  salience: 3.924789416487329e-05
+  mentions {
+    text {
+      content: "media"
+      begin_offset: 17805
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "numbers"
+  type_: OTHER
+  salience: 3.828982517006807e-05
+  mentions {
+    text {
+      content: "numbers"
+      begin_offset: 17956
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "claims"
+  type_: OTHER
+  salience: 3.481370731606148e-05
+  mentions {
+    text {
+      content: "claims"
+      begin_offset: 21747
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "point spread"
+  type_: EVENT
+  salience: 3.449637006269768e-05
+  mentions {
+    text {
+      content: "point spread"
+      begin_offset: 17016
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "support"
+  type_: OTHER
+  salience: 3.4471129765734076e-05
+  mentions {
+    text {
+      content: "support"
+      begin_offset: 17694
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "reservoir"
+  type_: LOCATION
+  salience: 3.4471129765734076e-05
+  mentions {
+    text {
+      content: "reservoir"
+      begin_offset: 17681
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "right"
+  type_: OTHER
+  salience: 3.446572009124793e-05
+  mentions {
+    text {
+      content: "right"
+      begin_offset: 18015
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "category"
+  type_: OTHER
+  salience: 3.4457734727766365e-05
+  mentions {
+    text {
+      content: "category"
+      begin_offset: 18269
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "uncertainty"
+  type_: OTHER
+  salience: 3.445249603828415e-05
+  mentions {
+    text {
+      content: "uncertainty"
+      begin_offset: 18548
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "fog"
+  type_: OTHER
+  salience: 3.445249603828415e-05
+  mentions {
+    text {
+      content: "fog"
+      begin_offset: 18541
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Election Day"
+  type_: EVENT
+  metadata {
+    key: "mid"
+    value: "/m/0bx_1fs"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Election_day"
+  }
+  salience: 3.413718150113709e-05
+  mentions {
+    text {
+      content: "Election Day"
+      begin_offset: 16294
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "byline"
+  type_: OTHER
+  salience: 3.405727329663932e-05
+  mentions {
+    text {
+      content: "byline"
+      begin_offset: 17262
+    }
+    type_: COMMON
+  }
+}
+entities {
+  name: "Siena College"
+  type_: ORGANIZATION
+  metadata {
+    key: "mid"
+    value: "/m/01pdf0"
+  }
+  metadata {
+    key: "wikipedia_url"
+    value: "https://en.wikipedia.org/wiki/Siena_College"
+  }
+  salience: 2.732957000262104e-05
+  mentions {
+    text {
+      content: "Siena College"
+      begin_offset: 16829
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Bulls"
+  type_: ORGANIZATION
+  salience: 2.0370742277009413e-05
+  mentions {
+    text {
+      content: "Bulls"
+      begin_offset: 17216
+    }
+    type_: PROPER
+  }
+}
+entities {
+  name: "Wednesday, November 4th"
+  type_: DATE
+  metadata {
+    key: "day"
+    value: "4"
+  }
+  metadata {
+    key: "month"
+    value: "11"
+  }
+  mentions {
+    text {
+      content: "Wednesday, November 4th"
+      begin_offset: 762
+    }
+  }
+}
+entities {
+  name: "2016"
+  type_: DATE
+  metadata {
+    key: "year"
+    value: "2016"
+  }
+  mentions {
+    text {
+      content: "2016"
+      begin_offset: 6080
+    }
+  }
+}
+entities {
+  name: "2016"
+  type_: DATE
+  metadata {
+    key: "year"
+    value: "2016"
+  }
+  mentions {
+    text {
+      content: "2016"
+      begin_offset: 7933
+    }
+  }
+}
+entities {
+  name: "1"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "1"
+      begin_offset: 1361
+    }
+  }
+}
+entities {
+  name: "four"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4"
+  }
+  mentions {
+    text {
+      content: "four"
+      begin_offset: 4008
+    }
+  }
+}
+entities {
+  name: "six"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "6"
+  }
+  mentions {
+    text {
+      content: "six"
+      begin_offset: 10753
+    }
+  }
+}
+entities {
+  name: "2016"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "2016"
+  }
+  mentions {
+    text {
+      content: "2016"
+      begin_offset: 6080
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 13366
+    }
+  }
+}
+entities {
+  name: "two"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "2"
+  }
+  mentions {
+    text {
+      content: "two"
+      begin_offset: 15078
+    }
+  }
+}
+entities {
+  name: "four"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4"
+  }
+  mentions {
+    text {
+      content: "four"
+      begin_offset: 11711
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 6626
+    }
+  }
+}
+entities {
+  name: "two"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "2"
+  }
+  mentions {
+    text {
+      content: "two"
+      begin_offset: 13082
+    }
+  }
+}
+entities {
+  name: "two"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "2"
+  }
+  mentions {
+    text {
+      content: "two"
+      begin_offset: 13908
+    }
+  }
+}
+entities {
+  name: "11"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "11"
+  }
+  mentions {
+    text {
+      content: "11"
+      begin_offset: 18218
+    }
+  }
+}
+entities {
+  name: "three"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "3"
+  }
+  mentions {
+    text {
+      content: "three"
+      begin_offset: 15632
+    }
+  }
+}
+entities {
+  name: "270"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "270"
+  }
+  mentions {
+    text {
+      content: "270"
+      begin_offset: 15046
+    }
+  }
+}
+entities {
+  name: "10"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "10"
+  }
+  mentions {
+    text {
+      content: "10"
+      begin_offset: 9869
+    }
+  }
+}
+entities {
+  name: "three"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "3"
+  }
+  mentions {
+    text {
+      content: "three"
+      begin_offset: 15794
+    }
+  }
+}
+entities {
+  name: "One"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "One"
+      begin_offset: 18702
+    }
+  }
+}
+entities {
+  name: "four"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4"
+  }
+  mentions {
+    text {
+      content: "four"
+      begin_offset: 10068
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 21543
+    }
+  }
+}
+entities {
+  name: "40"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "40"
+  }
+  mentions {
+    text {
+      content: "40"
+      begin_offset: 1363
+    }
+  }
+}
+entities {
+  name: "65"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "65"
+  }
+  mentions {
+    text {
+      content: "65"
+      begin_offset: 11647
+    }
+  }
+}
+entities {
+  name: "1 million"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1000000.000000"
+  }
+  mentions {
+    text {
+      content: "1 million"
+      begin_offset: 24990
+    }
+  }
+}
+entities {
+  name: "four"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4"
+  }
+  mentions {
+    text {
+      content: "four"
+      begin_offset: 463
+    }
+  }
+}
+entities {
+  name: "5"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "5"
+  }
+  mentions {
+    text {
+      content: "5"
+      begin_offset: 24473
+    }
+  }
+}
+entities {
+  name: "270"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "270"
+  }
+  mentions {
+    text {
+      content: "270"
+      begin_offset: 15165
+    }
+  }
+}
+entities {
+  name: "10"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "10"
+  }
+  mentions {
+    text {
+      content: "10"
+      begin_offset: 25128
+    }
+  }
+}
+entities {
+  name: "4"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4"
+  }
+  mentions {
+    text {
+      content: "4"
+      begin_offset: 782
+    }
+  }
+}
+entities {
+  name: "270"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "270"
+  }
+  mentions {
+    text {
+      content: "270"
+      begin_offset: 15275
+    }
+  }
+}
+entities {
+  name: "11"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "11"
+  }
+  mentions {
+    text {
+      content: "11"
+      begin_offset: 16868
+    }
+  }
+}
+entities {
+  name: "four"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4"
+  }
+  mentions {
+    text {
+      content: "four"
+      begin_offset: 9721
+    }
+  }
+}
+entities {
+  name: "three"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "3"
+  }
+  mentions {
+    text {
+      content: "three"
+      begin_offset: 15466
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 22988
+    }
+  }
+}
+entities {
+  name: "two"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "2"
+  }
+  mentions {
+    text {
+      content: "two"
+      begin_offset: 24586
+    }
+  }
+}
+entities {
+  name: "11"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "11"
+  }
+  mentions {
+    text {
+      content: "11"
+      begin_offset: 17013
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 10260
+    }
+  }
+}
+entities {
+  name: "4.6 million"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4600000.000000"
+  }
+  mentions {
+    text {
+      content: "4.6 million"
+      begin_offset: 10113
+    }
+  }
+}
+entities {
+  name: "59"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "59"
+  }
+  mentions {
+    text {
+      content: "59"
+      begin_offset: 24475
+    }
+  }
+}
+entities {
+  name: "48"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "48"
+  }
+  mentions {
+    text {
+      content: "48"
+      begin_offset: 24826
+    }
+  }
+}
+entities {
+  name: "a hundred and fifty thousand"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "150000"
+  }
+  mentions {
+    text {
+      content: "a hundred and fifty thousand"
+      begin_offset: 10836
+    }
+  }
+}
+entities {
+  name: "a hundred thousand"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "100000"
+  }
+  mentions {
+    text {
+      content: "a hundred thousand"
+      begin_offset: 10020
+    }
+  }
+}
+entities {
+  name: "two"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "2"
+  }
+  mentions {
+    text {
+      content: "two"
+      begin_offset: 2659
+    }
+  }
+}
+entities {
+  name: "77 thousand"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "77000.000000"
+  }
+  mentions {
+    text {
+      content: "77 thousand"
+      begin_offset: 6405
+    }
+  }
+}
+entities {
+  name: "a hundred and fourteen thousand"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "114000"
+  }
+  mentions {
+    text {
+      content: "a hundred and fourteen thousand"
+      begin_offset: 8691
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 11217
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 15161
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 8932
+    }
+  }
+}
+entities {
+  name: "20"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "20"
+  }
+  mentions {
+    text {
+      content: "20"
+      begin_offset: 11402
+    }
+  }
+}
+entities {
+  name: "2016"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "2016"
+  }
+  mentions {
+    text {
+      content: "2016"
+      begin_offset: 7933
+    }
+  }
+}
+entities {
+  name: "one"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "one"
+      begin_offset: 3603
+    }
+  }
+}
+entities {
+  name: "One"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "1"
+  }
+  mentions {
+    text {
+      content: "One"
+      begin_offset: 9010
+    }
+  }
+}
+entities {
+  name: "three"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "3"
+  }
+  mentions {
+    text {
+      content: "three"
+      begin_offset: 20877
+    }
+  }
+}
+entities {
+  name: "four"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4"
+  }
+  mentions {
+    text {
+      content: "four"
+      begin_offset: 18706
+    }
+  }
+}
+entities {
+  name: "18"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "18"
+  }
+  mentions {
+    text {
+      content: "18"
+      begin_offset: 11405
+    }
+  }
+}
+entities {
+  name: "four"
+  type_: NUMBER
+  metadata {
+    key: "value"
+    value: "4"
+  }
+  mentions {
+    text {
+      content: "four"
+      begin_offset: 20886
+    }
+  }
+}
+language: "en"
+
