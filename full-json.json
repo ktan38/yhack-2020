@@ -1,0 +1,3006 @@
+results {
+  alternatives {
+    transcript: "I\'m here to tell you tonight. We believe we\'re on track to win this election."
+    confidence: 0.8888633251190186
+    words {
+      start_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 2
+      }
+      word: "I\'m"
+    }
+    words {
+      start_time {
+        seconds: 2
+      }
+      end_time {
+        seconds: 2
+        nanos: 200000000
+      }
+      word: "here"
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 600000000
+      }
+      word: "tell"
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 700000000
+      }
+      word: "you"
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      word: "tonight."
+    }
+    words {
+      start_time {
+        seconds: 3
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 900000000
+      }
+      word: "We"
+    }
+    words {
+      start_time {
+        seconds: 3
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 4
+        nanos: 400000000
+      }
+      word: "believe"
+    }
+    words {
+      start_time {
+        seconds: 4
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 4
+        nanos: 500000000
+      }
+      word: "we\'re"
+    }
+    words {
+      start_time {
+        seconds: 4
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 4
+        nanos: 700000000
+      }
+      word: "on"
+    }
+    words {
+      start_time {
+        seconds: 4
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 5
+      }
+      word: "track"
+    }
+    words {
+      start_time {
+        seconds: 5
+      }
+      end_time {
+        seconds: 5
+        nanos: 200000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 5
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 5
+        nanos: 300000000
+      }
+      word: "win"
+    }
+    words {
+      start_time {
+        seconds: 5
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 5
+        nanos: 500000000
+      }
+      word: "this"
+    }
+    words {
+      start_time {
+        seconds: 5
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 6
+        nanos: 200000000
+      }
+      word: "election."
+    }
+  }
+}
+results {
+  alternatives {
+    transcript: " From The New York Times. I\'m Michael borrow. This is a daily today. So we\'ll be going to the US Supreme Court. We want all voting to start. It ain\'t over till every vote is counted. Every ballot is counted Joe Biden is calling for patients and President Trump is threatening legal action as millions of votes are still uncounted. We don\'t want them to find any ballots at"
+    confidence: 0.9069351553916931
+    words {
+      start_time {
+        seconds: 7
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 500000000
+      }
+      word: "From"
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 600000000
+      }
+      word: "The"
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      word: "New"
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      word: "York"
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 8
+        nanos: 400000000
+      }
+      word: "Times."
+    }
+    words {
+      start_time {
+        seconds: 8
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 8
+        nanos: 900000000
+      }
+      word: "I\'m"
+    }
+    words {
+      start_time {
+        seconds: 8
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 9
+        nanos: 200000000
+      }
+      word: "Michael"
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 9
+        nanos: 800000000
+      }
+      word: "borrow."
+    }
+    words {
+      start_time {
+        seconds: 10
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 200000000
+      }
+      word: "This"
+    }
+    words {
+      start_time {
+        seconds: 11
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 500000000
+      }
+      word: "is"
+    }
+    words {
+      start_time {
+        seconds: 11
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 600000000
+      }
+      word: "a"
+    }
+    words {
+      start_time {
+        seconds: 11
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 12
+        nanos: 100000000
+      }
+      word: "daily"
+    }
+    words {
+      start_time {
+        seconds: 12
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 13
+        nanos: 400000000
+      }
+      word: "today."
+    }
+    words {
+      start_time {
+        seconds: 13
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 100000000
+      }
+      word: "So"
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 300000000
+      }
+      word: "we\'ll"
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 400000000
+      }
+      word: "be"
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 900000000
+      }
+      word: "going"
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 15
+        nanos: 300000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 15
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 15
+        nanos: 800000000
+      }
+      word: "the"
+    }
+    words {
+      start_time {
+        seconds: 15
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 16
+        nanos: 100000000
+      }
+      word: "US"
+    }
+    words {
+      start_time {
+        seconds: 16
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 16
+        nanos: 600000000
+      }
+      word: "Supreme"
+    }
+    words {
+      start_time {
+        seconds: 16
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 300000000
+      }
+      word: "Court."
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 900000000
+      }
+      word: "We"
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 18
+        nanos: 200000000
+      }
+      word: "want"
+    }
+    words {
+      start_time {
+        seconds: 18
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 18
+        nanos: 900000000
+      }
+      word: "all"
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 700000000
+      }
+      word: "voting"
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 900000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 20
+        nanos: 600000000
+      }
+      word: "start."
+    }
+    words {
+      start_time {
+        seconds: 20
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 21
+      }
+      word: "It"
+    }
+    words {
+      start_time {
+        seconds: 21
+      }
+      end_time {
+        seconds: 21
+        nanos: 200000000
+      }
+      word: "ain\'t"
+    }
+    words {
+      start_time {
+        seconds: 21
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 21
+        nanos: 500000000
+      }
+      word: "over"
+    }
+    words {
+      start_time {
+        seconds: 21
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 21
+        nanos: 700000000
+      }
+      word: "till"
+    }
+    words {
+      start_time {
+        seconds: 21
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 22
+        nanos: 100000000
+      }
+      word: "every"
+    }
+    words {
+      start_time {
+        seconds: 22
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 22
+        nanos: 400000000
+      }
+      word: "vote"
+    }
+    words {
+      start_time {
+        seconds: 22
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 22
+        nanos: 600000000
+      }
+      word: "is"
+    }
+    words {
+      start_time {
+        seconds: 22
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 100000000
+      }
+      word: "counted."
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 500000000
+      }
+      word: "Every"
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 900000000
+      }
+      word: "ballot"
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 24
+      }
+      word: "is"
+    }
+    words {
+      start_time {
+        seconds: 24
+      }
+      end_time {
+        seconds: 24
+        nanos: 700000000
+      }
+      word: "counted"
+    }
+    words {
+      start_time {
+        seconds: 24
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 25
+        nanos: 100000000
+      }
+      word: "Joe"
+    }
+    words {
+      start_time {
+        seconds: 25
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 25
+        nanos: 600000000
+      }
+      word: "Biden"
+    }
+    words {
+      start_time {
+        seconds: 25
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 25
+        nanos: 800000000
+      }
+      word: "is"
+    }
+    words {
+      start_time {
+        seconds: 25
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 300000000
+      }
+      word: "calling"
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 500000000
+      }
+      word: "for"
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 27
+        nanos: 200000000
+      }
+      word: "patients"
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 27
+        nanos: 800000000
+      }
+      word: "and"
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 28
+        nanos: 300000000
+      }
+      word: "President"
+    }
+    words {
+      start_time {
+        seconds: 28
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 28
+        nanos: 800000000
+      }
+      word: "Trump"
+    }
+    words {
+      start_time {
+        seconds: 28
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 29
+      }
+      word: "is"
+    }
+    words {
+      start_time {
+        seconds: 29
+      }
+      end_time {
+        seconds: 29
+        nanos: 700000000
+      }
+      word: "threatening"
+    }
+    words {
+      start_time {
+        seconds: 29
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 30
+        nanos: 100000000
+      }
+      word: "legal"
+    }
+    words {
+      start_time {
+        seconds: 30
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 30
+        nanos: 600000000
+      }
+      word: "action"
+    }
+    words {
+      start_time {
+        seconds: 30
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 31
+        nanos: 200000000
+      }
+      word: "as"
+    }
+    words {
+      start_time {
+        seconds: 31
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 31
+        nanos: 900000000
+      }
+      word: "millions"
+    }
+    words {
+      start_time {
+        seconds: 31
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 32
+        nanos: 100000000
+      }
+      word: "of"
+    }
+    words {
+      start_time {
+        seconds: 32
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 32
+        nanos: 600000000
+      }
+      word: "votes"
+    }
+    words {
+      start_time {
+        seconds: 32
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 32
+        nanos: 800000000
+      }
+      word: "are"
+    }
+    words {
+      start_time {
+        seconds: 32
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 33
+        nanos: 300000000
+      }
+      word: "still"
+    }
+    words {
+      start_time {
+        seconds: 33
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 34
+        nanos: 300000000
+      }
+      word: "uncounted."
+    }
+    words {
+      start_time {
+        seconds: 34
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 34
+        nanos: 700000000
+      }
+      word: "We"
+    }
+    words {
+      start_time {
+        seconds: 34
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 34
+        nanos: 900000000
+      }
+      word: "don\'t"
+    }
+    words {
+      start_time {
+        seconds: 34
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 35
+        nanos: 100000000
+      }
+      word: "want"
+    }
+    words {
+      start_time {
+        seconds: 35
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 35
+        nanos: 300000000
+      }
+      word: "them"
+    }
+    words {
+      start_time {
+        seconds: 35
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 35
+        nanos: 500000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 35
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 36
+      }
+      word: "find"
+    }
+    words {
+      start_time {
+        seconds: 36
+      }
+      end_time {
+        seconds: 36
+        nanos: 200000000
+      }
+      word: "any"
+    }
+    words {
+      start_time {
+        seconds: 36
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 36
+        nanos: 800000000
+      }
+      word: "ballots"
+    }
+    words {
+      start_time {
+        seconds: 36
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 37
+      }
+      word: "at"
+    }
+  }
+}
+results {
+  alternatives {
+    transcript: " Four o\'clock in the morning and add them to the list. Okay."
+    confidence: 0.8684702515602112
+    words {
+      start_time {
+        seconds: 37
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 37
+        nanos: 900000000
+      }
+      word: "Four"
+    }
+    words {
+      start_time {
+        seconds: 37
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 300000000
+      }
+      word: "o\'clock"
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 400000000
+      }
+      word: "in"
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 500000000
+      }
+      word: "the"
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 39
+      }
+      word: "morning"
+    }
+    words {
+      start_time {
+        seconds: 39
+      }
+      end_time {
+        seconds: 39
+        nanos: 200000000
+      }
+      word: "and"
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 400000000
+      }
+      word: "add"
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 600000000
+      }
+      word: "them"
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 800000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 900000000
+      }
+      word: "the"
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 40
+        nanos: 500000000
+      }
+      word: "list."
+    }
+    words {
+      start_time {
+        seconds: 40
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 41
+        nanos: 200000000
+      }
+      word: "Okay."
+    }
+  }
+}
+results {
+  alternatives {
+    transcript: " It\'s going to take time to count the votes. We\'re going to win, Pennsylvania."
+    confidence: 0.7915592789649963
+    words {
+      start_time {
+        seconds: 44
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 200000000
+      }
+      word: "It\'s"
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 300000000
+      }
+      word: "going"
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 400000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 700000000
+      }
+      word: "take"
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 900000000
+      }
+      word: "time"
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 45
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 45
+      }
+      end_time {
+        seconds: 45
+        nanos: 300000000
+      }
+      word: "count"
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 45
+        nanos: 400000000
+      }
+      word: "the"
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 45
+        nanos: 700000000
+      }
+      word: "votes."
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 45
+        nanos: 800000000
+      }
+      word: "We\'re"
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 46
+      }
+      word: "going"
+    }
+    words {
+      start_time {
+        seconds: 46
+      }
+      end_time {
+        seconds: 46
+        nanos: 100000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 46
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 46
+        nanos: 400000000
+      }
+      word: "win,"
+    }
+    words {
+      start_time {
+        seconds: 46
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 47
+        nanos: 400000000
+      }
+      word: "Pennsylvania."
+    }
+  }
+}
+results {
+  alternatives {
+    transcript: " Alex burns on where the election stands and the remaining paths to Victory. We were getting ready to win this election."
+    confidence: 0.8158342242240906
+    words {
+      start_time {
+        seconds: 48
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 49
+        nanos: 100000000
+      }
+      word: "Alex"
+    }
+    words {
+      start_time {
+        seconds: 49
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 49
+        nanos: 600000000
+      }
+      word: "burns"
+    }
+    words {
+      start_time {
+        seconds: 49
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 50
+        nanos: 100000000
+      }
+      word: "on"
+    }
+    words {
+      start_time {
+        seconds: 50
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 50
+        nanos: 400000000
+      }
+      word: "where"
+    }
+    words {
+      start_time {
+        seconds: 50
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 50
+        nanos: 600000000
+      }
+      word: "the"
+    }
+    words {
+      start_time {
+        seconds: 50
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 51
+        nanos: 200000000
+      }
+      word: "election"
+    }
+    words {
+      start_time {
+        seconds: 51
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 51
+        nanos: 800000000
+      }
+      word: "stands"
+    }
+    words {
+      start_time {
+        seconds: 52
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 52
+        nanos: 800000000
+      }
+      word: "and"
+    }
+    words {
+      start_time {
+        seconds: 52
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 53
+      }
+      word: "the"
+    }
+    words {
+      start_time {
+        seconds: 53
+      }
+      end_time {
+        seconds: 53
+        nanos: 800000000
+      }
+      word: "remaining"
+    }
+    words {
+      start_time {
+        seconds: 53
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 54
+        nanos: 400000000
+      }
+      word: "paths"
+    }
+    words {
+      start_time {
+        seconds: 54
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 54
+        nanos: 700000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 54
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 55
+        nanos: 200000000
+      }
+      word: "Victory."
+    }
+    words {
+      start_time {
+        seconds: 55
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 55
+        nanos: 600000000
+      }
+      word: "We"
+    }
+    words {
+      start_time {
+        seconds: 55
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 55
+        nanos: 800000000
+      }
+      word: "were"
+    }
+    words {
+      start_time {
+        seconds: 55
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 56
+        nanos: 300000000
+      }
+      word: "getting"
+    }
+    words {
+      start_time {
+        seconds: 56
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 56
+        nanos: 600000000
+      }
+      word: "ready"
+    }
+    words {
+      start_time {
+        seconds: 56
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 56
+        nanos: 900000000
+      }
+      word: "to"
+    }
+    words {
+      start_time {
+        seconds: 56
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 57
+        nanos: 100000000
+      }
+      word: "win"
+    }
+    words {
+      start_time {
+        seconds: 57
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 57
+        nanos: 300000000
+      }
+      word: "this"
+    }
+    words {
+      start_time {
+        seconds: 57
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 57
+        nanos: 900000000
+      }
+      word: "election."
+    }
+  }
+}
+results {
+  alternatives {
+    words {
+      start_time {
+        seconds: 1
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 2
+      }
+      word: "I\'m"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 2
+      }
+      end_time {
+        seconds: 2
+        nanos: 200000000
+      }
+      word: "here"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      word: "to"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 600000000
+      }
+      word: "tell"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 2
+        nanos: 700000000
+      }
+      word: "you"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 2
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 400000000
+      }
+      word: "tonight."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 3
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 3
+        nanos: 900000000
+      }
+      word: "We"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 3
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 4
+        nanos: 400000000
+      }
+      word: "believe"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 4
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 4
+        nanos: 500000000
+      }
+      word: "we\'re"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 4
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 4
+        nanos: 700000000
+      }
+      word: "on"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 4
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 5
+      }
+      word: "track"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 5
+      }
+      end_time {
+        seconds: 5
+        nanos: 200000000
+      }
+      word: "to"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 5
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 5
+        nanos: 300000000
+      }
+      word: "win"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 5
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 5
+        nanos: 500000000
+      }
+      word: "this"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 5
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 6
+        nanos: 200000000
+      }
+      word: "election."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 500000000
+      }
+      word: "From"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 600000000
+      }
+      word: "The"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      word: "New"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      word: "York"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 7
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 8
+        nanos: 400000000
+      }
+      word: "Times."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 8
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 8
+        nanos: 900000000
+      }
+      word: "I\'m"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 8
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 9
+        nanos: 200000000
+      }
+      word: "Michael"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 9
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 9
+        nanos: 800000000
+      }
+      word: "borrow."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 10
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 200000000
+      }
+      word: "This"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 11
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 500000000
+      }
+      word: "is"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 11
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 11
+        nanos: 600000000
+      }
+      word: "a"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 11
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 12
+        nanos: 100000000
+      }
+      word: "daily"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 12
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 13
+        nanos: 400000000
+      }
+      word: "today."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 13
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 100000000
+      }
+      word: "So"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 300000000
+      }
+      word: "we\'ll"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 400000000
+      }
+      word: "be"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 14
+        nanos: 900000000
+      }
+      word: "going"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 14
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 15
+        nanos: 300000000
+      }
+      word: "to"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 15
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 15
+        nanos: 800000000
+      }
+      word: "the"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 15
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 16
+        nanos: 100000000
+      }
+      word: "US"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 16
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 16
+        nanos: 600000000
+      }
+      word: "Supreme"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 16
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 300000000
+      }
+      word: "Court."
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 17
+        nanos: 900000000
+      }
+      word: "We"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 17
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 18
+        nanos: 200000000
+      }
+      word: "want"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 18
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 18
+        nanos: 900000000
+      }
+      word: "all"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 700000000
+      }
+      word: "voting"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 19
+        nanos: 900000000
+      }
+      word: "to"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 19
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 20
+        nanos: 600000000
+      }
+      word: "start."
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 20
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 21
+      }
+      word: "It"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 21
+      }
+      end_time {
+        seconds: 21
+        nanos: 200000000
+      }
+      word: "ain\'t"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 21
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 21
+        nanos: 500000000
+      }
+      word: "over"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 21
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 21
+        nanos: 700000000
+      }
+      word: "till"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 21
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 22
+        nanos: 100000000
+      }
+      word: "every"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 22
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 22
+        nanos: 400000000
+      }
+      word: "vote"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 22
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 22
+        nanos: 600000000
+      }
+      word: "is"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 22
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 100000000
+      }
+      word: "counted."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 500000000
+      }
+      word: "Every"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 23
+        nanos: 900000000
+      }
+      word: "ballot"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 23
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 24
+      }
+      word: "is"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 24
+      }
+      end_time {
+        seconds: 24
+        nanos: 700000000
+      }
+      word: "counted"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 24
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 25
+        nanos: 100000000
+      }
+      word: "Joe"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 25
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 25
+        nanos: 600000000
+      }
+      word: "Biden"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 25
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 25
+        nanos: 800000000
+      }
+      word: "is"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 25
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 300000000
+      }
+      word: "calling"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 26
+        nanos: 500000000
+      }
+      word: "for"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 26
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 27
+        nanos: 200000000
+      }
+      word: "patients"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 27
+        nanos: 800000000
+      }
+      word: "and"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 27
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 28
+        nanos: 300000000
+      }
+      word: "President"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 28
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 28
+        nanos: 800000000
+      }
+      word: "Trump"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 28
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 29
+      }
+      word: "is"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 29
+      }
+      end_time {
+        seconds: 29
+        nanos: 700000000
+      }
+      word: "threatening"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 29
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 30
+        nanos: 100000000
+      }
+      word: "legal"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 30
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 30
+        nanos: 600000000
+      }
+      word: "action"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 30
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 31
+        nanos: 200000000
+      }
+      word: "as"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 31
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 31
+        nanos: 900000000
+      }
+      word: "millions"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 31
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 32
+        nanos: 100000000
+      }
+      word: "of"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 32
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 32
+        nanos: 600000000
+      }
+      word: "votes"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 32
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 32
+        nanos: 800000000
+      }
+      word: "are"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 32
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 33
+        nanos: 300000000
+      }
+      word: "still"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 33
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 34
+        nanos: 300000000
+      }
+      word: "uncounted."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 34
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 34
+        nanos: 700000000
+      }
+      word: "We"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 34
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 34
+        nanos: 900000000
+      }
+      word: "don\'t"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 34
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 35
+        nanos: 100000000
+      }
+      word: "want"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 35
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 35
+        nanos: 300000000
+      }
+      word: "them"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 35
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 35
+        nanos: 500000000
+      }
+      word: "to"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 35
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 36
+      }
+      word: "find"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 36
+      }
+      end_time {
+        seconds: 36
+        nanos: 200000000
+      }
+      word: "any"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 36
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 36
+        nanos: 800000000
+      }
+      word: "ballots"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 36
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 37
+      }
+      word: "at"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 37
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 37
+        nanos: 900000000
+      }
+      word: "Four"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 37
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 300000000
+      }
+      word: "o\'clock"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 400000000
+      }
+      word: "in"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 38
+        nanos: 500000000
+      }
+      word: "the"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 38
+        nanos: 500000000
+      }
+      end_time {
+        seconds: 39
+      }
+      word: "morning"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+      }
+      end_time {
+        seconds: 39
+        nanos: 200000000
+      }
+      word: "and"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 400000000
+      }
+      word: "add"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 600000000
+      }
+      word: "them"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 800000000
+      }
+      word: "to"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 39
+        nanos: 900000000
+      }
+      word: "the"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 39
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 40
+        nanos: 500000000
+      }
+      word: "list."
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 40
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 41
+        nanos: 200000000
+      }
+      word: "Okay."
+      speaker_tag: 2
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 200000000
+      }
+      word: "It\'s"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 300000000
+      }
+      word: "going"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 400000000
+      }
+      word: "to"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 700000000
+      }
+      word: "take"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 44
+        nanos: 900000000
+      }
+      word: "time"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 44
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 45
+      }
+      word: "to"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 45
+      }
+      end_time {
+        seconds: 45
+        nanos: 300000000
+      }
+      word: "count"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 45
+        nanos: 400000000
+      }
+      word: "the"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 45
+        nanos: 700000000
+      }
+      word: "votes."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 45
+        nanos: 800000000
+      }
+      word: "We\'re"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 45
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 46
+      }
+      word: "going"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 46
+      }
+      end_time {
+        seconds: 46
+        nanos: 100000000
+      }
+      word: "to"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 46
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 46
+        nanos: 400000000
+      }
+      word: "win,"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 46
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 47
+        nanos: 400000000
+      }
+      word: "Pennsylvania."
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 48
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 49
+        nanos: 100000000
+      }
+      word: "Alex"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 49
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 49
+        nanos: 600000000
+      }
+      word: "burns"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 49
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 50
+        nanos: 100000000
+      }
+      word: "on"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 50
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 50
+        nanos: 400000000
+      }
+      word: "where"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 50
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 50
+        nanos: 600000000
+      }
+      word: "the"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 50
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 51
+        nanos: 200000000
+      }
+      word: "election"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 51
+        nanos: 200000000
+      }
+      end_time {
+        seconds: 51
+        nanos: 800000000
+      }
+      word: "stands"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 52
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 52
+        nanos: 800000000
+      }
+      word: "and"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 52
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 53
+      }
+      word: "the"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 53
+      }
+      end_time {
+        seconds: 53
+        nanos: 800000000
+      }
+      word: "remaining"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 53
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 54
+        nanos: 400000000
+      }
+      word: "paths"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 54
+        nanos: 400000000
+      }
+      end_time {
+        seconds: 54
+        nanos: 700000000
+      }
+      word: "to"
+      speaker_tag: 1
+    }
+    words {
+      start_time {
+        seconds: 54
+        nanos: 700000000
+      }
+      end_time {
+        seconds: 55
+        nanos: 200000000
+      }
+      word: "Victory."
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 55
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 55
+        nanos: 600000000
+      }
+      word: "We"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 55
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 55
+        nanos: 800000000
+      }
+      word: "were"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 55
+        nanos: 800000000
+      }
+      end_time {
+        seconds: 56
+        nanos: 300000000
+      }
+      word: "getting"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 56
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 56
+        nanos: 600000000
+      }
+      word: "ready"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 56
+        nanos: 600000000
+      }
+      end_time {
+        seconds: 56
+        nanos: 900000000
+      }
+      word: "to"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 56
+        nanos: 900000000
+      }
+      end_time {
+        seconds: 57
+        nanos: 100000000
+      }
+      word: "win"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 57
+        nanos: 100000000
+      }
+      end_time {
+        seconds: 57
+        nanos: 300000000
+      }
+      word: "this"
+      speaker_tag: 4
+    }
+    words {
+      start_time {
+        seconds: 57
+        nanos: 300000000
+      }
+      end_time {
+        seconds: 57
+        nanos: 900000000
+      }
+      word: "election."
+      speaker_tag: 4
+    }
+  }
+}
+
