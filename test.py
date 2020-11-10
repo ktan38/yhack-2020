@@ -28,7 +28,7 @@ def transcribe_gcs(gcs_uri):
             min_speaker_count=4,
             max_speaker_count=4,
         )
-        
+
     )
 
     operation = client.long_running_recognize(
@@ -40,7 +40,7 @@ def transcribe_gcs(gcs_uri):
     print("Waiting for operation to complete...")
     response = operation.result(timeout=1000)
 
-    
+
     with open('full-json.json', 'w') as f:
         print(response, file=f)
 
@@ -71,7 +71,7 @@ def transcribe_gcs(gcs_uri):
         for words in speaker_tags.alternatives[0].words:
             curr_speaker = words.speaker_tag
             if curr_speaker != prev_speaker:
-                
+
                 blocks.append(curr_block)
                 print("\n" + str(prev_speaker), file=f)
                 prev_speaker = curr_speaker
@@ -83,7 +83,7 @@ def transcribe_gcs(gcs_uri):
 
     return response
 
-response = transcribe_gcs("gs://yhack_audio/trimmed-daily.flac")
+response = transcribe_gcs("gs://sample_audio_v1/trimmed-daily.flac")
 beg_word = response.results[1].alternatives[0].words[9]
 
 
