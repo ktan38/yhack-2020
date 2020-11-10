@@ -48,8 +48,9 @@ def transcribe_gcs(gcs_uri):
 
     #tester
 
-    sec = timedelta(0,4,0,1)
-    process_timestamp(response, sec)
+    sec = timedelta(0,10,0,1)
+    print("proccessed timestamps:    ")
+    print(process_timestamp(response, sec))
     # Each result is for a consecutive portion of the audio. Iterate through
     # them to get the transcripts for the entire audio file.
     for result in response.results:
