@@ -15,7 +15,6 @@ def count_words(result):
     count = 0
     for i in result.alternatives[0].words:
         count += 1
-    print(count)
     return count
 
 def in_range_time(pin_time, start_time, end_time):
@@ -30,7 +29,10 @@ def in_range_time(pin_time, start_time, end_time):
 def search_for_proper(sentence, entity_dict):
     sent = sentence.split(" ")
     tags = set()
+    # print(sent)
     for word in sent:
+        if word == "":
+            continue
         if word[-1] == ".":
             word = word[:-1]
         for key in entity_dict:
@@ -38,7 +40,7 @@ def search_for_proper(sentence, entity_dict):
                 for tag in entity_dict[key][0]:
                     tags.add(tag)
     return tags
-print(search_for_proper("Hi im a hi.", {"hi": [["hi", "hi"],1] , "im":[["me"],1],}))
+# print(search_for_proper("Hi im a hi.", {"hi": [["hi", "hi"],1] , "im":[["me"],1],}))
 
 # TODO: num appears
 
@@ -46,35 +48,50 @@ print(search_for_proper("Hi im a hi.", {"hi": [["hi", "hi"],1] , "im":[["me"],1]
 def find_start_end_time(json, time):
     response = json
 
-    for result in response.results:
+    res_count = count_results(response)
+    print(res_count)
+    for j in range(res_count):
         # print("\n\n\n")
         # print("\t\t" + str(time))
 
         # print(result.alternatives[0].words[0], result.alternatives[0].words[-1])
+
+        result = response.results[j]
         start_t = result.alternatives[0].words[0].start_time
-        end_t = result.alternatives[0].words[-1].end_time
+        if j == res_count - 1:
+            end_t = result.alternatives[0].words[-1].end_time
+        else:
+            end_t = response.results[j+1].alternatives[0].words[0].start_time
         
         if in_range_time(time, start_t, end_t):
 
             count = count_words(result)
             for i in range(count):
                 word_start = result.alternatives[0].words[i].start_time
-                word_end = result.alternatives[0].words[i].end_time
+                if i == count - 1:
+                    word_end = result.alternatives[0].words[i].end_time
+                else:
+                    word_end = result.alternatives[0].words[i+1].start_time
                 if in_range_time(time, word_start, word_end):
                     return (result.alternatives[0].words[i].word, 
                             result.alternatives[0].words[i].start_time, 
                             result.alternatives[0].words[i].end_time,
                             result.alternatives[0].words[i])
+    
                     
 
 def process_timestamp(json, time):
     response = json
 
     pin_word, start_t, end_t, word_object = find_start_end_time(json, time)
+    if pin_word == start_t == end_t == word_object == 0:
+        print("pinned something before they even said something you fucking idiot")
+        return
     beg_word, beg_start, beg_end, sentence = get_beg_sentence(response, word_object)
     topics_response, entities = topics()
     entity_dict = entity_filter_search(entities, topics_response)
-
+    tags = search_for_proper(sentence, entity_dict)
+    return tags
     
 
 

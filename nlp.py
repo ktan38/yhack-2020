@@ -69,17 +69,18 @@ def topics():
 
         # If there are no errors in the request, we print the output
         if topics_response.isSuccessful():
-            print("\nThe request to 'Topics Extraction' finished successfully!\n")
+            # print("\nThe request to 'Topics Extraction' finished successfully!\n")
 
             entities = topics_response.getEntities()
             if entities:
-                print("\tEntities detected (" + str(len(entities)) + "):\n")
+                print("\t Found entities")
+                # print("\tEntities detected (" + str(len(entities)) + "):\n")
 
-                for entity in entities:
-                    print("\t\t" + topics_response.getTopicForm(entity) + ' --> ' +
-                        topics_response.getTypeLastNode(topics_response.getOntoType(entity)) + ' --> ' + 
-                        topics_response.getOntoType(entity) + ' --> ' +
-                        str(topics_response.getNumberOfAppearances(entity)) +"\n")
+                # for entity in entities:
+                #     print("\t\t" + topics_response.getTopicForm(entity) + ' --> ' +
+                #         topics_response.getTypeLastNode(topics_response.getOntoType(entity)) + ' --> ' + 
+                #         topics_response.getOntoType(entity) + ' --> ' +
+                #         str(topics_response.getNumberOfAppearances(entity)) +"\n")
                     
 
             else:
