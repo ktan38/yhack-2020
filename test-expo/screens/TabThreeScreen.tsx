@@ -19,10 +19,10 @@ export default function TabThreeScreen() {
   function test_request (e) {
     console.log('wowwwwWWWWWWWWWWWW!!!!!!');
     e.preventDefault();
-    fetch("https://192.168.1.8:3000", {
+    fetch("192.168.1.8:3000", {
       method: 'POST',
       headers: {
-        'Content-Type': 'multipart/form-data'
+        'Content-Type': 'application/json'
       },
       body: JSON.stringify({
         test_input: "Hello!",

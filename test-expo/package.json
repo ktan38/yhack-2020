@@ -6,7 +6,9 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "enable_local": "plutil -insert NSAppTransportSecurity -xml \"<dict><key>NSExceptionDomains</key><dict><key>localhost</key><dict><key>NSExceptionAllowsInsecureHTTPLoads</key><true/></dict></dict></dict>\" ios/myProject/Info.plist",
+    "remove_local": "plutil -remove NSAppTransportSecurity ios/myProject/Info.plist"
   },
   "jest": {
     "preset": "jest-expo"
