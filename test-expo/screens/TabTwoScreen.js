@@ -1,33 +1,33 @@
 import * as React from 'react';
-import { StyleSheet, TouchableOpacity, Switch } from 'react-native';
-
+import { StyleSheet, TouchableOpacity, Switch, Platform, Button, ActivityIndicator, Image,TextInput, SafeAreaView, Flatlist } from 'react-native';
+import ToggleSwitch from 'toggle-switch-react-native';
+import { Searchbar } from 'react-native-paper';
+import { LinearGradient } from 'expo-linear-gradient';
 import EditScreenInfo from '../components/EditScreenInfo';
 import { Text, View } from '../components/Themed';
 import { Audio } from 'expo-av';
 
 const podcast = require('../audio/An_Unfinished_Election-79105199.mp3');
 
-function Tog() {
-  const [isEnabled, setIsEnabled] = React.useState(false);
-  const toggleSwitch = () => setIsEnabled(previousState => !previousState);
-
-    return(
-      // <View style={styles.container}>
-      <Switch
-        trackColor={{ false: "#767577", true: "#81b0ff" }}
-        thumbColor={isEnabled ? "#f5dd4b" : "#f4f3f4"}
-        ios_backgroundColor="#3e3e3e"
-        onValueChange={toggleSwitch}
-        value={isEnabled}
-      />
-      /* </View> */
-    );
-}
 
 export default class App extends React.Component {
   state = {
     sounds: []
   };
+
+  toggleState = {
+    isOnDefaultToggleSwitch: true,
+    isOnLargeToggleSwitch: false,
+    isOnBlueToggleSwitch: false
+  };
+
+  searchState = {
+    firstQuery: '',
+  };
+
+  onToggle(isOn) {
+    console.log("Changed to " + isOn);
+  }
 
   
 
@@ -71,12 +71,29 @@ export default class App extends React.Component {
     this.setState({ soundObj: null });
   };
 
-  toggle = new Tog();
   render() {
-    // this.load()
+    const { firstQuery } = this.searchState;
     return (
       <View style={styles.container}>
-        toggle
+        <LinearGradient
+        // Background Linear Gradient
+        colors={['#565EB2', '#161A39']}
+        style={{
+          flex: 1,
+          alignSelf: 'stretch',
+        }}>
+        <View
+        style = {{
+          flex: 0.5,
+          backgroundColor: null,
+        }}>
+          <Searchbar
+            style={{marginTop: 60, marginLeft: 20, marginRight: 20}}
+            placeholder="Search"
+            onChangeText={query => { this.setState({ firstQuery: query }); }}
+            value={firstQuery}
+          />
+        </View>
         <TouchableOpacity onPress={this.load}>
           <Text style={styles.buttonText}>Load</Text>
         </TouchableOpacity>
@@ -89,22 +106,27 @@ export default class App extends React.Component {
         <TouchableOpacity onPress={this.stop}>
           <Text style={styles.buttonText}>Stop</Text>
         </TouchableOpacity>
+        <ToggleSwitch
+          label="Listening Mode"
+          size="large"
+          onColor="#2196F3"
+          isOn={this.state.isOnBlueToggleSwitch}
+          onToggle={isOnBlueToggleSwitch => {
+            this.setState({ isOnBlueToggleSwitch });
+            this.onToggle(isOnBlueToggleSwitch);
+          }}
+        />
         <TouchableOpacity onPress={this.unload}>
           <Text style={styles.buttonText}>Unload</Text>
         </TouchableOpacity>
+        
+        </LinearGradient>
       </View>
       
     );
   }
 }
 
-// export default Toggle = () => {
-  
-
-//   return (
-
-//   );
-// }
 
 
 
